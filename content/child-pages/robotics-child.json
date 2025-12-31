@@ -1,0 +1,71 @@
+{
+  "page_slug": "robotics",
+  "page_title": "Robotics | Synchrony Labs",
+  "parent_page": {
+    "name": "Gastrointestinal",
+    "url": "/areas-of-expertise/gastrointestinal"
+  },
+  "hero": {
+    "headline": "Robotics",
+    "description": "Surgical robotic platforms face unique challenges proving teleoperation accuracy translates to precise tissue manipulation during minimally invasive procedures. We test articulation performance, force feedback systems, and visualization quality using comprehensive validation protocols that address both 510(k) and PMA regulatory pathways."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Robotic surgical systems must demonstrate that surgeon console inputs translate precisely to instrument motions at surgical sites while providing adequate force feedback and visualization throughout complex procedures. Articulating instruments require mechanical precision validation across multiple degrees of freedom showing position accuracy within millimeter tolerances. Tremor filtration systems need effectiveness assessment proving unwanted motion removal without latency introduction that compromises surgical control. Haptic feedback mechanisms demand calibration validation ensuring force transmission accuracy enables appropriate tissue handling. Each system component addresses different surgical performance requirements needing comprehensive integration validation across complete platform configurations.\n\nWe characterize robotic platform performance through articulation precision measurement across complete range of motion while tracking position accuracy, repeatability, and mechanical stability throughout thousands of actuation cycles. Force measurement systems quantify instrument jaw closure forces, tissue grasping capabilities, and haptic feedback calibration accuracy enabling appropriate tissue manipulation without trauma. High-speed imaging documents instrument motion smoothness and tremor filtration effectiveness while latency measurement protocols assess response time between console input and instrument action. Visualization system validation characterizes image resolution, three-dimensional depth perception accuracy, and illumination quality throughout procedures. Our surgical suites accommodate complete robotic platforms including patient carts, vision systems, and surgeon consoles configured to match clinical operating room setups.\n\nASTM F2682 surgical robotic system standards guide validation protocols while IEC 60601 electrical safety requirements address electromechanical system assessment. Testing supports both 510(k) pathways for platform modifications demonstrating substantial equivalence and PMA submissions for breakthrough robotic technologies requiring comprehensive safety and effectiveness validation. Whether characterizing multi-articulated instrument performance, validating three-dimensional visualization accuracy, or assessing complete system integration, our protocols generate data addressing surgical robotics regulatory expectations and clinical performance requirements.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Articulation Precision and Range of Motion",
+          "description": "Mechanical testing characterizes instrument articulation accuracy across multiple degrees of freedom while measuring position repeatability, angular precision, and range of motion capabilities that determine surgical manipulation versatility and targeting accuracy requirements."
+        },
+        {
+          "title": "Force Feedback Calibration",
+          "description": "Haptic system validation measures force transmission accuracy between tissue contact and surgeon feedback while characterizing grasping force precision, tension sensing reliability, and calibration stability that enable appropriate tissue handling throughout procedures."
+        },
+        {
+          "title": "Tremor Filtration Effectiveness",
+          "description": "Motion analysis quantifies unwanted tremor removal efficiency while measuring filtration system latency introduction and motion smoothness preservation that determine surgical precision enhancement without control compromise or delayed response artifacts."
+        },
+        {
+          "title": "Visualization System Performance",
+          "description": "Three-dimensional imaging validation characterizes depth perception accuracy, resolution quality, and color fidelity while measuring illumination uniformity and stereoscopic vision precision that determine anatomical visualization capability and surgical decision-making support."
+        },
+        {
+          "title": "Instrument Durability and Reliability",
+          "description": "Accelerated lifecycle testing simulates thousands of articulation cycles while measuring mechanical wear patterns, joint stability maintenance, and actuator performance degradation that determine instrument replacement intervals and system reliability throughout clinical use."
+        },
+        {
+          "title": "System Integration and Safety",
+          "description": "Complete platform validation assesses emergency stop response times, collision detection effectiveness, and fail-safe mechanism reliability while measuring electromagnetic compatibility and electrical safety compliance per IEC 60601 standards for complex electromechanical surgical systems."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Robotics",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Robotic Platform Testing Infrastructure",
+        "description": "Purpose-built surgical suites accommodate complete robotic surgical systems with space for patient carts, surgeon consoles, and vision systems configured to replicate clinical operating room environments. Our mechanical testing equipment characterizes articulation precision and force feedback accuracy while high-speed imaging capabilities document instrument motion quality and tremor filtration effectiveness. Electrical safety testing validates IEC 60601 compliance for electromechanical surgical platforms."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Surgical Robotics Expertise",
+        "description": "Comprehensive robotic system validation protocols address articulating instrument performance, visualization system quality, and complete platform integration across minimally invasive surgical applications. Our team understands teleoperation requirements, force feedback system design, and the specific safety and performance endpoints surgical robotic manufacturers must demonstrate for regulatory approvals. This cardiovascular surgical foundation translates directly to robotic validation addressing precision manipulation, complex articulation assessment, and the comprehensive testing FDA robotic surgical system submissions require."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Surgical Robotics Regulatory Success",
+        "description": "Successful regulatory submissions for surgical robotic platforms and articulating instruments demonstrate our ability to generate data addressing complex electromechanical system requirements. We understand robotic surgical pathways including 510(k) substantial equivalence demonstration for platform modifications, comprehensive safety validation per ASTM surgical robotics standards, and the specific performance endpoints FDA expects for robotic system approvals requiring integration assessment across visualization, articulation, and control components."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Robotics Program?",
+    "description": "Our gastrointestinal device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

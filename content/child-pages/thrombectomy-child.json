@@ -1,0 +1,71 @@
+{
+  "page_slug": "thrombectomy",
+  "page_title": "Mechanical Thrombectomy Testing Services | Synchrony Labs",
+  "parent_page": {
+    "name": "Neurovascular",
+    "url": "/areas-of-expertise/cardiovascular/neurovascular"
+  },
+  "hero": {
+    "headline": "Mechanical Thrombectomy Testing Services",
+    "description": "Comprehensive preclinical validation for stent retriever and mechanical thrombectomy devices addressing clot engagement mechanics, first-pass recanalization rates, and vessel wall preservation for acute ischemic stroke treatment under GLP compliance."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Mechanical thrombectomy devices must demonstrate effective clot engagement and retrieval while navigating tortuous cerebrovascular anatomy without damaging fragile vessel walls. Stent retrievers require validation of expansion dynamics that capture thrombus material while preventing distal embolization from clot fragmentation. Device tracking through internal carotid siphon tortuosity and middle cerebral artery angulation demands pushability and flexibility characterization across representative anatomical geometries.\n\nWe evaluate thrombectomy performance using anatomically accurate cerebrovascular phantoms replicating circle of Willis geometry while standardized synthetic clot formulations representing acute ischemic stroke thrombi enable reproducible testing. Our catheterization laboratories feature high-resolution biplane fluoroscopy and flow circuits simulating cerebral hemodynamics that capture clot-device interaction dynamics. Specialized protocols quantify first-pass recanalization rates, retrieval force optimization, and embolic fragment generation using downstream particle capture systems.\n\nFDA guidance for neurothrombectomy devices requires both bench testing demonstrating mechanical performance and animal studies evaluating vessel wall safety. ISO 10993 biocompatibility standards guide blood-contacting component assessment while device-specific protocols address navigation through representative cerebrovascular tortuosity. Our GLP-compliant testing supports 510(k) pathways under product code POL and NRY classifications. Whether validating next-generation stent retrievers or combined aspiration-retrieval platforms, our protocols generate data addressing FDA expectations for Class II neurovascular mechanical thrombectomy devices.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Clot Engagement and Retrieval Force Characterization",
+          "description": "Standardized synthetic clot formulations representing fibrin-rich and red blood cell-rich thrombi enable consistent engagement testing while force sensors quantify retrieval mechanics and optimal pull speeds for complete clot capture."
+        },
+        {
+          "title": "First-Pass Recanalization Assessment",
+          "description": "Controlled testing protocols measure single-attempt revascularization success rates across clot compositions and anatomical configurations while tracking procedural time metrics that correlate with clinical outcomes."
+        },
+        {
+          "title": "Cerebrovascular Navigation Testing",
+          "description": "Anatomically accurate phantoms replicate internal carotid siphon, middle cerebral artery branching, and basilar artery geometry while quantifying trackability, pushability, and device conformability through challenging neurovascular access routes."
+        },
+        {
+          "title": "Distal Embolization Quantification",
+          "description": "Downstream particle capture systems measure embolic fragment generation during clot retrieval while particle size analysis characterizes fragmentation patterns that determine periprocedural stroke risk."
+        },
+        {
+          "title": "Vessel Wall Interaction Assessment",
+          "description": "In vivo animal studies evaluate endothelial damage, vessel wall stress, and tissue response following device deployment and retrieval using histopathological analysis of treated arterial segments."
+        },
+        {
+          "title": "Radial Force and Expansion Dynamics",
+          "description": "Specialized fixtures measure stent retriever radial force throughout expansion range while high-speed imaging captures deployment dynamics and clot integration mechanics under simulated blood flow conditions."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Thrombectomy Testing",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Neurovascular Testing Infrastructure",
+        "description": "Dedicated neurovascular laboratories feature biplane fluoroscopy, anatomically accurate cerebrovascular phantoms spanning circle of Willis geometry, and controlled flow circuits replicating cerebral hemodynamics. Our standardized clot formulation protocols ensure reproducible testing across fibrin-rich and red blood cell-rich thrombus compositions while downstream particle capture systems quantify embolic fragment generation."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Acute Stroke Intervention Expertise",
+        "description": "Our team understands cerebrovascular anatomy, clot-device interaction mechanics, and the time-critical requirements distinguishing acute stroke intervention from elective neurovascular procedures. This expertise translates to protocol designs addressing FDA reviewer expectations for first-pass recanalization demonstration, vessel preservation validation, and the specific safety endpoints neurothrombectomy device approvals require."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Thrombectomy Device Regulatory Success",
+        "description": "Our data packages have supported successful FDA clearances for mechanical thrombectomy devices across stent retriever and aspiration categories. We understand 510(k) pathway requirements under product codes POL and NRY including navigation characterization, clot retrieval effectiveness, and the comprehensive preclinical evidence FDA expects for acute ischemic stroke treatment devices."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Thrombectomy Program?",
+    "description": "Our neurovascular device experts are ready to discuss your thrombectomy device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

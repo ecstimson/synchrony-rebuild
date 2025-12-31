@@ -1,0 +1,114 @@
+{
+  "page_slug": "structural-heart",
+  "page_title": "Structural Heart | Synchrony Labs",
+  "parent_hub": {
+    "name": "Cardiovascular",
+    "url": "/areas-of-expertise/cardiovascular"
+  },
+  "hero": {
+    "headline": "Structural Heart",
+    "description": "Transcatheter valve delivery system validation from TAVR deployment mechanics to TEER grasping precision with durability assessment and paravalvular leak quantification."
+  },
+  "sub_services": {
+    "title": "Complete Structural Heart Services",
+    "description": "We provide specialized testing for transcatheter structural heart devices, addressing unique deployment accuracy, hemodynamic performance, and long-term durability requirements across valve repair and replacement platforms.",
+    "cards": [
+      {
+        "icon_name": "Heart",
+        "title": "TAVR",
+        "description": "Transcatheter aortic valve replacement system validation including deployment accuracy assessment, paravalvular leak quantification, coronary flow preservation evaluation, and valve durability protocols addressing hemodynamic performance across ISO 5840 standards.",
+        "link_url": "/areas-of-expertise/cardiovascular/structural-heart/tavr"
+      },
+      {
+        "icon_name": "Paperclip",
+        "title": "MitraClip",
+        "description": "Clip-based mitral valve repair device validation with leaflet grasping characterization, deployment precision assessment, residual mitral regurgitation quantification, and chronic tissue integration evaluation for edge-to-edge repair applications.",
+        "link_url": "/areas-of-expertise/cardiovascular/structural-heart/mitraclip"
+      },
+      {
+        "icon_name": "Link",
+        "title": "TEER",
+        "description": "Transcatheter edge-to-edge repair system validation across mitral and tricuspid applications including grasping force optimization, leaflet tissue characterization, deployment success rates, and regurgitation reduction assessment for degenerative and functional valve disease.",
+        "link_url": "/areas-of-expertise/cardiovascular/structural-heart/teer"
+      },
+      {
+        "icon_name": "CircleDot",
+        "title": "Mitral Valve Replacement",
+        "description": "Transcatheter mitral valve replacement device validation including delivery system navigation, deployment stability in D-shaped annulus, left ventricular outflow tract obstruction assessment, and prosthetic valve performance characterization.",
+        "link_url": "/areas-of-expertise/cardiovascular/structural-heart/mitral-valve-replacement"
+      },
+      {
+        "icon_name": "Triangle",
+        "title": "Tricuspid Valve Replacement",
+        "description": "Transcatheter tricuspid valve replacement platform testing with delivery system assessment in challenging anatomical access, annular sizing validation, regurgitation elimination verification, and right ventricular function preservation protocols.",
+        "link_url": "/areas-of-expertise/cardiovascular/structural-heart/tricuspid-valve-replacement"
+      },
+      {
+        "icon_name": "Shield",
+        "title": "LAA Closure",
+        "description": "Left atrial appendage occlusion device validation including deployment precision characterization, complete LAA sealing assessment, device-related thrombus evaluation, and chronic endothelialization protocols for stroke prevention applications.",
+        "link_url": "/areas-of-expertise/cardiovascular/structural-heart/laa-closure"
+      }
+    ]
+  },
+  "primary_content": {
+    "title": "What We Test",
+    "description": "Structural heart devices correct valvular dysfunction through transcatheter delivery, requiring validation that demonstrates precise deployment in beating hearts while preventing paravalvular leak, coronary obstruction, and conduction disturbances. Transcatheter valve platforms must achieve accurate positioning within diseased native valves or annular structures while maintaining stable anchoring forces throughout 200-400 million cardiac cycles. Edge-to-edge repair systems demand controlled leaflet grasping without tissue damage while LAA closure devices require complete sealing preventing thrombus formation. Each platform category presents unique deployment challenges from calcified aortic valve navigation to D-shaped mitral annulus conformability.\n\nWe evaluate deployment precision using high-resolution fluoroscopy and echocardiographic imaging that captures device positioning, expansion symmetry, and interaction with surrounding structures throughout complete delivery sequences. Our catheterization laboratories feature pressure-gradient measurement systems, Doppler flow analysis, and contrast imaging protocols quantifying paravalvular leak severity, coronary flow preservation, and hemodynamic performance. Specialized anatomical models replicate patient-specific valve pathologies including bicuspid aortic anatomy, functional mitral regurgitation, and challenging LAA morphologies. Durability testing protocols simulate years of cyclic loading through ISO 5840 accelerated wear assessment.\n\nISO 5840 heart valve standards guide structural and hydrodynamic testing while FDA guidance documents for transcatheter heart valve systems inform protocol development addressing deployment characterization, durability requirements, and biocompatibility assessment. Our GLP-compliant testing supports PMA pathways for Class III structural heart devices. Whether validating next-generation balloon-expandable valves, self-expanding platforms, or novel repair technologies, our protocols demonstrate deployment accuracy, hemodynamic performance, and chronic durability that regulatory submissions demand.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Deployment Precision and Positioning Assessment",
+          "description": "High-resolution fluoroscopy and echocardiographic imaging characterizes device deployment accuracy, expansion symmetry, and anatomical positioning while quantifying reposition capabilities, retrieval success rates, and final implant stability across varying valve pathologies."
+        },
+        {
+          "title": "Paravalvular Leak Quantification and Sealing Assessment",
+          "description": "Doppler echocardiography and contrast imaging protocols measure regurgitation severity through standardized grading while pressure-gradient analysis quantifies hemodynamic impact. Specialized protocols assess sealing effectiveness against calcified tissue and anatomical irregularities."
+        },
+        {
+          "title": "ISO 5840 Durability and Accelerated Wear Testing",
+          "description": "Cyclic loading protocols simulate 200-400 million cardiac cycles representing 5-10 years of valve function while monitoring structural integrity, leaflet motion, and hemodynamic performance degradation. Accelerated testing identifies failure modes and validates design improvements."
+        },
+        {
+          "title": "Coronary Flow Preservation and LVOT Assessment",
+          "description": "Selective coronary angiography evaluates ostial obstruction risk while computational flow modeling predicts coronary access maintenance. Left ventricular outflow tract evaluation quantifies gradient changes and obstruction potential following mitral interventions."
+        },
+        {
+          "title": "Tissue Interaction and Chronic Integration Studies",
+          "description": "Histopathological analysis characterizes tissue response at device-valve interfaces, endothelialization progression, and fibrous encapsulation patterns. Leaflet grasping studies for repair devices assess tissue damage, healing, and long-term durability."
+        },
+        {
+          "title": "Conduction System Impact and Rhythm Monitoring",
+          "description": "Continuous ECG monitoring throughout chronic studies detects conduction disturbances, new bundle branch blocks, and complete heart block requiring permanent pacing. Proximity mapping identifies high-risk anatomical relationships with atrioventricular node."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Structural Heart",
+    "description": null,
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Advanced Structural Heart Testing Infrastructure",
+        "description": "Dedicated catheterization laboratories equipped with biplane fluoroscopy, transesophageal echocardiography, and real-time 3D imaging systems enable comprehensive deployment characterization across complex valve anatomies. ISO 5840 compliant durability testers simulate years of valve function through 200-400 million accelerated cycles. Patient-specific anatomical models replicate bicuspid aortic valves, calcified annuli, and challenging LAA morphologies. Specialized fixtures accommodate self-expanding and balloon-expandable platforms across all valve positions."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Structural Heart Device Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered transcatheter structural heart procedures, our team understands complex cardiac anatomy, deployment mechanics, and chronic tissue integration requirements. This cardiovascular heritage translates to protocol designs that address FDA Class III device requirements including anatomical compatibility demonstration, endothelialization assessment, and comprehensive safety validation across diverse patient anatomies and pathologies."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Structural Heart Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for structural heart devices across TAVR, LAA closure, and transcatheter repair categories. We understand Class III device requirements including chronic biocompatibility demonstration through ISO 10993 compliance, deployment accuracy validation, and the specific endpoints FDA expects for structural heart device submissions across valve replacement and repair applications."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Structural Heart Program?",
+    "description": "Our cardiovascular device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

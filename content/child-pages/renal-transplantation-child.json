@@ -1,0 +1,71 @@
+{
+  "page_slug": "renal-transplantation",
+  "page_title": "Renal Transplantation | Synchrony Labs",
+  "parent_page": {
+    "name": "Urogenital",
+    "url": "/areas-of-expertise/urogenital"
+  },
+  "hero": {
+    "headline": "Renal Transplantation",
+    "description": "Organ preservation systems face unique challenges maintaining kidney viability during transport while minimizing ischemic injury that compromises transplant outcomes. We test perfusion effectiveness, metabolic preservation, and functional recovery using validated transplantation models addressing both hypothermic and normothermic preservation pathways."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Renal preservation technologies must maintain organ viability throughout transport durations while preserving functional capacity that determines transplantation success rates. Hypothermic machine perfusion systems require continuous monitoring of perfusion pressure, flow rates, and vascular resistance patterns throughout storage periods. Normothermic platforms demand metabolic support validation showing ATP preservation and cellular injury minimization across extended preservation timeframes. Each preservation strategy addresses different ischemia-reperfusion injury mechanisms requiring validated assessment protocols that predict post-transplantation outcomes.\n\nWe evaluate preservation system performance through continuous perfusion parameter monitoring that captures pressure-flow relationships, vascular resistance changes, and metabolic marker trends throughout storage periods matching clinical transport durations. Biochemical analysis tracks lactate dehydrogenase release indicating cellular damage while ATP quantification measures energy preservation determining functional recovery potential. Creatinine clearance assessment following reperfusion validates glomerular filtration capacity while urine output monitoring demonstrates tubular function restoration. Our protocols assess both immediate graft function and delayed graft function prevention across varying preservation conditions and donor quality scenarios.\n\nISO 13485 quality management system requirements guide organ preservation device development while FDA transplantation device guidance addresses effectiveness demonstration and safety validation requirements. Testing supports both 510(k) pathways for devices demonstrating substantial equivalence to cleared preservation systems and PMA submissions for breakthrough preservation technologies requiring comprehensive effectiveness validation. Whether characterizing hypothermic machine perfusion platforms, validating normothermic preservation effectiveness, or optimizing static cold storage conditions, our protocols generate data addressing transplantation technology regulatory expectations and clinical outcome prediction.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Perfusion Parameter Monitoring",
+          "description": "Continuous pressure-flow curve analysis throughout preservation periods tracks vascular resistance changes and perfusion uniformity while measuring system performance stability that predicts organ viability maintenance and post-transplantation functional recovery potential."
+        },
+        {
+          "title": "Metabolic Marker Assessment",
+          "description": "Biochemical analysis quantifies lactate dehydrogenase release, ATP concentration preservation, and cellular injury markers throughout storage durations while measuring metabolic activity patterns that indicate organ viability and predict delayed graft function risk."
+        },
+        {
+          "title": "Functional Recovery Validation",
+          "description": "Post-reperfusion assessment measures glomerular filtration rate restoration, creatinine clearance capacity, and urine output patterns while evaluating immediate graft function achievement that determines transplantation success and recipient outcomes."
+        },
+        {
+          "title": "Ischemia-Reperfusion Injury Characterization",
+          "description": "Tissue injury protocols evaluate oxidative stress markers, inflammatory cytokine expression, and cellular apoptosis patterns while measuring reperfusion injury severity that impacts long-term graft survival and functional preservation."
+        },
+        {
+          "title": "Vascular Anastomosis Assessment",
+          "description": "Surgical technique validation characterizes arterial and venous anastomosis integrity while measuring perfusion restoration completeness and vascular complication rates including thrombosis, stenosis, and hemorrhage that affect transplantation outcomes."
+        },
+        {
+          "title": "Temperature and Oxygenation Control",
+          "description": "Thermal management validation ensures temperature stability throughout preservation while measuring tissue oxygenation maintenance and hypothermic versus normothermic condition optimization that determines preservation effectiveness and organ viability."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Renal Transplantation",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Transplantation Infrastructure",
+        "description": "Purpose-built surgical suites enable complex transplantation procedures with vascular microsurgery capabilities and real-time functional monitoring. Our perfusion systems accommodate both hypothermic machine perfusion and normothermic preservation platforms while biochemistry laboratories provide comprehensive metabolic marker analysis throughout storage periods. Environmental controls maintain precise temperature management and sterile conditions required for organ preservation validation studies."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Organ Preservation Expertise",
+        "description": "Validated transplantation models replicate clinical donor scenarios including brain death donors, donation after cardiac death, and extended criteria donors enabling preservation system assessment across clinically relevant conditions. Our team understands ischemia-reperfusion injury mechanisms, organ viability assessment methodologies, and the specific functional recovery endpoints transplantation technology developers must demonstrate for regulatory submissions and clinical adoption."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Transplantation Device Regulatory Success",
+        "description": "Successful regulatory submissions for organ preservation technologies demonstrate our ability to generate data addressing FDA transplantation device guidance requirements. We understand preservation system pathways including effectiveness demonstration through functional outcome validation, biocompatibility assessment per ISO 10993 blood contact standards, and the specific viability markers and graft function endpoints regulatory reviewers expect for organ preservation device approvals."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Renal Transplantation Program?",
+    "description": "Our urological device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

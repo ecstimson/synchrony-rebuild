@@ -1,0 +1,71 @@
+{
+  "page_slug": "watchman-device",
+  "page_title": "Watchman Device Testing Services | GLP Preclinical CRO | Synchrony Labs",
+  "parent_page": {
+    "name": "Structural Heart",
+    "url": "/preclinical-services/cardiovascular-disease-testing/structural-heart-testing"
+  },
+  "hero": {
+    "headline": "Watchman Device Testing Services",
+    "description": "Specialized preclinical validation for Watchman LAA occluders with nitinol framework characterization, fabric membrane assessment, and device stability testing across varying appendage anatomies."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Watchman devices represent the established standard for percutaneous LAA closure, requiring validation that addresses nitinol framework expansion, polyester fabric membrane sealing, and sizing accuracy across diverse appendage geometries. These self-expanding occluders must demonstrate controlled deployment, adequate wall apposition force, and complete appendage isolation while supporting endothelialization that prevents thrombus formation. Success depends on validating framework durability under cardiac loading, membrane integrity throughout device lifetime, and optimal sizing across the spectrum of LAA anatomical variations.\n\nWe evaluate framework performance using specialized expansion testing that quantifies radial force, shape memory recovery, and deployment consistency across temperature ranges. Our catheterization laboratories feature transesophageal echocardiography capabilities, anatomical models representing chicken wing through windsock morphologies, and flow measurement systems that assess sealing effectiveness. From nitinol fatigue characterization to fabric endothelialization studies, our protocols address the specific validation requirements Watchman platforms demand.\n\nISO 10993 biocompatibility standards guide nitinol and fabric material assessment while device specific protocols address compression ratio optimization and anchoring stability validation. Our GLP compliant testing supports both 510(k) pathways for devices demonstrating substantial equivalence to established Watchman predicates and PMA submissions for significant design modifications. Whether validating next generation framework designs or novel fabric configurations, our protocols address FDA expectations for LAA closure devices across intended patient populations.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Nitinol Framework Performance",
+          "description": "Comprehensive framework testing quantifies expansion characteristics, wall apposition force distribution, and shape memory behavior across deployment conditions with fatigue protocols evaluating structural integrity throughout projected device lifetime."
+        },
+        {
+          "title": "Fabric Membrane Integration",
+          "description": "Specialized membrane assessment evaluates polyester fabric porosity, sealing effectiveness, and endothelialization support properties with testing protocols characterizing fabric-framework attachment integrity under physiological loading."
+        },
+        {
+          "title": "Device Sizing and Compression Ratio",
+          "description": "Sizing algorithm validation across LAA diameters and depths ensures optimal device selection with compression ratio testing confirming adequate wall contact without excessive tissue compression across morphological variants."
+        },
+        {
+          "title": "Deployment Accuracy and Retrieval",
+          "description": "High-resolution imaging captures deployment dynamics, positioning precision, and device stability during cardiac motion with retrieval capability assessment validating recapture mechanics and redeployment performance."
+        },
+        {
+          "title": "Sealing Integrity and Leak Prevention",
+          "description": "Advanced flow measurement techniques quantify complete LAA occlusion and peridevice leak detection with long-term sealing validation confirming permanent appendage isolation throughout extended observation periods."
+        },
+        {
+          "title": "Biocompatibility and Thrombogenicity",
+          "description": "ISO 10993 compliant testing addresses nitinol and polyester fabric biocompatibility with specialized thrombogenicity protocols evaluating clot formation potential during anticoagulation bridging and long-term antithrombotic therapy."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Watchman Device Testing",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized LAA Closure Infrastructure",
+        "description": "Two catheterization laboratories configured specifically for Watchman device evaluation feature transesophageal echocardiography, high-resolution fluoroscopy, and specialized compression ratio testing equipment. Our anatomical model library includes all major LAA morphologies while nitinol characterization systems evaluate framework performance across temperature ranges and deployment scenarios encountered in clinical practice."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Structural Heart Device Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered LAA closure procedures, our team understands Watchman device mechanics, sizing methodologies, and chronic tissue integration requirements. This cardiovascular specialization translates to protocol designs addressing nitinol framework validation, fabric membrane assessment, and the comprehensive safety testing FDA expects for percutaneous stroke prevention devices."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven LAA Closure Regulatory Success",
+        "description": "Our data packages have supported successful FDA submissions for LAA closure devices across multiple platform generations. We understand Class III device requirements including nitinol biocompatibility demonstration, endothelialization validation, and the specific endpoints FDA expects for Watchman device submissions addressing stroke prevention in atrial fibrillation patients."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your Watchman device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

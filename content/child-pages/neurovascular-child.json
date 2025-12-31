@@ -1,0 +1,71 @@
+{
+  "page_slug": "neurovascular",
+  "page_title": "Neurovascular Robotics | Synchrony Labs",
+  "parent_page": {
+    "name": "Surgical Robotics",
+    "url": "/areas-of-expertise/cardiovascular/robotics"
+  },
+  "hero": {
+    "headline": "Neurovascular Robotics",
+    "description": "Robotic neurovascular systems must navigate tortuous cerebral anatomy with submillimeter precision, provide stable catheter manipulation during delicate procedures, and maintain force feedback through multiple degrees of freedom. We test navigation accuracy through Circle of Willis models, measure tremor elimination during microcatheter positioning, validate force transmission fidelity, and confirm electromagnetic compatibility with neuroimaging systems for both 510(k) and PMA pathways."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Robotic neurovascular intervention presents unique challenges that distinguish it from other robotic surgery applications. Your system must guide catheters through 2-5mm intracranial vessels with extreme tortuosity including carotid siphon configurations and Circle of Willis anatomy where human hand tremor proves limiting. The robot must provide haptic feedback sensitive enough to detect vessel wall contact in delicate cerebral arteries yet robust enough to transmit forces through long catheter systems. All components must function within magnetic fields during concurrent imaging without causing artifact or safety hazards during procedures that may span hours.\n\nWe test robotic neurovascular systems using anatomically accurate cerebral vessel models that replicate the tortuous anatomy from femoral access through intracranial target sites. Navigation accuracy protocols measure positioning precision to submillimeter tolerances while force measurement systems validate haptic feedback fidelity through catheter lengths exceeding 100cm. Tremor elimination assessment quantifies how effectively your robotic system stabilizes microcatheter manipulation compared to manual technique. We evaluate electromagnetic compatibility with fluoroscopy and CT systems, test catheter tracking accuracy during simulated thrombectomy or aneurysm coiling, and measure the system's ability to maintain stable position during contrast injection or device deployment.\n\nISO 13485 quality management standards guide medical device development while IEC 60601 electrical safety requirements address robotic system components. Our testing supports 510(k) pathways for robotic catheter positioning systems and PMA submissions for integrated therapeutic platforms. Whether validating a teleoperated catheter robot for stroke intervention or characterizing an autonomous navigation system for aneurysm treatment, our protocols address the navigation precision, force feedback, electromagnetic compatibility, and procedural integration that neurovascular robotics validation requires.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Submillimeter Navigation Accuracy",
+          "description": "We measure catheter positioning precision through tortuous cerebral anatomy including carotid siphon and Circle of Willis configurations, validating that robotic systems achieve submillimeter accuracy in target vessel selection and device placement critical for neurovascular intervention safety."
+        },
+        {
+          "title": "Haptic Feedback Fidelity Assessment",
+          "description": "Force measurement systems evaluate how accurately your robotic platform transmits tactile feedback from catheter tip through mechanical linkages to operator controls, measuring force resolution and latency that determine whether operators can detect vessel wall contact or device resistance."
+        },
+        {
+          "title": "Tremor Elimination Quantification",
+          "description": "High-speed motion tracking compares robotic versus manual microcatheter manipulation, quantifying tremor amplitude reduction and positioning stability that enable precise device deployment in delicate intracranial vessels where human hand tremor limits procedural success."
+        },
+        {
+          "title": "Electromagnetic Compatibility Validation",
+          "description": "Testing within fluoroscopy and CT environments confirms your robotic system operates without interference from imaging fields, produces minimal artifact that could obscure vessel visualization, and maintains safe operation during concurrent real-time imaging throughout procedures."
+        },
+        {
+          "title": "Long-Catheter Force Transmission",
+          "description": "Protocols evaluate force and torque transmission through catheter systems exceeding 100cm length from femoral access to intracranial targets, validating that robotic manipulation maintains adequate control authority despite mechanical losses through extended working lengths."
+        },
+        {
+          "title": "Procedural Workflow Integration",
+          "description": "Simulated neurovascular procedures test system performance during complete intervention sequences from access through device deployment and retrieval, measuring setup time, operator learning curves, and compatibility with standard catheterization laboratory workflows and emergency protocols."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Neurovascular Robotics",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Cerebrovascular Robotics Infrastructure",
+        "description": "Our neuroangiography suites accommodate robotic platforms with biplane fluoroscopy integration, providing the imaging environments where electromagnetic compatibility must be validated. Anatomically accurate Circle of Willis and carotid siphon models enable navigation accuracy testing through realistic cerebral tortuosity. High-precision force sensors and motion tracking systems measure submillimeter positioning and haptic feedback fidelity. This specialized infrastructure enables neurovascular robotics validation that addresses the unique challenges of intracranial intervention."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Neurovascular Intervention Expertise",
+        "description": "We understand the procedural requirements for robotic stroke thrombectomy, aneurysm coiling, and neurovascular stenting that differ fundamentally from cardiac or peripheral robotic applications. Our team has validated catheter-based interventions through the same cerebral anatomy your robotic system must navigate. This neurovascular expertise ensures protocols address the submillimeter precision, delicate force feedback, and real-time imaging integration that determine clinical utility in intracranial procedures."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Robotic Medical Device Regulatory Success",
+        "description": "Our testing has supported FDA submissions for robotic surgical platforms and catheter-based intervention systems requiring demonstration of navigation accuracy, haptic feedback fidelity, and electromagnetic compatibility. We understand how to structure preclinical validation for robotic systems pursuing 510(k) clearance or PMA approval, addressing both device performance and human factors considerations that FDA expects for operator-controlled robotic platforms in critical neurovascular applications."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your neurovascular robotic system, target procedures, and regulatory pathway to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

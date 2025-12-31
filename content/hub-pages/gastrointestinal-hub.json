@@ -1,0 +1,109 @@
+{
+  "page_slug": "gastrointestinal",
+  "page_title": "Gastrointestinal | Synchrony Labs",
+  "hero": {
+    "headline": "Gastrointestinal",
+    "description": "Comprehensive preclinical validation across bariatric therapies, robotic surgical platforms, and tissue sealant applications addressing digestive system intervention requirements."
+  },
+  "subpages_section": {
+    "title": "Complete Gastrointestinal Portfolio",
+    "description": "Select your specific area below, or scroll down to learn more about our gastrointestinal expertise and specialized capabilities.",
+    "cards": [
+      {
+        "icon_name": "Scale",
+        "title": "Bariatric Therapies",
+        "description": "Weight loss device validation including gastric band performance, bypass procedure support assessment, and endoscopic intervention platform characterization for obesity management applications.",
+        "link_url": "/areas-of-expertise/gastrointestinal/bariatric-therapies"
+      },
+      {
+        "icon_name": "CircuitBoard",
+        "title": "Robotics",
+        "description": "Surgical robotic platform validation addressing articulation precision, visualization system performance, and instrument integration for minimally invasive gastrointestinal procedures.",
+        "link_url": "/areas-of-expertise/gastrointestinal/robotics"
+      },
+      {
+        "icon_name": "Droplet",
+        "title": "Sealants",
+        "description": "Tissue adhesive and sealant characterization for anastomotic leak prevention, surgical closure enhancement, and healing augmentation in gastrointestinal applications.",
+        "link_url": "/areas-of-expertise/gastrointestinal/sealants"
+      }
+    ]
+  },
+  "why_choose_section": {
+    "title": "Why Choose Synchrony for Gastrointestinal Devices",
+    "description": "Four decades of surgical device expertise provides specialized infrastructure, validated disease models, and proven regulatory success that general preclinical facilities cannot match.",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Surgical Infrastructure",
+        "description": "Purpose-built surgical suites accommodate complete robotic systems with advanced imaging integration, insufflation monitoring, and real-time performance documentation. Our facilities support complex gastrointestinal procedures while maintaining environmental controls and sterile conditions throughout validation studies."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Obesity Disease Model Expertise",
+        "description": "Validated obesity-induced models enable realistic assessment of bariatric device performance in metabolic disease conditions. Our team understands weight management mechanisms, surgical intervention outcomes, and long-term device effectiveness assessment that bariatric technology development requires."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Surgical Device Regulatory Success",
+        "description": "Successful FDA submissions across robotic platforms, bariatric devices, and tissue sealants demonstrate our ability to generate data that addresses reviewer expectations for surgical intervention technologies requiring comprehensive safety and performance validation."
+      }
+    ]
+  },
+  "featured_services": {
+    "title": "Featured Gastrointestinal Capabilities",
+    "services": [
+      {
+        "title": "Bariatric Device Validation",
+        "description": "Weight loss devices face unique challenges proving therapeutic effectiveness while ensuring long-term safety in obesity conditions. We evaluate bariatric intervention performance using validated obesity-induced disease models that replicate metabolic dysfunction and altered anatomy characteristic of severe obesity. Our protocols assess device durability under sustained mechanical stress, tissue response at implant interfaces, and weight management effectiveness through standardized metabolic monitoring. From adjustable gastric band pressure regulation to endoscopic sleeve device positioning accuracy, our testing addresses both 510(k) pathways demonstrating substantial equivalence and PMA requirements for breakthrough obesity treatment technologies requiring comprehensive effectiveness demonstration.",
+        "cta_text": "Learn More About Bariatric Therapies",
+        "cta_url": "/areas-of-expertise/gastrointestinal/bariatric-therapies",
+        "image_placeholder": "[Bariatric device validation visualization]"
+      },
+      {
+        "title": "Robotic Surgical Platform Assessment",
+        "description": "Robotic surgery systems require validation proving teleoperation accuracy translates to precise tissue manipulation during minimally invasive gastrointestinal procedures. We test articulating instrument performance through complex motion sequences while measuring force feedback accuracy and tremor filtration effectiveness. Advanced imaging systems document visualization quality throughout procedures while specialized protocols assess instrument jaw closure forces, articulation precision across multiple degrees of freedom, and durability under repeated actuations exceeding clinical use patterns. Our surgical suites accommodate complete robotic platforms including patient carts, vision systems, and surgeon consoles configured to match operating room setups, enabling comprehensive validation per ASTM surgical device standards supporting regulatory pathways for electromechanical surgical systems.",
+        "cta_text": "Learn More About Robotics",
+        "cta_url": "/areas-of-expertise/gastrointestinal/robotics",
+        "image_placeholder": "[Robotic platform validation visualization]"
+      },
+      {
+        "title": "Tissue Sealant Characterization",
+        "description": "Surgical sealants preventing anastomotic leaks must demonstrate adhesion strength sufficient to withstand intestinal pressure while supporting tissue healing without inflammatory complications. We evaluate sealant performance using burst pressure protocols that measure seal integrity under physiological stress conditions while tissue response studies assess healing quality and biocompatibility at application sites. Standardized leak detection methods quantify sealing effectiveness immediately following application and throughout healing phases addressing both acute and chronic performance requirements. Our GLP-compliant protocols support regulatory submissions across fibrin-based, synthetic polymer, and biological sealant platforms requiring ISO 10993 biocompatibility demonstration alongside mechanical performance validation for gastrointestinal surgical applications.",
+        "cta_text": "Learn More About Sealants",
+        "cta_url": "/areas-of-expertise/gastrointestinal/sealants",
+        "image_placeholder": "[Tissue sealant validation visualization]"
+      }
+    ]
+  },
+  "related_services": {
+    "title": "Complementary Expertise",
+    "description": "Gastrointestinal device programs often benefit from our capabilities across other therapeutic areas addressing specialized validation requirements.",
+    "cards": [
+      {
+        "title": "Neurological",
+        "description": "Hydrocephalus shunt validation, dural sealant assessment, and spinal nerve stimulation protocols address central nervous system device requirements providing complementary surgical device expertise beyond gastrointestinal applications.",
+        "cta_text": "Explore Neurological â†’",
+        "cta_url": "/areas-of-expertise/neurological"
+      },
+      {
+        "title": "Respiratory",
+        "description": "COPD therapy validation and lung lobe sealant protocols provide specialized thoracic surgical expertise addressing minimally invasive intervention requirements distinct from gastrointestinal applications.",
+        "cta_text": "Explore Respiratory â†’",
+        "cta_url": "/areas-of-expertise/respiratory"
+      },
+      {
+        "title": "Urogenital",
+        "description": "Renal transplantation support and urological intervention validation address abdominal surgical applications providing complementary expertise for device programs requiring multi-system assessment.",
+        "cta_text": "Explore Urogenital â†’",
+        "cta_url": "/areas-of-expertise/urogenital"
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Gastrointestinal Program?",
+    "description": "Our gastrointestinal device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

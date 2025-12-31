@@ -1,0 +1,71 @@
+{
+  "page_slug": "aaa-device",
+  "page_title": "AAA Device | Synchrony Labs",
+  "parent_page": {
+    "name": "Peripheral Vascular",
+    "url": "/areas-of-expertise/cardiovascular/peripheral-vascular"
+  },
+  "hero": {
+    "headline": "AAA Device",
+    "description": "Successful aneurysm repair requires stent grafts that seal completely against vessel walls under continuous aortic pressure, prevent blood from leaking back into the aneurysm sac, and maintain that seal for years without migration. We test high-pressure containment performance, measure all four endoleak types, validate modular component integration, and confirm your device withstands mechanical stresses of the aortic environment."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Abdominal aortic aneurysm repair presents a unique challenge in vascular intervention. Your stent graft must contain blood under the highest pressures in the body while sealing against vessel walls that may be irregular, calcified, or angulated. Any gap between the device and vessel wall creates an endoleak that defeats the purpose of the repair by allowing blood to pressurize the aneurysm sac. The device must also resist the constant downward force of pulsatile blood flow that can cause migration over time, particularly in short or angulated necks.\n\nWe test AAA devices using high-pressure aortic simulators that replicate systolic pressures up to 200 mmHg with anatomically accurate aneurysm models including infrarenal configurations and juxtarenal anatomies. Pressure sensors throughout the system detect any blood flow into the aneurysm sac, identifying Type I endoleaks at attachment zones, Type II leaks from lumbar or inferior mesenteric arteries, Type III leaks between modular components, and Type IV leaks through graft material porosity. We measure the force required to dislodge your device from proximal and distal seal zones, test integrity across different neck angulations and diameters from 18mm to 32mm, and run accelerated fatigue cycles simulating decades of cardiac pulsation.\n\nOur protocols follow FDA guidance for endovascular AAA devices, typically pursuing the 510(k) pathway with substantial equivalence to predicate devices or PMA for novel configurations. Testing demonstrates complete aneurysm exclusion, adequate seal zone fixation through hooks or barbs or oversizing alone, and maintained structural integrity over the intended device life. We measure performance against ISO 7198 standards for cardiovascular implants, with specific emphasis on high-pressure containment and long-term durability requirements unique to aortic applications where device failure carries life-threatening consequences.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "High-Pressure Seal Performance",
+          "description": "We measure seal integrity at proximal and distal attachment zones under physiological aortic pressures up to 200 mmHg, testing your device across different vessel diameters, wall irregularities, and neck angulations to identify potential Type I endoleak pathways before clinical use."
+        },
+        {
+          "title": "Endoleak Detection and Classification",
+          "description": "Pressure monitoring throughout the aneurysm sac detects all four endoleak types during deployment and chronic testing, providing the comprehensive leak assessment data required for regulatory submissions including quantification of leak flow rates and pressurization patterns."
+        },
+        {
+          "title": "Migration Resistance Measurement",
+          "description": "We quantify the force needed to displace your device from the attachment zones, testing fixation mechanisms including hooks, barbs, and radial force under pulsatile pressure conditions that simulate years of hemodynamic stress in angulated and short-neck anatomies."
+        },
+        {
+          "title": "Modular Component Integration",
+          "description": "For multi-piece systems, we validate seal integrity between main body and iliac limbs, measure overlap zone performance under pressure and angulation, and confirm that modular interfaces maintain leak-proof connections throughout accelerated fatigue testing simulating device lifetime."
+        },
+        {
+          "title": "Fatigue Durability Under Aortic Pressure",
+          "description": "Accelerated cycling exposes your device to millions of pressure pulses at physiological amplitudes, validating that graft material, stent framework, suture lines, and seal zones maintain structural integrity throughout the intended 10+ year implantation period per ISO 7198 requirements."
+        },
+        {
+          "title": "Deployment Accuracy in Complex Anatomy",
+          "description": "Anatomically accurate models with angulated necks up to 60 degrees, tortuous iliacs, and variable aneurysm sizes up to 65mm validate that your delivery system positions the device precisely where seal zones must engage vessel walls for successful aneurysm exclusion."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for AAA Device",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "High-Pressure Aortic Testing Infrastructure",
+        "description": "Our specialized aortic simulators generate pressures up to 200 mmHg with physiological waveforms, providing the high-stress conditions that reveal seal weaknesses before clinical use. Multi-channel pressure monitoring detects endoleaks as small as 5 mL/min across all four leak classifications, delivering the comprehensive leak assessment data FDA requires for AAA device submissions including chronic pressure monitoring through extended test periods."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Modular System Integration Expertise",
+        "description": "We've tested multi-component AAA systems since the technology's inception in the 1990s, understanding the unique challenges of limb-to-body junctions, overlap zones, and component interface sealing under chronic aortic pressure. Our protocols validate that your modular connections maintain integrity under the pressure and fatigue conditions that cause late Type III endoleaks in clinical practice, from bifurcated systems to fenestrated and branched designs."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "AAA Device Regulatory Track Record",
+        "description": "Our GLP-compliant testing has supported successful submissions for multiple generations of AAA stent grafts over 40 years of aortic device validation. We provide complete datasets for pressure containment, endoleak prevention across all four types, migration resistance, and durability that align with FDA guidance for endovascular aneurysm repair devices, streamlining your regulatory pathway whether pursuing 510(k) or PMA approval."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your AAA stent graft design, seal zone configuration, and regulatory pathway to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "page_slug": "pascal",
+  "page_title": "Pascal Device Testing Services | GLP Preclinical CRO | Synchrony Labs",
+  "parent_page": {
+    "name": "Heart Valve",
+    "url": "/preclinical-services/cardiovascular-disease-testing/heart-valve-testing"
+  },
+  "hero": {
+    "headline": "Pascal Device Testing Services",
+    "description": "Comprehensive preclinical validation for transcatheter mitral repair systems with independent leaflet grasping assessment, spacer technology characterization, and broad paddle coaptation evaluation under GLP compliance."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Transcatheter mitral repair devices with spacer technology face unique validation challenges requiring independent leaflet grasping mechanics assessment, spacer deployment characterization, and enhanced coaptation surface validation that differentiates Pascal-type systems from first-generation clip platforms. Edwards Pascal devices must demonstrate reliable independent gripper control enabling sequential leaflet capture, spacer expansion providing optimal tissue bridge formation, and broad paddle design creating superior coaptation compared to conventional edge-to-edge repair. Device success depends on validating spacer safety through tissue interaction studies while demonstrating enhanced repair effectiveness across challenging mitral anatomies including large flail segments and complex regurgitation patterns.\n\nWe evaluate independent grasping mechanics using specialized force measurement systems quantifying individual gripper closure pressure, leaflet compression characteristics per gripper, and optimal grasping sequence timing throughout deployment. Our catheterization laboratories feature three-dimensional transesophageal echocardiography providing real-time spacer visualization, independent leaflet capture confirmation, and broad paddle coaptation assessment during complete deployment cycles. From spacer expansion validation measuring controlled deployment forces to multi-device strategy assessment evaluating optimal spacing configurations, our protocols address the specific performance requirements next-generation mitral repair platforms present across both primary and secondary regurgitation etiologies.\n\nISO 5840 standards guide transcatheter heart valve device testing while FDA guidance documents for transcatheter mitral repair inform protocol development addressing spacer technology safety, independent grasping validation, and comparative effectiveness requirements. Our GLP-compliant protocols support both PMA submissions for innovative repair technologies and 510(k) pathways demonstrating substantial equivalence where applicable. Whether validating spacer biocompatibility through chronic tissue response studies or characterizing enhanced repair capabilities through comparative effectiveness protocols, our testing addresses regulatory expectations for Class III transcatheter mitral devices with advanced design features requiring comprehensive safety and performance validation.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Independent Leaflet Grasping Mechanics Assessment",
+          "description": "Specialized testing systems characterize independent gripper performance including individual closure force measurement, sequential grasping timing optimization, and leaflet capture success validation across varying tissue pathologies. Advanced protocols assess optimal grasping sequences, evaluate independent control benefits for challenging anatomies, and quantify tissue damage thresholds ensuring safe leaflet capture without perforation risk across diverse leaflet thickness variations."
+        },
+        {
+          "title": "Spacer Technology Deployment and Safety Validation",
+          "description": "Comprehensive spacer characterization evaluates controlled expansion mechanics, positioning accuracy relative to leaflet coaptation line, and tissue interaction safety throughout deployment sequences. Specialized protocols assess spacer deployment force requirements, expansion uniformity across varying anatomical constraints, and biocompatibility through chronic tissue response studies addressing inflammation, thrombogenicity, and long-term integration with mitral valve structures."
+        },
+        {
+          "title": "Broad Paddle Coaptation Enhancement Assessment",
+          "description": "Advanced imaging protocols quantify enhanced coaptation surface area provided by broad paddle design compared to conventional clip widths. Three-dimensional echocardiographic analysis measures coaptation length across device width, characterizes tissue bridge formation quality, and validates superior leaflet approximation for broad regurgitant jets requiring enhanced surface contact beyond standard clip dimensions."
+        },
+        {
+          "title": "Mitral Regurgitation Reduction and Hemodynamic Performance",
+          "description": "Comprehensive regurgitation assessment quantifies reduction severity using PISA methodology, vena contracta measurement, and volumetric regurgitant fraction calculation. Hemodynamic monitoring evaluates mitral valve area preservation, transvalvular gradient development, and left atrial pressure changes while validating achievement of â‰¤2+ residual regurgitation targets. Comparative protocols demonstrate superior effectiveness versus conventional repair systems across challenging anatomical scenarios."
+        },
+        {
+          "title": "Durability and Chronic Performance Validation",
+          "description": "Accelerated fatigue testing simulates years of cardiac cycles through continuous device actuation under physiological loading conditions. Durability protocols evaluate spacer structural integrity, independent gripper mechanism reliability, and broad paddle durability while assessing maintained regurgitation reduction, device positioning stability, and tissue integration patterns through extended observation studies with comprehensive histopathological analysis characterizing chronic tissue response."
+        },
+        {
+          "title": "Comparative Effectiveness and Clinical Advantage Validation",
+          "description": "Specialized protocols demonstrate Pascal device advantages through direct comparison with conventional edge-to-edge repair systems. Testing addresses enhanced repair effectiveness for large flail segments, superior performance with challenging anatomies including restricted leaflet motion, and improved outcomes for complex regurgitation patterns. Comprehensive documentation supports regulatory submissions requiring comparative effectiveness demonstration and clinical benefit validation."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Pascal Device Testing",
+    "cards": [
+      {
+        "icon_name": "Wrench",
+        "title": "Specialized Next-Generation Repair Infrastructure",
+        "description": "Two catheterization laboratories configured for advanced mitral repair assessment feature specialized spacer visualization equipment, independent gripper force measurement systems, and broad paddle coaptation analysis capabilities. Our anatomical model library spans primary and secondary regurgitation pathologies including large flail segments and complex anatomies while three-dimensional echocardiography systems enable real-time spacer deployment visualization. This infrastructure enables next-generation repair device testing addressing independent grasping mechanics and spacer technology validation that conventional edge-to-edge repair facilities cannot comprehensively evaluate."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Advanced Mitral Repair Technology Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered transcatheter structural heart procedures, our team understands spacer technology benefits, independent leaflet control advantages, and broad paddle design optimization specific to Pascal-type platforms. This cardiovascular heritage translates to protocol designs addressing FDA Class III device requirements including spacer safety validation, comparative effectiveness demonstration, and the comprehensive innovation assessment next-generation mitral repair devices demand for breakthrough technology submissions."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Innovation Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for transcatheter mitral devices across edge-to-edge repair and next-generation platforms. We understand Class III device requirements including ISO 5840 compliance for transcatheter valves, innovation-specific safety validation, and the comprehensive preclinical evidence FDA expects for advanced mitral repair submissions addressing spacer technology biocompatibility, independent grasping benefits, and comparative effectiveness versus established predicate devices."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your transcatheter mitral repair device, spacer technology innovations, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

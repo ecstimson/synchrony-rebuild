@@ -1,0 +1,71 @@
+{
+  "page_slug": "mitral-valve-replacement",
+  "page_title": "Mitral Valve Replacement | Synchrony Labs",
+  "parent_page": {
+    "name": "Structural Heart",
+    "url": "/areas-of-expertise/cardiovascular/structural-heart"
+  },
+  "hero": {
+    "headline": "Mitral Valve Replacement",
+    "description": "Preclinical validation for transcatheter mitral valve replacement devices with anchoring mechanism assessment, paravalvular leak prevention, left ventricular outflow tract obstruction evaluation, hemodynamic performance characterization, and chronic durability testing under GLP compliance for Class III devices."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Transcatheter mitral valve replacement systems face anatomical challenges that exceed aortic valve complexity, requiring secure anchoring within D-shaped annuli lacking the calcific foundation TAVR devices utilize while avoiding left ventricular outflow tract obstruction throughout valve positioning. TMVR platforms must demonstrate stable implantation across varying annular geometries, effective sealing preventing paravalvular regurgitation, and hemodynamic performance preserving cardiac output while specialized delivery systems navigate transseptal or transapical approaches. Success depends on annular anchoring preventing device migration, leaflet mechanics providing adequate orifice area, and durability throughout years of asymmetric loading across saddle-shaped anatomy.\n\nWe evaluate anchoring effectiveness using force measurement systems that quantify radial expansion characteristics, atrial and ventricular anchoring element engagement, and resistance to migration throughout cardiac cycles under physiological pressures. Our catheterization laboratories feature mitral annular models representing native valve, failed surgical valve, and failed repair anatomies while transesophageal echocardiography captures deployment accuracy and LVOT assessment throughout positioning. Hemodynamic protocols measure transvalvular gradients, effective orifice area, and atrial pressure changes while flow visualization identifies regions susceptible to thrombosis or pannus formation. Advanced computational modeling supplements testing by predicting LVOT obstruction risk across anatomical variations informing patient selection criteria development.\n\nISO 5840 standards for transcatheter heart valves guide testing protocols while FDA guidance documents for mitral valve replacement inform regulatory submission requirements addressing hemodynamic benchmarks, anchoring validation, and durability expectations. Our GLP-compliant testing supports PMA pathways for Class III devices across transseptal and transapical delivery approaches. Whether validating self-expanding nitinol frames, dual-anchoring systems, or novel sealing technologies, our protocols demonstrate anatomical compatibility, paravalvular leak prevention, and the hemodynamic performance TMVR platforms demand across native valve disease, failed surgical repair, and valve-in-valve applications.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Anchoring Mechanism Validation",
+          "description": "Force measurement quantifies radial expansion force, atrial flange engagement, ventricular anchor effectiveness, and migration resistance throughout cardiac cycles while assessing anchoring adequacy across varying annular sizes, calcification patterns, and anatomical distortion preventing device embolization or paravalvular leak development."
+        },
+        {
+          "title": "LVOT Obstruction Assessment",
+          "description": "Three-dimensional echocardiography and computational fluid dynamics modeling predict left ventricular outflow tract obstruction risk across anatomical variations including aorto-mitral angle, septal hypertrophy, and systolic anterior motion potential while deployment protocols optimize positioning minimizing LVOT gradient elevation and maintaining cardiac output."
+        },
+        {
+          "title": "Paravalvular Leak Prevention",
+          "description": "Advanced flow measurement techniques quantify sealing effectiveness across annular conformability challenges while imaging protocols detect leak locations enabling design optimization of sealing skirts, anchoring element spacing, and frame geometry addressing the D-shaped saddle morphology that complicates mitral valve sealing compared to circular aortic anatomy."
+        },
+        {
+          "title": "Hemodynamic Performance Characterization",
+          "description": "Pulse duplicator testing measures transvalvular gradients, effective orifice area, and leaflet kinematics under physiological flow conditions while evaluating performance across varying cardiac outputs and heart rates ensuring adequate valve area preventing mitral stenosis while maintaining low gradients supporting left atrial decompression."
+        },
+        {
+          "title": "Delivery System and Access Approach",
+          "description": "Transseptal delivery assessment characterizes catheter maneuverability through interatrial septum, left atrial navigation, and coaxial alignment with mitral annulus while transapical approach protocols evaluate ventricular access, delivery system tracking, and apical closure requirements with comprehensive evaluation of deployment controls enabling precise positioning across anatomical variations."
+        },
+        {
+          "title": "Durability and Structural Integrity",
+          "description": "Accelerated fatigue protocols through 400 million cycles simulate 10-year equivalent durability while assessing frame structural integrity, leaflet function preservation, and anchoring element stability under asymmetric loading conditions unique to saddle-shaped mitral annulus throughout extended implantation periods."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Mitral Valve Replacement",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Advanced TMVR Testing Infrastructure",
+        "description": "Two catheterization laboratories configured for complex transcatheter mitral procedures feature three-dimensional transesophageal echocardiography with LVOT assessment capabilities, biplane fluoroscopy, and transseptal puncture systems. Our mitral annular model library spans native disease, failed surgical valve, and failed repair anatomies while pulse duplicator systems replicate physiological conditions across mitral regurgitation and stenosis severities. Computational modeling platforms predict LVOT obstruction risk enabling comprehensive device evaluation."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Mitral Valve Replacement Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered structural heart procedures, our team understands mitral valve anatomy, TMVR deployment challenges including LVOT obstruction risk, and the unique anchoring requirements D-shaped saddle morphology presents. This cardiovascular heritage translates to protocol designs addressing FDA PMA requirements including anchoring validation, paravalvular leak assessment, and durability demonstration that transcatheter mitral replacement devices demand for native disease and failed surgical intervention applications."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Structural Heart Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for transcatheter valve replacement and repair devices across multiple structural heart categories. We understand Class III device requirements including ISO 5840 compliance for transcatheter valves, the hemodynamic benchmarks, anatomical compatibility demonstration, and comprehensive safety evidence FDA expects for TMVR submissions addressing native mitral regurgitation, failed surgical repair, and valve-in-valve applications."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your mitral valve replacement device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

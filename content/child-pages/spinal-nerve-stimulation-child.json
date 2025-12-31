@@ -1,0 +1,71 @@
+{
+  "page_slug": "spinal-nerve-stimulation",
+  "page_title": "Spinal Nerve Stimulation | Synchrony Labs",
+  "parent_page": {
+    "name": "Neurological",
+    "url": "/areas-of-expertise/neurological"
+  },
+  "hero": {
+    "headline": "Spinal Nerve Stimulation",
+    "description": "Neuromodulation devices face unique challenges proving electrode placement accuracy translates to effective pain modulation while ensuring chronic implant safety in epidural environments. We test stimulation parameter optimization, lead positioning precision, and tissue interface stability using validated protocols addressing active implantable device regulatory requirements."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Spinal cord stimulation systems must demonstrate electrode array positioning accuracy achieving therapeutic neural recruitment while preventing complications including lead migration, epidural fibrosis, and device-related neurological injury. Percutaneous leads require insertion technique validation through interlaminar or transforaminal approaches while paddle arrays need laminotomy placement protocols ensuring stable positioning across spinal segments. Stimulation waveform characterization validates conventional tonic patterns, burst stimulation sequences, and high-frequency protocols demonstrating pain modulation effectiveness. Electrode configuration optimization requires impedance measurement across multiple contact combinations while current distribution mapping ensures therapeutic coverage without off-target effects. Power system validation addresses implantable pulse generator battery longevity and recharging system performance throughout projected device lifetime.\n\nWe evaluate lead placement using fluoroscopic guidance documenting epidural space navigation and electrode positioning relative to target spinal segments while electrophysiological monitoring measures stimulation threshold parameters and neural recruitment characteristics. Chronic implantation studies assess tissue response at electrode-tissue interfaces through histopathological examination characterizing fibrous encapsulation thickness, inflammatory cell infiltration patterns, and epidural tissue remodeling. Our protocols measure impedance stability throughout extended implantation periods while stimulation parameter titration validates paresthesia coverage mapping and therapeutic window characterization. Electrode array mechanical testing evaluates flexural fatigue resistance, kink resistance during spinal motion, and connection integrity under repeated flexion-extension cycles. We characterize electromagnetic compatibility ensuring device function across environmental conditions including magnetic resonance imaging safety assessment per ASTM active implant standards.\n\nISO 14708 active implantable medical device standards guide design validation while IEC 60601 medical electrical equipment requirements address electrical safety and electromagnetic compatibility demonstration. FDA neuromodulation device guidance informs protocol development for both initial implant safety validation and long-term chronic stimulation effectiveness assessment. Testing supports PMA pathways for Class III neuromodulation technologies requiring comprehensive safety and effectiveness demonstration. Whether characterizing percutaneous lead migration resistance, validating paddle array anatomical coverage, or assessing closed-loop stimulation system responsiveness, our protocols generate data meeting spinal cord stimulation regulatory expectations for chronic pain management and emerging neurological disorder treatment applications.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Electrode Placement and Positioning Validation",
+          "description": "Fluoroscopic guidance documentation tracks lead insertion through interlaminar spaces while measuring placement accuracy relative to target spinal segments using standardized anatomical landmarks. Paddle array positioning protocols evaluate coverage across multiple vertebral levels while assessing electrode contact alignment with spinal cord dorsal columns determining therapeutic paresthesia distribution."
+        },
+        {
+          "title": "Stimulation Parameter Characterization",
+          "description": "Electrophysiological monitoring measures stimulation threshold voltages, charge density distributions, and neural recruitment patterns across electrode configurations while characterizing impedance values throughout chronic implantation. Waveform validation assesses conventional tonic stimulation, burst patterns, and high-frequency protocols per IEC 60601 medical electrical equipment standards for active implants."
+        },
+        {
+          "title": "Lead Migration and Mechanical Stability",
+          "description": "Serial imaging tracks electrode position stability throughout chronic implantation periods while measuring migration distances relative to initial placement coordinates. Mechanical testing evaluates lead flexural fatigue resistance through millions of flexion-extension cycles, tensile strength preventing fracture under physiological stress, and kink resistance during spinal motion per ASTM active implant mechanical testing standards."
+        },
+        {
+          "title": "Epidural Tissue Response and Biocompatibility",
+          "description": "ISO 10993-6 implantation protocols adapted for epidural space applications evaluate fibrous capsule formation thickness at electrode-tissue interfaces while characterizing inflammatory cell infiltration patterns and absence of spinal cord compression effects. Chronic studies assess tissue integration quality, impedance stability resulting from encapsulation, and neurological safety throughout extended observation periods."
+        },
+        {
+          "title": "Implantable Pulse Generator Performance",
+          "description": "Battery longevity testing characterizes power consumption across therapeutic stimulation parameters while measuring projected device lifetime supporting labeling claims. Recharging system validation assesses charging efficiency, thermal safety during recharge cycles, and patient compliance features. Hermetic seal integrity testing per ISO 14708 standards ensures device protection from body fluid ingress throughout chronic implantation."
+        },
+        {
+          "title": "Magnetic Resonance Imaging Compatibility",
+          "description": "ASTM F2503 active implant MRI testing protocols evaluate device heating, induced currents, and magnetic field interactions across clinical MRI configurations while measuring specific absorption rate values and ensuring patient safety during diagnostic imaging. Lead integrity assessment validates absence of demagnetization, programming changes, or damage following MRI exposure addressing conditional scanning requirements."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Spinal Nerve Stimulation",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Neuromodulation Device Infrastructure",
+        "description": "Advanced electrophysiology systems enable comprehensive stimulation parameter characterization including impedance spectroscopy, neural recruitment mapping, and waveform validation capabilities. Our facilities feature fluoroscopic guidance for lead placement documentation while specialized mechanical testing equipment evaluates flexural fatigue and kink resistance per ASTM active implant standards. MRI compatibility testing capabilities assess device safety across clinical imaging configurations supporting conditional scanning labeling."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Spinal Cord Stimulation Expertise",
+        "description": "Validated chronic pain models and spinal anatomy mapping protocols enable comprehensive lead placement assessment across thoracic and cervical spinal segments. Our team understands neuromodulation mechanisms, electrode array design principles, stimulation parameter optimization methodologies, and the specific performance characteristics pain management physicians require for successful therapy delivery. This expertise translates to protocol designs capturing therapeutic effectiveness demonstration per ISO 14708 active implant standards alongside comprehensive safety validation including epidural biocompatibility assessment."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Active Implant Regulatory Success",
+        "description": "Successful FDA submissions across percutaneous lead systems, paddle array platforms, and next-generation closed-loop neuromodulation technologies demonstrate our ability to generate data addressing reviewer expectations for Class III active implantable devices. We understand PMA pathway requirements including biocompatibility validation per ISO 10993 chronic implant standards, electrical safety demonstration per IEC 60601 medical equipment requirements, and the specific therapeutic effectiveness endpoints FDA expects for spinal cord stimulation approvals in chronic pain management applications."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Spinal Nerve Stimulation Program?",
+    "description": "Our neurological device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

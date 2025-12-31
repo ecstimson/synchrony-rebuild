@@ -1,0 +1,114 @@
+{
+  "page_slug": "peripheral-vascular",
+  "page_title": "Peripheral Vascular | Synchrony Labs",
+  "parent_hub": {
+    "name": "Cardiovascular",
+    "url": "/areas-of-expertise/cardiovascular"
+  },
+  "hero": {
+    "headline": "Peripheral Vascular",
+    "description": "Peripheral intervention device validation from carotid stent systems to AAA containment with biomechanical stress assessment and embolic protection characterization."
+  },
+  "sub_services": {
+    "title": "Complete Peripheral Vascular Services",
+    "description": "We provide specialized testing for peripheral vascular intervention devices, addressing unique large vessel biomechanics, long lesion coverage, and territory-specific challenges from carotid circulation to femoropopliteal applications.",
+    "cards": [
+      {
+        "icon_name": "Brain",
+        "title": "Carotid Stent",
+        "description": "Carotid artery stent validation including deployment characterization in tortuous anatomy, plaque stabilization assessment, embolic particle quantification, radial force optimization preventing restenosis while maintaining vessel compliance, and cerebral perfusion preservation protocols.",
+        "link_url": "/areas-of-expertise/cardiovascular/peripheral-vascular/carotid-stent"
+      },
+      {
+        "icon_name": "Layers",
+        "title": "AAA Device",
+        "description": "Abdominal aortic aneurysm device validation with endograft deployment precision assessment, seal zone characterization preventing endoleak, migration resistance evaluation, and durability testing addressing aortic wall stress throughout cardiac cycles.",
+        "link_url": "/areas-of-expertise/cardiovascular/peripheral-vascular/aaa-device"
+      },
+      {
+        "icon_name": "Filter",
+        "title": "IVC Filter",
+        "description": "Inferior vena cava filter validation including deployment accuracy in varying vessel diameters, clot capture efficiency assessment, filter tilt characterization, retrieval force quantification, and vessel wall trauma evaluation.",
+        "link_url": "/areas-of-expertise/cardiovascular/peripheral-vascular/ivc-filter"
+      },
+      {
+        "icon_name": "Shield",
+        "title": "Embolic Protection",
+        "description": "Embolic protection device validation with particle capture efficiency characterization during carotid and peripheral interventions, flow preservation assessment, deployment accuracy evaluation, and retrieval success quantification preventing periprocedural stroke and distal embolization.",
+        "link_url": "/areas-of-expertise/cardiovascular/peripheral-vascular/embolic-protection"
+      },
+      {
+        "icon_name": "Pill",
+        "title": "DES",
+        "description": "Drug-eluting stent validation for peripheral applications including release kinetics in SFA and popliteal territories, long lesion coverage assessment, biomechanical stress resistance under compression and flexion, and primary patency protocols for femoropopliteal disease.",
+        "link_url": "/areas-of-expertise/cardiovascular/peripheral-vascular/des"
+      },
+      {
+        "icon_name": "Circle",
+        "title": "DCB",
+        "description": "Drug-coated balloon validation for peripheral interventions including paclitaxel transfer in calcified vessels, long lesion treatment protocols, below-the-knee applications, tissue concentration quantification in SFA and popliteal segments, and freedom from target lesion revascularization assessment.",
+        "link_url": "/areas-of-expertise/cardiovascular/peripheral-vascular/dcb"
+      }
+    ]
+  },
+  "primary_content": {
+    "title": "What We Test",
+    "description": "Peripheral vascular devices restore perfusion to limbs and organs through scaffolding, exclusion, or filtration, requiring validation that demonstrates durability under biomechanical stresses absent in coronary circulation. Superficial femoral artery stents endure compression, flexion, and torsion throughout gait cycles while carotid platforms balance plaque coverage against embolic particle release during deployment. AAA endografts must achieve durable seal zones preventing endoleak while accommodating vessel tortuosity and angulation. Drug-eluting peripheral platforms demand long lesion coverage with sustained antiproliferative activity addressing different restenosis mechanisms than coronary applications. Each territory presents unique challenges from limb movement biomechanics to varying vessel compliance and disease morphology.\n\nWe evaluate mechanical performance through compression testing, flexion protocols, and torsion assessment replicating physiological loading conditions in femoropopliteal segments. Our vascular testing laboratories feature anatomically accurate models spanning carotid bifurcations, aortic aneurysm geometries, and lower extremity vessel configurations including calcification patterns and tortuosity. Deployment characterization employs high-resolution imaging tracking stent expansion, graft apposition, and seal zone quality. For drug-eluting platforms, release kinetics assessment addresses extended elution supporting long lesion treatment. Embolic protection evaluation quantifies particle capture efficiency across size ranges while flow preservation protocols ensure adequate perfusion maintenance.\n\nISO 10993 biocompatibility standards guide material evaluation while ISO 25539 specifications inform mechanical testing requirements for peripheral vascular stents. Device-specific standards address AAA endograft assessment and embolic protection system characterization. Our GLP-compliant testing supports both 510(k) and PMA pathways across peripheral vascular categories. Whether validating next-generation nitinol stent platforms, modular endograft systems, or novel embolic protection technologies, our protocols demonstrate mechanical durability, deployment precision, and clinical performance that peripheral vascular indications demand.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Biomechanical Stress Resistance Under Physiological Loading",
+          "description": "Compression testing simulates external vessel loading while flexion protocols replicate hip and knee movement effects on femoropopliteal stents. Torsion assessment evaluates rotational stress resistance. Combined loading scenarios address worst-case biomechanical environments encountered during normal ambulation."
+        },
+        {
+          "title": "Long Lesion Coverage and Extended Drug Delivery",
+          "description": "Peripheral applications often require treatment of diffuse disease spanning 10-20 cm vessel segments. Release kinetics protocols validate sustained antiproliferative activity throughout extended lesion lengths while mechanical assessment addresses scaffold continuity and flexibility across anatomical segments."
+        },
+        {
+          "title": "Carotid Plaque Stabilization and Embolic Debris Quantification",
+          "description": "Specialized protocols measure embolic particle release during carotid stent deployment, characterizing size distribution and quantity. Plaque coverage assessment evaluates cell design preventing protrusion while radial force optimization balances restenosis prevention against vessel compliance maintenance."
+        },
+        {
+          "title": "AAA Endograft Seal Zone and Endoleak Prevention",
+          "description": "Deployment precision protocols assess graft apposition quality in seal zones while pressurization testing detects Type I endoleak. Migration resistance evaluation applies physiological aortic pressure throughout extended timepoints. Modular junction integrity characterizes Type III endoleak prevention."
+        },
+        {
+          "title": "Embolic Protection Capture Efficiency and Flow Preservation",
+          "description": "Standardized particle suspensions across clinically relevant size ranges quantify capture efficiency during protection device deployment. Pressure gradient measurement ensures adequate flow maintenance. Retrieval protocols assess loaded filter navigation through vascular access sites."
+        },
+        {
+          "title": "Primary Patency and Freedom from Target Lesion Revascularization",
+          "description": "Vessel diameter measurements throughout follow-up periods quantify restenosis progression using standardized duplex ultrasound protocols. Binary restenosis assessment and clinically driven TLR rates address clinical efficacy endpoints specific to peripheral vascular applications."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Peripheral Vascular",
+    "description": null,
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Peripheral Vascular Testing Infrastructure",
+        "description": "Dedicated peripheral vascular laboratories feature biomechanical testing systems simulating compression, flexion, and torsion encountered in femoropopliteal segments. Anatomically accurate models replicate carotid bifurcations, aortic aneurysms, and lower extremity vasculature including calcification and tortuosity. High-resolution imaging systems characterize deployment across challenging anatomies while specialized fixtures accommodate both self-expanding and balloon-expandable peripheral platforms."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Peripheral Intervention Expertise",
+        "description": "Our team understands unique biomechanical requirements distinguishing peripheral from coronary applications, including external compression forces, limb movement effects, and territory-specific disease patterns. This specialized expertise translates to protocol designs addressing long lesion coverage requirements, durability under physiological stress, and the comprehensive validation peripheral vascular devices demand across diverse anatomical territories."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Peripheral Device Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for peripheral vascular devices across stent, endograft, and embolic protection categories. We understand both 510(k) and PMA pathway requirements including biomechanical durability demonstration, territory-specific performance validation, and the clinical endpoints FDA expects for submissions addressing carotid, aortic, and lower extremity applications."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Peripheral Vascular Program?",
+    "description": "Our cardiovascular device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

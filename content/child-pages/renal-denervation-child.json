@@ -1,0 +1,71 @@
+{
+  "page_slug": "renal-denervation",
+  "page_title": "Renal Denervation Testing Services | GLP Preclinical CRO | Synchrony Labs",
+  "parent_page": {
+    "name": "Structural Heart",
+    "url": "/preclinical-services/cardiovascular-disease-testing/structural-heart-testing"
+  },
+  "hero": {
+    "headline": "Renal Denervation Testing Services",
+    "description": "Specialized preclinical validation for catheter-based renal denervation systems with sympathetic nerve ablation assessment, energy delivery characterization, and chronic reinnervation evaluation."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Renal denervation devices treat resistant hypertension by disrupting sympathetic nerves surrounding renal arteries. These catheter-based systems must prove they can achieve complete nerve ablation while preserving renal artery integrity and kidney function. Whether using radiofrequency energy or ultrasound, devices need validation showing sustained blood pressure reduction without nerve regrowth over time.\n\nWe test nerve ablation effectiveness through specialized immunohistochemistry that visualizes sympathetic fiber destruction, measuring norepinephrine levels to confirm functional denervation, and tracking blood pressure changes that demonstrate therapeutic benefit. Our protocols evaluate energy delivery consistency across varying vessel anatomies, ensuring circumferential ablation without creating arterial injury. From acute safety assessment through extended reinnervation studies, our testing addresses the complete validation path these hypertension devices require.\n\nISO 10993 biocompatibility standards guide chronic arterial contact assessment while FDA guidance for neurological devices informs ablation validation protocols. Our testing supports both early feasibility studies under IDE applications and comprehensive PMA submissions. Whether validating radiofrequency catheter designs or ultrasound transducer arrays, our protocols demonstrate the ablation completeness and renal safety FDA expects for hypertension treatment devices.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Sympathetic Nerve Ablation Verification",
+          "description": "Specialized immunohistochemistry visualizes sympathetic fiber destruction while norepinephrine analysis confirms functional denervation, with quantitative protocols characterizing ablation depth and completeness across arterial segments."
+        },
+        {
+          "title": "Energy Delivery Characterization",
+          "description": "Temperature and impedance monitoring track radiofrequency energy distribution and tissue contact quality while ultrasound mapping validates focal zones, penetration depth, and circumferential coverage achieving complete denervation."
+        },
+        {
+          "title": "Renal Artery Safety and Function Assessment",
+          "description": "Angiography and intravascular ultrasound evaluate arterial integrity and healing while renal function monitoring confirms preserved kidney performance throughout chronic observation periods."
+        },
+        {
+          "title": "Chronic Reinnervation Evaluation",
+          "description": "Serial nerve fiber assessment at multiple timepoints detects sympathetic regrowth while blood pressure monitoring identifies therapeutic durability, with histological analysis characterizing long-term ablation stability."
+        },
+        {
+          "title": "Catheter Performance and Electrode Contact",
+          "description": "Delivery system testing evaluates navigation through renal anatomy and electrode positioning while impedance monitoring confirms tissue contact and multi-electrode systems demonstrate circumferential ablation coverage."
+        },
+        {
+          "title": "Blood Pressure Response and Therapeutic Efficacy",
+          "description": "Continuous hemodynamic monitoring tracks acute and chronic blood pressure changes with ambulatory assessment characterizing sustained response and protocols evaluating bilateral versus unilateral denervation effectiveness."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Renal Denervation Testing",
+    "cards": [
+      {
+        "icon_name": "Target",
+        "title": "Specialized Renal Denervation Infrastructure",
+        "description": "Two catheterization laboratories equipped for renal artery access feature specialized ablation monitoring systems and anatomical models spanning vessel size variations. Our nerve assessment capabilities include immunohistochemistry facilities, norepinephrine analysis equipment, and comprehensive blood pressure monitoring systems enabling complete denervation validation from acute ablation through chronic reinnervation assessment."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Sympathetic Nerve Ablation Expertise",
+        "description": "Our team combines cardiovascular device experience with specialized knowledge of sympathetic nervous system anatomy and ablation technologies. This expertise translates to protocols addressing energy delivery optimization, nerve fiber assessment methodologies, and the chronic observation requirements hypertension devices demand for demonstrating sustained therapeutic benefit without sympathetic nerve regrowth."
+      },
+      {
+        "icon_name": "Activity",
+        "title": "Proven Ablation Device Regulatory Success",
+        "description": "Our data packages have supported FDA submissions for ablation-based therapeutic devices across multiple tissue targets. We understand neurological device guidance requirements, energy delivery safety validation, and the comprehensive efficacy demonstration FDA expects for devices treating systemic conditions through targeted nerve disruption addressing both acute ablation completeness and long-term therapeutic durability."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your renal denervation device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

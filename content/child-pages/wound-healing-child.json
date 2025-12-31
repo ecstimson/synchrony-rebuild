@@ -1,0 +1,71 @@
+{
+  "page_slug": "wound-healing",
+  "page_title": "Wound Healing | Synchrony Labs",
+  "parent_page": {
+    "name": "Dermatological",
+    "url": "/areas-of-expertise/dermatological"
+  },
+  "hero": {
+    "headline": "Wound Healing",
+    "description": "Wound closure devices face unique challenges proving healing acceleration while preventing infection and minimizing scar formation. We test closure effectiveness, tissue integration, and healing quality using standardized wound models that address both 510(k) and PMA regulatory pathways."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Wound healing devices must prove they accelerate closure progression while maintaining tissue integrity and preventing complications that compromise therapeutic outcomes. Closure devices need to demonstrate tensile strength development that protects wounds from dehiscence while negative pressure systems require validation of pressure distribution uniformity across wound beds. Advanced dressings must show moisture balance maintenance that supports epithelialization without creating maceration conditions. Each technology addresses different healing phase requirements, from initial hemostasis through granulation tissue formation to final epithelialization and remodeling stages.\n\nWe evaluate healing progression using planimetric imaging that tracks wound area reduction over time while histopathological analysis characterizes tissue quality at closure sites. Mechanical testing quantifies tensile strength development across healing phases while specialized wound models replicate acute surgical incisions, chronic ulcer conditions, and infected wound scenarios requiring validated assessment. Our protocols measure granulation tissue formation quality, collagen deposition patterns, and epithelialization rates using standardized histological scoring systems. We track inflammatory cell infiltration dynamics, angiogenesis progression, and extracellular matrix remodeling that determine functional healing outcomes.\n\nISO 10993 biocompatibility standards guide dermal contact assessment while wound-specific protocols address both acute and chronic healing validation requirements. Testing supports 510(k) pathways for devices demonstrating substantial equivalence to cleared wound management technologies and PMA submissions for breakthrough healing platforms requiring comprehensive effectiveness demonstration. Whether validating surgical closure devices, negative pressure therapy systems, or tissue scaffolds promoting chronic wound resolution, our protocols generate data addressing FDA wound healing device guidance expectations.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Wound Closure Rate Quantification",
+          "description": "Planimetric imaging analysis tracks wound area reduction throughout healing phases while measuring closure progression kinetics that demonstrate healing acceleration compared to standard care control groups using statistically validated assessment methodologies."
+        },
+        {
+          "title": "Granulation Tissue Quality Assessment",
+          "description": "Histopathological evaluation characterizes granulation tissue formation using standardized scoring systems that quantify cellular infiltration patterns, angiogenesis density, and extracellular matrix composition throughout wound bed maturation phases."
+        },
+        {
+          "title": "Tensile Strength Development",
+          "description": "Mechanical testing measures wound tensile strength progression across healing time points while evaluating suture retention forces and tissue resistance to dehiscence under physiological stress conditions replicating patient activity levels."
+        },
+        {
+          "title": "Epithelialization Progression",
+          "description": "Quantitative immunohistochemistry tracks keratinocyte migration and epithelial layer formation across wound surfaces while measuring re-epithelialization rates that determine complete wound closure achievement and barrier function restoration."
+        },
+        {
+          "title": "Scar Formation Characterization",
+          "description": "Collagen organization analysis using polarized light microscopy quantifies scar tissue quality while measuring scar width, elevation characteristics, and fibrosis extent that determine cosmetic outcomes and functional tissue restoration."
+        },
+        {
+          "title": "Biocompatibility and Tissue Response",
+          "description": "ISO 10993-10 dermal irritation and sensitization protocols evaluate allergic response potential while chronic implantation studies assess inflammatory cell infiltration, foreign body response development, and long-term tissue integration at device-tissue interfaces."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Wound Healing",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Wound Assessment Infrastructure",
+        "description": "Purpose-built facilities enable comprehensive wound healing evaluation through standardized surgical wound creation, chronic ulcer models, and controlled healing environment maintenance. Our histopathology laboratories feature advanced imaging systems for granulation tissue characterization while mechanical testing equipment quantifies tensile strength development throughout healing phases. Sterile procedure suites accommodate both acute wound closure validation and chronic wound therapy assessment under controlled environmental conditions."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Healing Progression Expertise",
+        "description": "Validated wound models replicate acute surgical incisions, chronic venous ulcers, diabetic wound conditions, and pressure ulcer scenarios enabling device performance assessment across clinically relevant healing challenges. Our team understands wound bed preparation requirements, healing phase dynamics, and tissue remodeling processes that device manufacturers must address for regulatory submissions. This expertise translates to protocol designs capturing healing acceleration demonstration, infection prevention validation, and scar minimization evidence that FDA wound healing device pathways require."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Dermal Device Regulatory Success",
+        "description": "Successful FDA submissions across wound closure systems, negative pressure therapy platforms, and tissue scaffold technologies demonstrate our ability to generate data addressing reviewer expectations for wound healing devices. We understand both 510(k) substantial equivalence pathways and PMA breakthrough device requirements including chronic wound healing demonstration, biocompatibility validation per ISO 10993 dermal contact standards, and the specific healing progression endpoints FDA expects for wound management technology approvals."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Wound Healing Program?",
+    "description": "Our dermatological device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

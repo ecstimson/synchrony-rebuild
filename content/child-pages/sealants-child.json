@@ -1,0 +1,71 @@
+{
+  "page_slug": "sealants",
+  "page_title": "Sealants | Synchrony Labs",
+  "parent_page": {
+    "name": "Gastrointestinal",
+    "url": "/areas-of-expertise/gastrointestinal"
+  },
+  "hero": {
+    "headline": "Sealants",
+    "description": "Tissue sealants face unique challenges proving adhesion strength withstands intestinal pressure while supporting healing without inflammatory complications. We test sealing effectiveness, burst pressure resistance, and tissue integration using anastomotic leak models that address fibrin-based, synthetic polymer, and biological sealant platforms."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Surgical sealants preventing anastomotic leaks must demonstrate adhesion strength sufficient to withstand physiological intestinal pressure throughout healing phases while supporting tissue repair without triggering excessive inflammatory responses. Fibrin-based sealants require polymerization kinetics characterization showing rapid gel formation that maintains integrity under bowel peristalsis conditions. Synthetic polymer platforms need curing time validation and tissue adhesion assessment across varying moisture conditions encountered at surgical sites. Biological sealants demand biocompatibility demonstration proving foreign body reaction minimization while supporting healing progression. Each sealant chemistry addresses different mechanical and biological performance requirements needing validated effectiveness protocols.\n\nWe evaluate sealant performance using standardized burst pressure protocols that measure seal integrity under incrementally increasing luminal pressure until failure occurs while tracking leak development patterns and pressure thresholds. Tissue adhesion testing quantifies bond strength to intestinal tissue under both dry and moist conditions while measuring peel strength and shear resistance throughout healing time points. Healing quality assessment uses histopathological examination characterizing tissue integration patterns, inflammatory cell infiltration dynamics, and granulation tissue formation at sealant application sites. Our anastomotic leak models replicate surgical closure scenarios enabling sealant effectiveness validation under realistic physiological stress conditions including peristaltic motion and luminal pressure fluctuations.\n\nISO 10993 biocompatibility standards guide tissue contact assessment while sealant-specific protocols address both acute sealing performance and chronic healing support validation requirements. Testing supports 510(k) pathways for sealants demonstrating substantial equivalence to cleared products and PMA submissions for breakthrough adhesive technologies requiring comprehensive effectiveness demonstration. Whether characterizing fibrin sealant polymerization kinetics, validating synthetic adhesive curing performance, or assessing biological sealant tissue integration, our protocols generate data addressing gastrointestinal surgical sealant regulatory expectations and clinical leak prevention requirements.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Burst Pressure and Seal Integrity",
+          "description": "Standardized burst testing measures maximum pressure resistance before seal failure while quantifying leak threshold pressures and failure mode characterization that determine sealant effectiveness preventing anastomotic leaks under physiological and stress conditions."
+        },
+        {
+          "title": "Tissue Adhesion Strength",
+          "description": "Mechanical testing quantifies bond strength to intestinal tissue surfaces under dry and moist application conditions while measuring peel forces, shear resistance, and adhesion durability that determine seal maintenance throughout healing phases."
+        },
+        {
+          "title": "Polymerization and Curing Kinetics",
+          "description": "Time-dependent characterization tracks gel formation rates for fibrin systems and polymer curing progression while measuring working time windows, set time achievement, and mechanical property development that determine clinical application feasibility and handling characteristics."
+        },
+        {
+          "title": "Healing Quality Assessment",
+          "description": "Histopathological evaluation characterizes tissue integration quality at sealant application sites while quantifying inflammatory response severity, granulation tissue formation patterns, and foreign body reaction development that determine healing support versus complication induction."
+        },
+        {
+          "title": "Biocompatibility and Tissue Response",
+          "description": "ISO 10993-6 implantation testing evaluates local tissue reactions while measuring inflammatory cell infiltration, fibrosis development, and degradation product toxicity that determine long-term safety at gastrointestinal tissue contact interfaces."
+        },
+        {
+          "title": "Anastomotic Leak Prevention",
+          "description": "Functional leak detection protocols measure sealing effectiveness immediately following application and throughout healing phases while assessing sealant performance under peristaltic motion and varying luminal pressure conditions replicating clinical scenarios."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Sealants",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Sealant Testing Infrastructure",
+        "description": "Specialized mechanical testing equipment enables standardized burst pressure measurement and tissue adhesion quantification under controlled conditions. Our surgical facilities support anastomotic model creation with leak detection capabilities while histopathology laboratories characterize tissue integration and healing quality using validated scoring systems. Environmental controls accommodate sealant application under varying moisture and temperature conditions encountered clinically."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Tissue Adhesive Expertise",
+        "description": "Validated anastomotic leak models replicate surgical closure scenarios enabling realistic sealant performance assessment under physiological stress conditions including intestinal pressure and peristaltic motion. Our team understands gastrointestinal healing dynamics, sealant chemistry requirements, and the specific effectiveness endpoints surgical adhesive manufacturers must demonstrate for regulatory approvals. This expertise translates to protocol designs capturing leak prevention validation, healing support demonstration, and comprehensive biocompatibility data FDA sealant submissions require."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Surgical Sealant Regulatory Success",
+        "description": "Successful FDA submissions across fibrin-based sealants, synthetic polymer adhesives, and biological tissue sealant platforms demonstrate our ability to generate data addressing surgical adhesive reviewer expectations. We understand sealant device pathways including 510(k) substantial equivalence demonstration, biocompatibility validation per ISO 10993 tissue contact standards, and the specific burst pressure and healing quality endpoints FDA expects for gastrointestinal surgical sealant approvals preventing anastomotic leak complications."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Sealants Program?",
+    "description": "Our gastrointestinal device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

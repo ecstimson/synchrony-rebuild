@@ -1,0 +1,71 @@
+{
+    "page_slug": "aspiration-thrombectomy",
+    "page_title": "Aspiration Thrombectomy Testing Services | Synchrony Labs",
+    "parent_page": {
+        "name": "Neurovascular",
+        "url": "/areas-of-expertise/cardiovascular/neurovascular"
+    },
+    "hero": {
+        "headline": "Aspiration Thrombectomy Testing Services",
+        "description": "Comprehensive preclinical validation for direct aspiration thrombectomy catheters addressing vacuum force generation, clot extraction efficiency, and large vessel occlusion recanalization using the ADAPT technique under GLP compliance."
+    },
+    "primary_content": {
+        "title": "Our Preclinical Expertise",
+        "description": "Direct aspiration thrombectomy catheters rely on vacuum-generated suction forces to extract thrombus material from occluded cerebral vessels, requiring optimization of catheter inner diameter, tip geometry, and aspiration system performance. The ADAPT (A Direct Aspiration first Pass Technique) approach demands large-bore catheter designs that maximize flow rates while maintaining trackability through tortuous neurovascular access routes. Even small increases in catheter inner diameter significantly enhance aspiration effectiveness, making lumen optimization critical for first-pass recanalization success.\n\nWe evaluate aspiration catheter performance using controlled flow circuits that quantify vacuum force generation at the catheter tip while measuring clot extraction rates across standardized thrombus compositions. Our cerebrovascular phantom systems replicate internal carotid and middle cerebral artery geometries enabling navigation assessment through representative access challenges. Specialized protocols compare aspiration-only approaches against combined aspiration-retrieval techniques while quantifying complete recanalization rates and distal embolization prevention.\n\nFDA guidance for neurothrombectomy devices requires demonstration of clot removal effectiveness alongside navigation capability validation. ISO 10993 biocompatibility standards guide catheter material assessment while device-specific protocols address aspiration force characterization, tip suction quantification, and vessel wall interaction. Our GLP-compliant testing supports 510(k) pathways for aspiration thrombectomy systems. Whether validating next-generation large-bore aspiration catheters or optimized tip designs for enhanced clot engagement, our protocols generate data addressing FDA expectations for acute ischemic stroke treatment devices.",
+        "key_capabilities": {
+            "title": "Key Testing Capabilities",
+            "capabilities": [
+                {
+                    "title": "Vacuum Force and Flow Rate Characterization",
+                    "description": "Precision measurement systems quantify tip suction forces and aspiration flow rates across catheter designs while evaluating vacuum generation efficiency through varying catheter lengths and aspiration pump configurations."
+                },
+                {
+                    "title": "Clot Extraction Efficiency Testing",
+                    "description": "Standardized synthetic clot formulations enable reproducible extraction testing while measuring complete removal rates, partial aspiration outcomes, and clot fragmentation potential across thrombus compositions."
+                },
+                {
+                    "title": "Large-Bore Catheter Navigation Assessment",
+                    "description": "Anatomically accurate cerebrovascular phantoms evaluate trackability and pushability of large-diameter aspiration catheters through tortuous access routes while maintaining adequate lumen patency for effective aspiration."
+                },
+                {
+                    "title": "First-Pass Complete Recanalization Quantification",
+                    "description": "Controlled testing protocols measure single-attempt revascularization success using aspiration-only approaches while comparing ADAPT technique effectiveness against stent retriever and combined therapy methods."
+                },
+                {
+                    "title": "Tip Geometry and Clot Engagement Optimization",
+                    "description": "Variable tip design testing characterizes clot engagement patterns while measuring the relationship between tip configuration, contact seal quality, and aspiration effectiveness across occlusion scenarios."
+                },
+                {
+                    "title": "Distal Embolization Prevention Assessment",
+                    "description": "Downstream particle capture systems quantify embolic fragment generation during aspiration procedures while evaluating containment effectiveness and clot fragmentation patterns that determine procedural safety."
+                }
+            ]
+        }
+    },
+    "why_choose": {
+        "title": "Why Choose Synchrony for Aspiration Thrombectomy Testing",
+        "cards": [
+            {
+                "icon_name": "Microscope",
+                "title": "Advanced Aspiration Testing Infrastructure",
+                "description": "Dedicated neurovascular laboratories feature precision vacuum measurement systems, anatomically accurate cerebrovascular phantoms, and controlled flow circuits enabling comprehensive aspiration catheter characterization. Our standardized clot formulation protocols ensure reproducible testing while particle capture systems quantify distal embolization prevention effectiveness."
+            },
+            {
+                "icon_name": "Users",
+                "title": "ADAPT Technique Expertise",
+                "description": "Our team understands direct aspiration mechanics, large-bore catheter navigation challenges, and the first-pass recanalization requirements distinguishing aspiration thrombectomy from stent retriever approaches. This expertise translates to protocol designs addressing vacuum force optimization, clot extraction efficiency demonstration, and the specific endpoints FDA expects for aspiration-based stroke treatment devices."
+            },
+            {
+                "icon_name": "CheckCircle",
+                "title": "Proven Aspiration Device Regulatory Success",
+                "description": "Our data packages have supported successful FDA clearances for aspiration thrombectomy catheters across large-bore and intermediate catheter categories. We understand 510(k) pathway requirements including aspiration force characterization, navigation capability validation, and the comprehensive preclinical evidence FDA expects for direct aspiration stroke treatment systems."
+            }
+        ]
+    },
+    "cta_section": {
+        "title": "Ready to Start Your Aspiration Thrombectomy Program?",
+        "description": "Our neurovascular device experts are ready to discuss your aspiration catheter, regulatory pathway, and study requirements to optimize your development timeline.",
+        "primary_button_text": "Schedule Consultation",
+        "primary_button_link": "/contact"
+    }
+}

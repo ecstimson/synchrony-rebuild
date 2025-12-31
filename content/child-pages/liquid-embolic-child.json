@@ -1,0 +1,71 @@
+{
+    "page_slug": "liquid-embolic",
+    "page_title": "Liquid Embolic Agent Testing Services | Synchrony Labs",
+    "parent_page": {
+        "name": "Neurovascular",
+        "url": "/areas-of-expertise/cardiovascular/neurovascular"
+    },
+    "hero": {
+        "headline": "Liquid Embolic Agent Testing Services",
+        "description": "Comprehensive preclinical validation for EVOH-based liquid embolics, cyanoacrylate adhesives, and precipitating polymer systems addressing deliverability, precipitation kinetics, and aneurysm occlusion effectiveness under GLP compliance."
+    },
+    "primary_content": {
+        "title": "Our Preclinical Expertise",
+        "description": "Liquid embolic agents face unique validation challenges requiring controlled precipitation that achieves complete aneurysm or AVM occlusion while preventing non-target embolization into normal cerebral vessels. EVOH copolymer systems dissolved in DMSO must demonstrate predictable solidification kinetics when the solvent disperses into blood, forming casts that conform to complex vascular malformation geometries. Cyanoacrylate adhesives require polymerization timing optimization that allows adequate working time while achieving rapid vessel occlusion.\n\nWe evaluate embolic agent deliverability using microcatheter compatibility testing that characterizes injection force profiles, tip clogging resistance, and flow behavior through varying catheter lengths and diameters. Controlled flow circuits simulate cerebral blood flow conditions during agent delivery while measuring precipitation timing, fill completeness, and migration resistance. Our laboratories feature high-resolution fluoroscopy enabling real-time visualization of radiopaque agent distribution while specialized protocols assess DMSO-induced vasospasm potential and tantalum concentration effects on imaging visibility.\n\nISO 10993 biocompatibility standards guide embolic agent evaluation including cytotoxicity, sensitization, and chronic implantation response assessment. FDA guidance for liquid embolic devices informs protocol development addressing both AVM embolization and intracranial aneurysm treatment applications. Our GLP-compliant testing supports PMA pathways for novel embolic formulations and 510(k) submissions for agents demonstrating substantial equivalence to established platforms like Onyx and n-BCA systems.",
+        "key_capabilities": {
+            "title": "Key Testing Capabilities",
+            "capabilities": [
+                {
+                    "title": "Precipitation Kinetics and Solidification Assessment",
+                    "description": "Controlled flow circuits measure EVOH polymer precipitation timing as DMSO disperses into blood analog fluids while characterizing solidification front progression and final cast mechanical properties."
+                },
+                {
+                    "title": "Microcatheter Deliverability Testing",
+                    "description": "Injection force profiling through representative microcatheter systems quantifies delivery characteristics while tip clogging protocols assess working time limitations and catheter compatibility across product configurations."
+                },
+                {
+                    "title": "Aneurysm Fill Completeness Evaluation",
+                    "description": "Patient-specific aneurysm models enable fill pattern assessment while measuring dome packing density, neck coverage completeness, and residual flow elimination under physiological pressure conditions."
+                },
+                {
+                    "title": "Migration and Reflux Resistance",
+                    "description": "Pulsatile flow protocols evaluate agent stability following delivery while quantifying migration resistance and reflux prevention that determine non-target embolization risk during and after procedures."
+                },
+                {
+                    "title": "Radiopacity and Imaging Characterization",
+                    "description": "Tantalum and barium sulfate concentration optimization studies balance fluoroscopic visibility requirements against agent viscosity and precipitation behavior while CT imaging protocols assess long-term marker stability."
+                },
+                {
+                    "title": "Biocompatibility and Inflammatory Response",
+                    "description": "ISO 10993 compliant testing evaluates tissue response including foreign body reaction development, inflammatory cell infiltration, and vessel wall healing surrounding implanted embolic material over chronic timeframes."
+                }
+            ]
+        }
+    },
+    "why_choose": {
+        "title": "Why Choose Synchrony for Liquid Embolic Testing",
+        "cards": [
+            {
+                "icon_name": "Microscope",
+                "title": "Specialized Embolic Agent Testing Infrastructure",
+                "description": "Dedicated neurovascular laboratories feature high-resolution fluoroscopy for real-time agent visualization, controlled pulsatile flow circuits replicating cerebral hemodynamics, and patient-specific aneurysm models enabling fill pattern assessment. Our microcatheter compatibility testing systems characterize delivery through representative catheter lengths while injection force profiling quantifies working time parameters."
+            },
+            {
+                "icon_name": "Users",
+                "title": "Cerebrovascular Embolization Expertise",
+                "description": "Our team understands liquid embolic precipitation mechanics, microcatheter delivery optimization, and the aneurysm occlusion requirements distinguishing cerebrovascular embolization from peripheral applications. This expertise translates to protocol designs addressing precipitation timing validation, fill completeness demonstration, and the comprehensive safety evidence FDA expects for intracranial embolic agent submissions."
+            },
+            {
+                "icon_name": "CheckCircle",
+                "title": "Proven Embolic Device Regulatory Success",
+                "description": "Our data packages have supported successful FDA approvals for liquid embolic systems across EVOH polymer and cyanoacrylate categories. We understand both PMA pathway requirements for novel formulations and 510(k) substantial equivalence demonstrations including precipitation characterization, deliverability validation, and the biocompatibility testing protocols embolic agent clearances demand."
+            }
+        ]
+    },
+    "cta_section": {
+        "title": "Ready to Start Your Liquid Embolic Program?",
+        "description": "Our neurovascular device experts are ready to discuss your embolic agent, regulatory pathway, and study requirements to optimize your development timeline.",
+        "primary_button_text": "Schedule Consultation",
+        "primary_button_link": "/contact"
+    }
+}

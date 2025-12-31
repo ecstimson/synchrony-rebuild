@@ -1,0 +1,127 @@
+{
+  "page_slug": "cardiovascular",
+  "page_title": "Cardiovascular | Synchrony Labs",
+  "hero": {
+    "headline": "Cardiovascular",
+    "description": "Comprehensive preclinical validation across heart failure, structural heart, neurovascular, coronary, peripheral, and electrophysiology device categories."
+  },
+  "subpages_section": {
+    "title": "Complete Cardiovascular Portfolio",
+    "description": "Select your specific area below, or scroll down to learn more about our cardiovascular expertise and specialized capabilities.",
+    "cards": [
+      {
+        "icon_name": "HeartPulse",
+        "title": "Heart Failure",
+        "description": "LVAD performance characterization, cardiopulmonary bypass validation, mechanical circulatory support assessment, and myocardial ischemia model development.",
+        "link_url": "/areas-of-expertise/cardiovascular/heart-failure"
+      },
+      {
+        "icon_name": "Heart",
+        "title": "Structural Heart",
+        "description": "TAVR deployment mechanics, TEER grasping validation, mitral and tricuspid valve replacement protocols, and LAA closure device assessment.",
+        "link_url": "/areas-of-expertise/cardiovascular/structural-heart"
+      },
+      {
+        "icon_name": "Brain",
+        "title": "Neurovascular",
+        "description": "Liquid embolic characterization, mechanical thrombectomy validation, aspiration catheter performance, and neurovascular stent evaluation.",
+        "link_url": "/areas-of-expertise/cardiovascular/neurovascular"
+      },
+      {
+        "icon_name": "Activity",
+        "title": "Coronary Vascular",
+        "description": "Drug-eluting stent platforms with release kinetics, polymer biocompatibility, and drug-coated balloon validation for in-stent restenosis.",
+        "link_url": "/areas-of-expertise/cardiovascular/coronary-vascular"
+      },
+      {
+        "icon_name": "GitBranch",
+        "title": "Peripheral Vascular",
+        "description": "Carotid stent validation, AAA device containment, IVC filter capture, embolic protection effectiveness, and peripheral DES/DCB protocols.",
+        "link_url": "/areas-of-expertise/cardiovascular/peripheral-vascular"
+      },
+      {
+        "icon_name": "Zap",
+        "title": "Electrophysiology",
+        "description": "Ablation catheter energy delivery characterization and mapping system spatial accuracy validation for arrhythmia treatment.",
+        "link_url": "/areas-of-expertise/cardiovascular/electrophysiology"
+      }
+    ]
+  },
+  "why_choose_section": {
+    "title": "Why Choose Synchrony for Cardiovascular Devices",
+    "description": "Four decades of exclusive cardiovascular focus provides specialized infrastructure, deep therapeutic expertise, and proven regulatory success that general preclinical facilities cannot match.",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Dual Catheterization Laboratories",
+        "description": "Two fully-equipped cath labs with high-resolution fluoroscopy, digital subtraction angiography, IVUS integration, and hemodynamic monitoring systems enable comprehensive device validation across all cardiovascular territories."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Duke University Heritage",
+        "description": "Founded by interventional cardiologists who pioneered minimally invasive techniques, our team understands deployment mechanics, hemodynamics, and vascular healing from direct clinical experience that informs protocol design."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Regulatory Track Record",
+        "description": "Hundreds of successful FDA submissions across 510(k) and PMA pathways demonstrate our ability to generate data that withstands reviewer scrutiny for Class II and Class III cardiovascular devices."
+      }
+    ]
+  },
+  "featured_services": {
+    "title": "Featured Cardiovascular Capabilities",
+    "services": [
+      {
+        "title": "LVAD Performance Validation",
+        "description": "Left ventricular assist devices sustaining cardiac output face unique challenges validating pump durability while preventing thrombosis and hemolysis complications. We evaluate continuous-flow performance using pressure-volume loop analysis and ventricular function monitoring that captures device-heart interaction throughout cardiac cycles. Mock circulation systems replicate failing heart conditions while hemocompatibility protocols quantify hemolysis indices, platelet activation, and von Willebrand factor degradation using ISO 10993-4 adapted for rotary blood pumps. Our GLP-compliant protocols support PMA pathways for Class III life-sustaining devices across bridge-to-transplant and destination therapy applications.",
+        "cta_text": "Learn More About Heart Failure",
+        "cta_url": "/areas-of-expertise/cardiovascular/heart-failure",
+        "image_placeholder": "[LVAD validation visualization]"
+      },
+      {
+        "title": "TAVR Deployment Characterization",
+        "description": "Transcatheter aortic valve replacement requires proving deployment precision across varying anatomies while preventing paravalvular leak in heavily calcified annuli. We test valve expansion dynamics using high-resolution fluoroscopy and transesophageal echocardiography that capture positioning stability throughout cardiac cycles. Pulse duplicator systems measure hemodynamic performance against ISO 5840 standards while accelerated durability protocols simulate 200-400 million cycles. Whether validating balloon-expandable or self-expanding platforms, our protocols address both PMA requirements for breakthrough technologies and 510(k) pathways demonstrating substantial equivalence to established predicates.",
+        "cta_text": "Learn More About Structural Heart",
+        "cta_url": "/areas-of-expertise/cardiovascular/structural-heart",
+        "image_placeholder": "[TAVR validation visualization]"
+      },
+      {
+        "title": "Drug-Eluting Stent Validation",
+        "description": "Combination products integrating device mechanics with pharmaceutical delivery face regulatory coordination between CDRH and CDER review centers. We characterize drug release kinetics using HPLC analysis while measuring tissue uptake that determines antiproliferative effectiveness in vessel walls. Polymer coating assessment utilizes scanning electron microscopy identifying uniformity across stent struts while vascular healing studies track endothelialization progression through standardized histomorphometry. Our protocols support both 510(k) pathways comparing to predicate devices and PMA submissions for novel drug-polymer combinations requiring comprehensive safety demonstration.",
+        "cta_text": "Learn More About Coronary Vascular",
+        "cta_url": "/areas-of-expertise/cardiovascular/coronary-vascular",
+        "image_placeholder": "[DES validation visualization]"
+      }
+    ]
+  },
+  "related_services": {
+    "title": "Complementary Expertise",
+    "description": "Cardiovascular device programs often benefit from our capabilities across other therapeutic areas addressing specialized validation requirements.",
+    "cards": [
+      {
+        "title": "Gastrointestinal",
+        "description": "Bariatric device validation, robotic surgical platform assessment, and tissue sealant characterization address unique challenges in digestive system applications requiring specialized protocols beyond cardiovascular expertise.",
+        "cta_text": "Explore Gastrointestinal â†’",
+        "cta_url": "/areas-of-expertise/gastrointestinal"
+      },
+      {
+        "title": "Neurological",
+        "description": "Hydrocephalus shunt validation, dural sealant assessment, and spinal nerve stimulation protocols address central nervous system device requirements distinct from cardiovascular applications.",
+        "cta_text": "Explore Neurological â†’",
+        "cta_url": "/areas-of-expertise/neurological"
+      },
+      {
+        "title": "Musculoskeletal",
+        "description": "Osteoarthritis model development and bone healing assessment provide validated platforms for orthopedic device evaluation addressing biomechanical requirements beyond cardiovascular scope.",
+        "cta_text": "Explore Musculoskeletal â†’",
+        "cta_url": "/areas-of-expertise/musculoskeletal"
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Cardiovascular Program?",
+    "description": "Our cardiovascular experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

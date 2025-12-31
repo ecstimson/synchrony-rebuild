@@ -1,0 +1,71 @@
+{
+  "page_slug": "copd-therapies",
+  "page_title": "COPD Therapies | Synchrony Labs",
+  "parent_page": {
+    "name": "Respiratory",
+    "url": "/areas-of-expertise/respiratory"
+  },
+  "hero": {
+    "headline": "COPD Therapies",
+    "description": "Bronchoscopic volume reduction devices face unique challenges proving therapeutic benefit while ensuring deployment safety in diseased airways. We test endobronchial valve performance, coil insertion effectiveness, and pulmonary function improvements using validated emphysema models that address both 510(k) and PMA regulatory pathways."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Chronic obstructive pulmonary disease interventions must demonstrate volume reduction effectiveness while ensuring bronchoscopic deployment safety in hyperinflated diseased lung environments. Endobronchial valves require one-way flow mechanism validation preventing air passage to isolated lobes while permitting secretion drainage from treated regions. Lung coils need deployment precision characterization across varying airway geometries while proving compression force consistency that achieves therapeutic volume reduction. Thermal vapor ablation systems must demonstrate controlled energy delivery producing targeted parenchymal scarring without damaging adjacent healthy tissue. Each platform addresses different emphysema phenotypes requiring specific collateral ventilation assessment and heterogeneous disease distribution validation.\n\nWe evaluate device performance using validated emphysema models that replicate hyperinflation characteristics and impaired gas exchange defining COPD pathophysiology while fluoroscopic guidance systems enable deployment accuracy assessment. Pulmonary function testing protocols measure forced expiratory volume improvements, residual volume reductions, and total lung capacity changes quantifying therapeutic effectiveness through spirometry and whole-body plethysmography. Our capabilities include exercise capacity assessment using six-minute walk distance measurements while arterial blood gas analysis evaluates oxygenation improvements and ventilation efficiency changes. Bronchoscopic navigation systems document deployment precision while computational tomography imaging confirms device positioning and quantifies treated lobe volume reduction throughout study durations.\n\nISO 10993 biocompatibility standards adapted for chronic respiratory device contact guide material safety assessment while FDA guidance for COPD intervention devices addresses both immediate deployment safety and long-term therapeutic effectiveness demonstration requirements. Testing supports 510(k) pathways for platforms demonstrating substantial equivalence to cleared bronchoscopic volume reduction technologies and PMA submissions for breakthrough interventions requiring comprehensive clinical benefit validation. Whether characterizing endobronchial valve sealing integrity, validating coil deployment consistency, or assessing vapor ablation tissue effects, our protocols generate data meeting pulmonary intervention regulatory expectations.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Pulmonary Function Quantification",
+          "description": "Comprehensive spirometry protocols measure forced expiratory volume, vital capacity, and flow-volume loop characteristics while whole-body plethysmography quantifies lung volumes including residual volume, functional residual capacity, and total lung capacity changes demonstrating hyperinflation reduction following bronchoscopic volume reduction interventions."
+        },
+        {
+          "title": "Endobronchial Valve Performance Assessment",
+          "description": "One-way valve mechanism testing validates flow directionality preventing air passage to isolated lobes while permitting secretion drainage using bench testing protocols and deployed function verification. Collateral ventilation assessment characterizes air leakage through interlobar fissures determining valve effectiveness across varying emphysema phenotypes per Chartis system principles."
+        },
+        {
+          "title": "Bronchoscopic Deployment Validation",
+          "description": "Fluoroscopic guidance documentation tracks catheter navigation through diseased airways while measuring deployment precision across segmental, lobar, and subsegmental bronchial targets. Device positioning accuracy assessment evaluates placement consistency relative to computed tomography airway mapping using standardized deployment protocols."
+        },
+        {
+          "title": "Exercise Capacity and Functional Outcomes",
+          "description": "Six-minute walk distance testing quantifies functional capacity improvements while measuring dyspnea scoring and quality of life indicators that translate therapeutic effectiveness to patient-relevant outcomes supporting clinical benefit demonstration for regulatory submissions."
+        },
+        {
+          "title": "Gas Exchange and Ventilation Efficiency",
+          "description": "Arterial blood gas analysis measures partial pressure of oxygen, carbon dioxide retention, and acid-base status changes while ventilation-perfusion assessment evaluates regional lung function distribution improvements following volume reduction addressing ventilation inhomogeneity characteristic of emphysema progression."
+        },
+        {
+          "title": "Long-Term Device Integrity Monitoring",
+          "description": "Serial computed tomography imaging tracks device position stability, valve integrity maintenance, and treated lobe volume persistence throughout chronic implantation while bronchoscopic follow-up assessments evaluate tissue response, granulation tissue formation, and airway patency preservation at deployment sites."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for COPD Therapies",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Bronchoscopic Intervention Infrastructure",
+        "description": "Advanced bronchoscopy suites equipped with flexible and rigid scopes, fluoroscopic guidance systems, and real-time pulmonary function monitoring enable comprehensive bronchoscopic device deployment assessment. Our pulmonary physiology laboratories feature whole-body plethysmography, spirometry systems, and arterial blood gas analysis capabilities while exercise testing facilities accommodate six-minute walk protocols and dyspnea scoring validation. Specialized test fixtures replicate human airway anatomy across varying disease severity levels."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Emphysema Disease Model Expertise",
+        "description": "Validated COPD-induced emphysema models replicate airway remodeling, hyperinflation characteristics, parenchymal destruction patterns, and impaired gas exchange that bronchoscopic volume reduction interventions address. Our team understands pulmonary mechanics, ventilation-perfusion relationships, collateral ventilation assessment methodologies, and device performance optimization in diseased lung environments that COPD technology development requires. This expertise translates to protocol designs capturing therapeutic benefit demonstration alongside comprehensive safety validation."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Pulmonary Device Regulatory Success",
+        "description": "Successful FDA submissions across bronchoscopic valve platforms, lung coil technologies, and minimally invasive pulmonary interventions demonstrate our ability to generate data addressing reviewer expectations for COPD therapeutic devices. We understand both 510(k) substantial equivalence pathways and PMA breakthrough device requirements including pulmonary function improvement demonstration, biocompatibility validation per ISO 10993 respiratory device guidance, and the specific therapeutic effectiveness endpoints FDA expects for volume reduction technology approvals."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your COPD Therapies Program?",
+    "description": "Our respiratory device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

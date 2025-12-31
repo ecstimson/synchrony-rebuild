@@ -1,0 +1,71 @@
+{
+  "page_slug": "lvad",
+  "page_title": "LVAD Testing Services | Synchrony Labs",
+  "parent_page": {
+    "name": "Heart Failure",
+    "url": "/preclinical-services/cardiovascular-disease-testing/heart-failure-testing"
+  },
+  "hero": {
+    "headline": "LVAD Testing Services",
+    "description": "Comprehensive preclinical validation for left ventricular assist devices with hemocompatibility assessment under continuous flow conditions, pump durability protocols, driveline interface evaluation, and ventricular interaction analysis using GLP-compliant methodologies."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Left ventricular assist devices provide life-sustaining cardiac support, requiring validation that demonstrates pump reliability while preventing thrombosis, hemolysis, and infection complications throughout extended implantation periods. LVADs must maintain continuous flow supporting 5-6 liters per minute while preserving ventricular function and enabling potential cardiac recovery. Continuous-flow platforms demand specialized assessment of shear-induced blood damage while pump-ventricle interaction analysis ensures optimal hemodynamic support across varying cardiac function levels.\n\nWe evaluate LVAD performance using pressure-volume loop analysis and ventricular function monitoring that captures device-heart interaction throughout cardiac cycles. Our catheterization laboratories feature mock circulation systems replicating normal and failing heart conditions while specialized surgical models enable driveline tunneling assessment and percutaneous site evaluation. Hemocompatibility testing quantifies hemolysis indices, platelet activation, and von Willebrand factor degradation using ISO 10993-4 protocols adapted for chronic continuous-flow environments found in destination therapy applications.\n\nISO 10993 biocompatibility standards guide long-term implantation assessment while FDA guidance documents for ventricular assist devices inform protocol development addressing pump durability, electrical safety, and infection resistance requirements. Our GLP-compliant testing supports PMA pathways for Class III life-sustaining devices. Whether validating next-generation miniaturized LVADs, pediatric platforms, or destination therapy systems, our protocols demonstrate mechanical reliability, hemocompatibility performance, and driveline integrity that bridge-to-transplant and destination therapy indications demand.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Pump-Ventricle Interaction Analysis",
+          "description": "Pressure-volume loop characterization quantifies ventricular unloading, inflow cannula positioning effects, and outflow graft hemodynamics while assessing cardiac output augmentation and potential for myocardial recovery across heart failure severities"
+        },
+        {
+          "title": "Continuous-Flow Hemocompatibility Assessment",
+          "description": "ISO 10993-4 compliant testing adapted for continuous-flow devices quantifies hemolysis indices, platelet function changes, and von Willebrand factor degradation while evaluating thrombogenic potential under chronic anticoagulation scenarios typical of LVAD therapy"
+        },
+        {
+          "title": "Pump Durability and Reliability Testing",
+          "description": "Accelerated fatigue protocols simulate years of continuous operation through millions of pump cycles with performance monitoring detecting bearing wear, seal integrity changes, and motor efficiency degradation addressing destination therapy durability requirements"
+        },
+        {
+          "title": "Driveline Interface and Infection Resistance",
+          "description": "Percutaneous exit site assessment evaluates tissue integration at skin-driveline interfaces while infection challenge studies characterize bacterial colonization resistance and biofilm formation potential across extended implantation periods"
+        },
+        {
+          "title": "Flow Dynamics and Thrombosis Assessment",
+          "description": "Advanced flow visualization identifies stasis regions within pump chambers that promote thrombus formation while computational fluid dynamics validation assesses shear stress distribution affecting blood damage and platelet activation"
+        },
+        {
+          "title": "Controller and Power System Validation",
+          "description": "Electrical safety testing per IEC 60601 standards validates controller performance, battery longevity, and alarm system reliability while electromagnetic compatibility assessment ensures device operation across environmental conditions and medical equipment proximity"
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for LVAD Testing",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized LVAD Testing Infrastructure",
+        "description": "Two catheterization laboratories configured specifically for ventricular assist device evaluation feature pressure-volume loop analysis systems, continuous hemodynamic monitoring, and mock circulation loops replicating heart failure conditions. Our surgical suites enable driveline implantation studies and percutaneous site assessment while specialized test fixtures accommodate both intracorporeal and extracorporeal LVAD configurations. Accelerated durability systems simulate destination therapy requirements through millions of continuous pump cycles."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Ventricular Assist Device Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered mechanical circulatory support therapies, our team understands ventricular mechanics, pump-heart interaction, and LVAD optimization specific to both bridge-to-transplant and destination therapy applications. This cardiovascular heritage translates to protocol designs addressing FDA Class III requirements including chronic hemocompatibility demonstration, pump durability validation, and the comprehensive safety evidence life-sustaining ventricular assist devices demand for extended support periods."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven LVAD Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for left ventricular assist devices across continuous-flow and pulsatile platforms. We understand Class III life-sustaining device requirements including chronic biocompatibility demonstration through ISO 10993 compliance, destination therapy durability validation, and the specific endpoints FDA expects for LVAD submissions addressing both bridge-to-transplant indications and permanent cardiac support applications requiring years of reliable operation."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your LVAD device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

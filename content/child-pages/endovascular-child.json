@@ -1,0 +1,71 @@
+{
+  "page_slug": "endovascular",
+  "page_title": "Endovascular Robotics | Synchrony Labs",
+  "parent_page": {
+    "name": "Surgical Robotics",
+    "url": "/areas-of-expertise/cardiovascular/robotics"
+  },
+  "hero": {
+    "headline": "Endovascular Robotics",
+    "description": "Robotic endovascular platforms must deliver catheters and devices through vascular anatomy while protecting operators from radiation exposure, maintain precise control during complex interventions, and integrate seamlessly with imaging modalities. We test navigation accuracy in coronary and peripheral territories, measure radiation dose reduction for operators, validate remote manipulation precision, and confirm compatibility with angiography and intravascular imaging systems for both 510(k) and PMA submissions."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Robotic endovascular intervention addresses a critical challenge in modern catheterization laboratories where operators receive cumulative radiation exposure during complex procedures. Your system must enable precise catheter manipulation from a shielded remote workstation while providing visualization and haptic feedback equivalent to tableside technique. The robot must navigate through coronary arteries during PCI, advance through peripheral vessels during complex limb salvage, and deliver large devices during structural heart procedures. All this occurs while the operator sits meters away from the patient, relying on robotic fidelity to sense vessel resistance and control device positioning.\n\nWe test robotic endovascular systems across vascular territories including coronary, peripheral, and visceral circulations. Navigation protocols measure positioning accuracy during simulated PCI through tortuous coronary anatomy and during peripheral interventions through long femoropopliteal segments. Radiation exposure assessment quantifies operator dose reduction achieved by remote workstation operation compared to tableside technique. Force feedback evaluation validates that operators can detect guidewire resistance, stent deployment forces, and balloon inflation through robotic interfaces. We test integration with angiography systems, IVUS platforms, and hemodynamic monitors while measuring setup efficiency and emergency protocol compatibility.\n\nISO 13485 quality management and IEC 60601 electrical safety standards guide robotic medical device development while radiation safety protocols address operator protection claims. Our testing supports 510(k) pathways for robotic catheter delivery systems and PMA submissions for integrated therapeutic platforms. Whether validating a coronary robotic PCI system or characterizing a peripheral intervention robot for complex femoropopliteal disease, our protocols address the navigation precision, radiation protection, force feedback, and procedural integration that endovascular robotics validation requires across multiple vascular territories.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Multi-Territory Navigation Precision",
+          "description": "We measure catheter and guidewire positioning accuracy across coronary, peripheral, and visceral vascular beds, validating robotic navigation through anatomical challenges from coronary bifurcations to long femoropopliteal lesions to visceral artery angulation under remote operator control."
+        },
+        {
+          "title": "Operator Radiation Dose Reduction",
+          "description": "Dosimetry protocols quantify radiation exposure reduction when operators work from shielded remote workstations versus tableside positioning, measuring the occupational safety benefit that represents a primary value proposition for robotic endovascular platforms in fluoroscopy-intensive procedures."
+        },
+        {
+          "title": "Remote Manipulation Force Feedback",
+          "description": "Force measurement systems evaluate haptic feedback transmission through robotic interfaces during guidewire navigation, balloon inflation, and stent deployment, confirming operators can detect vessel resistance and device behavior from remote workstations with fidelity approaching tableside technique."
+        },
+        {
+          "title": "Imaging System Integration",
+          "description": "Testing validates compatibility with angiography equipment, IVUS and OCT platforms, FFR measurement systems, and hemodynamic monitors, confirming robotic platforms integrate seamlessly with standard catheterization laboratory technology without workflow disruption or image quality compromise."
+        },
+        {
+          "title": "Emergency Response Protocols",
+          "description": "Simulated complication scenarios test how quickly operators can transition from remote robotic control to tableside manual intervention during vessel perforation, dissection, or acute closure events where immediate hands-on management may prove necessary."
+        },
+        {
+          "title": "Complex Procedure Capability",
+          "description": "Protocols evaluate robotic system performance during challenging interventions including bifurcation stenting, chronic total occlusion crossing, and multi-vessel PCI, measuring whether remote manipulation enables the same procedural complexity operators achieve with manual technique."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Endovascular Robotics",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Multi-Territory Vascular Infrastructure",
+        "description": "Two catheterization laboratories accommodate robotic platforms with space for remote workstations and shielded operator positions. Anatomically accurate vascular models span coronary bifurcations, femoropopliteal segments, and visceral territory anatomy for comprehensive navigation testing. Radiation dosimetry equipment measures operator exposure reduction while force sensors validate haptic feedback through robotic interfaces. This infrastructure enables endovascular robotics validation across the multiple vascular territories where radiation protection and remote manipulation provide clinical value."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Interventional Cardiology and Vascular Expertise",
+        "description": "We understand the procedural requirements for robotic PCI, peripheral intervention, and visceral vascular procedures that determine clinical adoption. Our team has validated catheter-based devices across the same coronary and peripheral anatomy your robotic system must navigate. This interventional expertise ensures protocols address the force feedback sensitivity, navigation precision, and emergency response capabilities that operators require to trust robotic platforms for complex high-stakes procedures."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Robotic Catheter System Regulatory Success",
+        "description": "Our testing has supported FDA submissions for robotic endovascular platforms pursuing radiation safety claims and enhanced procedural capabilities. We understand how to demonstrate navigation accuracy across vascular territories, quantify operator radiation dose reduction, validate force feedback fidelity, and address human factors through protocols FDA expects for robotic catheter delivery systems. Whether pursuing 510(k) clearance or PMA approval, our data addresses the unique regulatory requirements for robotically-assisted endovascular intervention."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your endovascular robotic platform, target procedures, and regulatory pathway to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

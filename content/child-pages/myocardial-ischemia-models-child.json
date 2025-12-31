@@ -1,0 +1,71 @@
+{
+  "page_slug": "myocardial-ischemia-models",
+  "page_title": "Myocardial Ischemia Models | Synchrony Labs",
+  "parent_page": {
+    "name": "Heart Failure",
+    "url": "/areas-of-expertise/cardiovascular/heart-failure"
+  },
+  "hero": {
+    "headline": "Myocardial Ischemia Models",
+    "description": "Reproducible heart failure model development with controlled coronary occlusion protocols, infarct size quantification using TTC staining and MRI, ventricular remodeling characterization, hemodynamic deterioration assessment, and biomarker validation supporting device testing in standardized disease states using GLP-compliant methodologies."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Myocardial ischemia models create reproducible heart failure states enabling device validation in standardized disease conditions that simulate clinical presentations from acute coronary syndrome to chronic ventricular dysfunction. These controlled ischemia protocols require precise coronary occlusion techniques producing consistent infarct sizes while hemodynamic monitoring captures the ventricular function deterioration, cardiac output reduction, and pressure-volume relationship changes that characterize progressive heart failure. Model development demands careful titration of ischemia severity creating mild, moderate, or severe dysfunction matching specific device testing requirements while maintaining subject viability throughout study durations enabling chronic device evaluation.\n\nWe develop ischemia models using controlled coronary artery ligation that produces reproducible left anterior descending, circumflex, or right coronary territory infarcts with infarct size quantification through TTC staining, cardiac MRI, and electrocardiographic ST-segment analysis. Our catheterization laboratories feature pressure-volume loop systems capturing ventricular function decline while echocardiography tracks wall motion abnormalities, ejection fraction deterioration, and chamber remodeling throughout acute and chronic phases. Biomarker measurement validates ischemic injury through troponin elevation and BNP increases while hemodynamic assessment documents the cardiac output reduction, filling pressure elevation, and compensatory mechanism activation that heart failure progression demonstrates across days to months following infarction.\n\nISO 10993 biocompatibility standards guide testing when devices are evaluated in these disease models while GLP compliance ensures reproducibility and data integrity throughout model development and device validation protocols. Our heart failure models support device testing across mechanical circulatory support, structural heart interventions, and cardiac rhythm management applications requiring standardized disease conditions. Whether developing acute ischemia protocols for hemodynamic support device validation, chronic remodeling models for ventricular restraint assessment, or titrated dysfunction states for device comparison studies, our methodologies create reproducible heart failure conditions enabling meaningful device performance evaluation and regulatory submission support.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Controlled Coronary Occlusion Techniques",
+          "description": "Surgical ligation protocols create reproducible LAD, circumflex, or RCA territory infarcts with precise anatomic targeting while permanent or temporary occlusion strategies enable acute versus chronic model development, producing infarct sizes ranging from 15-45% of left ventricular mass based on device testing requirements."
+        },
+        {
+          "title": "Infarct Size Quantification Methods",
+          "description": "TTC staining provides gold-standard infarct measurement while cardiac MRI enables serial assessment of scar evolution and late gadolinium enhancement quantifies viable versus non-viable myocardium, with electrocardiographic analysis measuring ST-segment elevation and Q-wave development confirming transmural injury extent."
+        },
+        {
+          "title": "Ventricular Remodeling Assessment",
+          "description": "Serial echocardiography tracks chamber dilation, wall thinning, and sphericity index changes throughout weeks following infarction while pressure-volume loop analysis quantifies end-diastolic pressure elevation, contractility decline, and diastolic stiffness increases that characterize progressive heart failure and ventricular dysfunction."
+        },
+        {
+          "title": "Hemodynamic Deterioration Characterization",
+          "description": "Continuous monitoring documents cardiac output reduction, stroke volume decline, and filling pressure elevation while invasive measurements capture dP/dt changes, tau relaxation impairment, and end-systolic pressure-volume relationship shifts that quantify systolic and diastolic dysfunction severity across ischemia progression."
+        },
+        {
+          "title": "Biomarker Validation and Time Courses",
+          "description": "Troponin kinetics following occlusion confirm infarct timing while BNP elevation tracks ventricular stress and heart failure severity, with inflammatory markers including CRP and IL-6 characterizing post-infarction healing phases and providing temporal validation of model development throughout acute and chronic study periods."
+        },
+        {
+          "title": "Ischemia Severity Titration",
+          "description": "Model customization produces mild dysfunction for early-stage device testing, moderate failure for support device validation, or severe cardiogenic shock states for emergency therapy assessment while maintaining subject viability throughout chronic study durations enabling device evaluation across weeks to months of heart failure progression."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Myocardial Ischemia Models",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Comprehensive Model Development Infrastructure",
+        "description": "Cardiac surgery suites enable precise coronary ligation while catheterization laboratories provide hemodynamic monitoring and pressure-volume loop analysis throughout ischemia progression. Our imaging facilities feature echocardiography and cardiac MRI systems for serial remodeling assessment while specialized laboratories conduct TTC staining, biomarker analysis, and histologic validation ensuring reproducible heart failure model development supporting device testing requirements across acute and chronic study durations."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Cardiovascular Physiology Heritage",
+        "description": "Founded by Duke University cardiac physiologists who pioneered ischemia-reperfusion research, our team understands coronary anatomy, infarct size determinants, and ventricular remodeling mechanisms that create clinically relevant heart failure models. This research heritage translates to protocol designs producing reproducible dysfunction states while maintaining subject viability, addressing the standardized disease model requirements that mechanical support devices, structural interventions, and therapeutic validation studies demand for meaningful preclinical evaluation."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "GLP-Compliant Model Development",
+        "description": "Our heart failure models support FDA submissions across mechanical circulatory support, structural heart, and cardiac rhythm management devices through GLP-compliant protocols ensuring reproducibility and data integrity. We understand how standardized disease states inform device performance claims while providing the controlled testing conditions regulatory submissions require for demonstrating efficacy across the heart failure severities from mild dysfunction to cardiogenic shock that clinical applications address."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your myocardial ischemia model requirements, device testing protocols, and study design to optimize your preclinical validation pathway.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

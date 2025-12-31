@@ -1,0 +1,71 @@
+{
+  "page_slug": "ivc-filter",
+  "page_title": "IVC Filter | Synchrony Labs",
+  "parent_page": {
+    "name": "Peripheral Vascular",
+    "url": "/areas-of-expertise/cardiovascular/peripheral-vascular"
+  },
+  "hero": {
+    "headline": "IVC Filter",
+    "description": "Inferior vena cava filters must trap life-threatening emboli while maintaining venous return, resist migration under high blood flow, and allow retrieval when temporary protection ends. We test clot capture efficiency across embolus sizes, measure flow obstruction and pressure gradients, validate caval wall fixation strength, and confirm retrieval success after extended implantation for both permanent and retrievable designs."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "IVC filters face competing demands that make preclinical validation critical. Your device must catch pulmonary emboli traveling toward the lungs while allowing normal venous blood flow to continue. Struts must engage the caval wall firmly enough to resist migration under high blood velocities yet gently enough to avoid perforation or significant wall injury. For retrievable designs, the device must maintain these performance characteristics while remaining removable after weeks or months of implantation when surrounding tissue has begun to encapsulate the filter structure.\n\nWe test IVC filters using large-diameter venous flow simulators that replicate inferior vena cava hemodynamics including flow rates up to 5 liters per minute. Standardized clot analogs ranging from small fibrin fragments to large organized thrombi evaluate capture efficiency while measuring what percentage of emboli the filter traps versus allowing passage. Flow sensors quantify pressure gradients across the device to detect significant flow obstruction while force measurement systems validate caval wall engagement strength. For retrievable filters, we simulate tissue encapsulation and measure extraction forces after accelerated aging protocols that predict long-term removal challenges.\n\nISO 10993 biocompatibility standards guide material evaluation for permanent IVC contact while device-specific protocols assess thrombogenicity on filter surfaces exposed to continuous blood flow. Our testing supports 510(k) pathways comparing to predicate devices and PMA submissions for novel filter geometries or retrieval mechanisms. Whether validating a permanent cone design or characterizing a retrievable filter with hook-based removal, our protocols address the clot trapping effectiveness, flow preservation, wall fixation, and retrieval success that determine clinical performance in pulmonary embolism prevention.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Clot Capture Efficiency Across Embolus Sizes",
+          "description": "We test your filter against standardized clot analogs from 3mm to 30mm diameter, measuring capture rates across the size spectrum of pulmonary emboli while identifying the threshold below which clots may pass through to pulmonary circulation."
+        },
+        {
+          "title": "Venous Flow Preservation and Pressure Gradient",
+          "description": "Flow measurement systems quantify pressure drop across your deployed filter under physiological venous flow rates, confirming that clot capture mechanisms don't create significant flow obstruction that could cause lower extremity edema or post-thrombotic syndrome."
+        },
+        {
+          "title": "Caval Wall Fixation and Migration Resistance",
+          "description": "Force testing measures how securely your filter engages the IVC wall, validating that strut penetration or radial force provides adequate fixation to resist migration under high blood flow velocities while avoiding vessel perforation or significant wall injury."
+        },
+        {
+          "title": "Retrieval Success After Extended Implantation",
+          "description": "For retrievable designs, we simulate tissue encapsulation through accelerated aging and measure extraction forces after extended implantation periods, predicting removal success rates and identifying implant durations beyond which retrieval becomes problematic."
+        },
+        {
+          "title": "Filter Thrombogenicity Assessment",
+          "description": "Blood compatibility testing evaluates thrombus formation on filter struts under continuous flow conditions, measuring whether device surfaces promote clot accumulation that could itself become an embolic source or cause complete caval occlusion."
+        },
+        {
+          "title": "Deployment Accuracy and Positioning",
+          "description": "Anatomically accurate IVC models validate that your delivery system positions the filter below renal veins with appropriate wall apposition, testing deployment precision across varying caval diameters from 17mm to 28mm and different access routes including femoral and jugular approaches."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for IVC Filter",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Large-Vessel Venous Testing Infrastructure",
+        "description": "Our venous flow simulators accommodate IVC-sized vessels up to 28mm diameter with flow rates reaching 5 liters per minute, replicating the high-flow conditions that challenge filter stability. Standardized clot delivery systems provide reproducible embolus testing while multi-channel pressure monitoring detects flow obstruction. This infrastructure enables the capture efficiency validation and hemodynamic assessment that IVC filter submissions require for demonstrating pulmonary embolism protection without venous compromise."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Retrievable Filter Expertise",
+        "description": "We've tested IVC filters across the evolution from permanent designs to retrievable systems, understanding the unique challenges of maintaining retrieval capability while providing effective filtration. Our protocols simulate tissue encapsulation effects that complicate removal after extended implantation, helping optimize retrieval mechanisms for clinical success. This expertise spans cone filters, bird's nest designs, and modern retrievable platforms with dedicated retrieval features."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "IVC Filter Regulatory Success",
+        "description": "Our GLP-compliant testing has supported FDA submissions for permanent and retrievable IVC filter designs over decades of venous device validation. We provide complete datasets for clot capture efficiency, flow preservation, wall fixation, and retrieval success that align with FDA guidance for inferior vena cava filters, addressing both pulmonary embolism prevention efficacy and device-related complication risks including migration, perforation, and fracture."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your IVC filter design, permanent or retrievable configuration, and regulatory pathway to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "page_slug": "neurovascular",
+  "page_title": "Neurovascular | Synchrony Labs",
+  "parent_hub": {
+    "name": "Cardiovascular",
+    "url": "/areas-of-expertise/cardiovascular"
+  },
+  "hero": {
+    "headline": "Neurovascular",
+    "description": "Cerebrovascular intervention device validation from mechanical thrombectomy systems to liquid embolic agents with navigation assessment and intracranial pressure monitoring."
+  },
+  "sub_services": {
+    "title": "Complete Neurovascular Services",
+    "description": "We provide specialized testing for stroke intervention and aneurysm treatment devices, addressing unique cerebrovascular access, navigation challenges, and vessel preservation requirements across neurovascular platforms.",
+    "cards": [
+      {
+        "icon_name": "Droplet",
+        "title": "Liquid Embolic",
+        "description": "Liquid embolic agent validation including deliverability characterization through microcatheters, precipitation behavior assessment in blood flow, aneurysm filling patterns, and biocompatibility evaluation for cerebrovascular malformation treatment applications.",
+        "link_url": "/areas-of-expertise/cardiovascular/neurovascular/liquid-embolic"
+      },
+      {
+        "icon_name": "Zap",
+        "title": "Thrombectomy",
+        "description": "Mechanical thrombectomy device validation with clot engagement characterization, retrieval force optimization, vessel preservation assessment, first-pass recanalization quantification, and embolic fragment analysis for acute ischemic stroke treatment.",
+        "link_url": "/areas-of-expertise/cardiovascular/neurovascular/thrombectomy"
+      },
+      {
+        "icon_name": "Wind",
+        "title": "Aspiration Thrombectomy",
+        "description": "Direct aspiration catheter validation including vacuum force generation characterization, clot extraction efficiency quantification, complete recanalization assessment, and distal embolization prevention protocols for large vessel occlusion stroke treatment.",
+        "link_url": "/areas-of-expertise/cardiovascular/neurovascular/aspiration-thrombectomy"
+      },
+      {
+        "icon_name": "GitBranch",
+        "title": "Neurovascular Stent",
+        "description": "Intracranial stent validation addressing navigation through tortuous cerebrovascular anatomy, deployment precision in curved vessel segments, flow diversion characterization for aneurysm treatment, and biocompatibility assessment in cerebral circulation.",
+        "link_url": "/areas-of-expertise/cardiovascular/neurovascular/neurovascular-stent"
+      }
+    ]
+  },
+  "primary_content": {
+    "title": "What We Test",
+    "description": "Neurovascular devices restore cerebral blood flow or occlude vascular malformations, requiring validation that demonstrates effective treatment while preventing vessel perforation, distal embolization, and intracranial hemorrhage. Mechanical thrombectomy systems must navigate tortuous cerebrovascular anatomy to engage and retrieve clots without damaging fragile vessel walls. Liquid embolic agents demand controlled precipitation enabling aneurysm occlusion without migration to normal vessels. Flow diversion stents require precise deployment in curved intracranial segments while maintaining parent vessel patency. Each platform category presents unique challenges from clot-device interaction mechanics to embolic agent polymerization kinetics under cerebral blood flow conditions.\n\nWe evaluate device navigation using anatomically accurate cerebrovascular models replicating internal carotid artery tortuosity, middle cerebral artery branching patterns, and circle of Willis geometry. Our neurovascular testing laboratories feature high-resolution fluoroscopy, angiographic imaging, and micromanometer pressure monitoring that captures intracranial pressure changes, flow restoration dynamics, and vessel wall stress throughout intervention sequences. Specialized protocols assess clot engagement forces, retrieval success rates, and residual stenosis following mechanical thrombectomy. For embolic agents, controlled flow circuits measure precipitation timing, filling completeness, and migration resistance. Biocompatibility testing addresses unique cerebrovascular requirements including minimal inflammatory response and endothelial healing assessment.\n\nISO 10993 biocompatibility standards guide material evaluation while device-specific protocols address navigation through cerebrovascular tortuosity, deployment precision, and treatment effectiveness. Our GLP-compliant testing supports both 510(k) and PMA pathways for neurovascular devices. Whether validating next-generation stent retrievers, aspiration catheter platforms, or novel embolic formulations, our protocols demonstrate navigation capability, treatment efficacy, and vessel preservation that acute stroke and aneurysm treatment indications demand.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Cerebrovascular Navigation and Trackability Assessment",
+          "description": "Anatomically accurate intracranial models replicate internal carotid siphon tortuosity, middle cerebral artery angulation, and basilar artery geometry while navigation protocols quantify catheter trackability, pushability, and vessel conformability through challenging cerebrovascular anatomy."
+        },
+        {
+          "title": "Mechanical Thrombectomy Clot Interaction Characterization",
+          "description": "Standardized synthetic clot formulations representing acute ischemic stroke thrombi enable engagement force measurement, retrieval success quantification, and first-pass recanalization assessment. Vessel preservation protocols evaluate wall stress and endothelial damage prevention."
+        },
+        {
+          "title": "Liquid Embolic Precipitation and Fill Assessment",
+          "description": "Controlled flow circuits simulate cerebral blood flow conditions during embolic agent delivery while measuring precipitation timing, aneurysm filling completeness, and migration resistance. Adhesion testing characterizes agent-vessel wall interaction preventing delayed migration."
+        },
+        {
+          "title": "Intracranial Pressure and Cerebral Perfusion Monitoring",
+          "description": "Micromanometer pressure measurement tracks intracranial pressure changes during device deployment and clot extraction. Cerebral blood flow monitoring quantifies reperfusion quality, collateral circulation preservation, and time to recanalization across treatment modalities."
+        },
+        {
+          "title": "Flow Diversion and Aneurysm Occlusion Validation",
+          "description": "Computational fluid dynamics analysis predicts aneurysm flow reduction following stent deployment while in vitro flow circuits measure velocity changes, wall shear stress modification, and thrombosis progression. Parent vessel patency assessment ensures adequate distal perfusion."
+        },
+        {
+          "title": "Embolic Protection and Fragment Capture Efficiency",
+          "description": "Distal embolic debris quantification during mechanical thrombectomy procedures assesses fragmentation risk and embolic shower prevention. Filter and aspiration system effectiveness characterizes capture efficiency preventing periprocedural stroke complications."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Neurovascular",
+    "description": null,
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Neurovascular Testing Infrastructure",
+        "description": "Dedicated neurovascular laboratories equipped with high-resolution biplane fluoroscopy, micromanometer pressure monitoring, and anatomically accurate cerebrovascular models enable comprehensive device characterization through tortuous intracranial anatomy. Controlled flow circuits replicate cerebral hemodynamics while standardized clot formulations ensure reproducible thrombectomy testing. Specialized fixtures accommodate navigation assessment through internal carotid siphon, middle cerebral artery, and basilar artery geometries."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Cerebrovascular Intervention Expertise",
+        "description": "Our team understands unique neurovascular anatomy, vessel fragility considerations, and cerebral circulation requirements that distinguish intracranial interventions from peripheral vascular procedures. This specialized expertise translates to protocol designs addressing navigation challenges, vessel preservation imperatives, and the comprehensive safety validation neurovascular devices demand for both acute stroke treatment and aneurysm management applications."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Neurovascular Device Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for neurovascular devices across mechanical thrombectomy, liquid embolic, and flow diversion categories. We understand both 510(k) and PMA pathway requirements including navigation characterization, treatment effectiveness demonstration, and the specific endpoints FDA expects for acute ischemic stroke and cerebrovascular malformation submissions."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Neurovascular Program?",
+    "description": "Our cardiovascular device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "page_slug": "musculoskeletal",
+  "page_title": "Musculoskeletal | Synchrony Labs",
+  "hero": {
+    "headline": "Musculoskeletal",
+    "description": "Comprehensive preclinical validation across osteoarthritis disease models and bone healing assessment platforms addressing orthopedic device and regenerative therapy requirements."
+  },
+  "subpages_section": {
+    "title": "Complete Musculoskeletal Portfolio",
+    "description": "Select your specific area below, or scroll down to learn more about our musculoskeletal expertise and specialized capabilities.",
+    "cards": [
+      {
+        "icon_name": "Bone",
+        "title": "Osteoarthritis Models",
+        "description": "Cartilage degeneration model validation including osteoarthritis disease induction, pain assessment methodologies, and therapeutic response evaluation for joint intervention and regenerative therapy development.",
+        "link_url": "/areas-of-expertise/musculoskeletal/osteoarthritis-models"
+      },
+      {
+        "icon_name": "Activity",
+        "title": "Bone Healing",
+        "description": "Fracture repair device validation including osteogenic material assessment, fixation system performance, and bone formation quantification for orthopedic implant and regenerative technology applications.",
+        "link_url": "/areas-of-expertise/musculoskeletal/bone-healing"
+      }
+    ]
+  },
+  "why_choose_section": {
+    "title": "Why Choose Synchrony for Musculoskeletal Devices",
+    "description": "Four decades of implant device expertise provides specialized biomechanical assessment infrastructure, validated orthopedic disease models, and proven regulatory success that general preclinical facilities cannot match.",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Orthopedic Biomechanics Infrastructure",
+        "description": "Advanced biomechanical testing systems enable comprehensive load-bearing device assessment including compression, torsion, and fatigue protocols per ASTM orthopedic standards. Our capabilities include microCT imaging for bone morphometry, histomorphometry laboratories for quantitative bone analysis, and gait analysis systems for functional outcome assessment supporting device performance validation."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Orthopedic Disease Model Expertise",
+        "description": "Validated osteoarthritis induction models replicate cartilage degradation, subchondral bone changes, and inflammatory responses that orthopedic interventions address. Our team understands joint biomechanics, bone healing physiology, and device-tissue integration requirements that orthopedic technology development demands across load-bearing and non-load-bearing applications."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Orthopedic Device Regulatory Success",
+        "description": "Successful FDA submissions across fracture fixation devices, bone graft substitutes, and cartilage repair technologies demonstrate our ability to generate data that addresses reviewer expectations for orthopedic devices requiring comprehensive biocompatibility assessment per ISO 10993 alongside mechanical performance validation per ASTM orthopedic device standards."
+      }
+    ]
+  },
+  "featured_services": {
+    "title": "Featured Musculoskeletal Capabilities",
+    "services": [
+      {
+        "title": "Osteoarthritis Model Development",
+        "description": "Joint degeneration therapies require validated disease models proving intervention effectiveness in environments replicating cartilage breakdown and subchondral bone changes characteristic of osteoarthritis progression. We develop osteoarthritis models using standardized surgical induction methods that replicate key disease features including cartilage fibrillation, proteoglycan loss, and inflammatory synovial changes. Our assessment protocols include modified Mankin scoring for cartilage degeneration quantification, pain behavior evaluation through validated scoring systems, and imaging biomarkers tracking disease progression. From viscosupplementation effectiveness to cartilage repair scaffold integration, our testing addresses both 510(k) pathways for osteoarthritis treatment devices and investigational protocols supporting clinical trial design for regenerative therapies requiring comprehensive disease model characterization and therapeutic outcome validation.",
+        "cta_text": "Learn More About Osteoarthritis Models",
+        "cta_url": "/areas-of-expertise/musculoskeletal/osteoarthritis-models",
+        "image_placeholder": "[Osteoarthritis model visualization]"
+      },
+      {
+        "title": "Fracture Healing Device Validation",
+        "description": "Bone repair technologies face unique challenges proving osteogenic effectiveness while ensuring mechanical stability throughout healing phases. We evaluate fracture fixation performance using standardized defect models that replicate critical-size bone gaps requiring intervention for healing completion. Our protocols assess device mechanical stability through biomechanical testing per ASTM F1717 spinal implant standards adapted for long bone applications while bone formation quantification utilizes microCT volumetric analysis, histomorphometry measuring new bone area, and biomechanical testing of healed constructs. From metallic fixation plates to bioresorbable scaffolds and bone graft substitutes, our testing addresses both 510(k) pathways demonstrating substantial equivalence and PMA requirements for novel osteogenic technologies requiring comprehensive effectiveness demonstration supporting regulatory submissions.",
+        "cta_text": "Learn More About Bone Healing",
+        "cta_url": "/areas-of-expertise/musculoskeletal/bone-healing",
+        "image_placeholder": "[Bone healing validation visualization]"
+      },
+      {
+        "title": "Orthopedic Biomechanical Assessment",
+        "description": "Load-bearing orthopedic devices require comprehensive mechanical validation proving strength and durability under physiological stress conditions throughout projected device lifetime. We conduct biomechanical testing following ASTM standards specific to device applications including compression testing per ASTM F1717, fatigue protocols simulating millions of load cycles, and torsional strength assessment. Material characterization evaluates modulus matching between implants and native bone preventing stress shielding while finite element analysis validates stress distribution patterns. Our testing capabilities span from spinal fixation hardware requiring multi-axial loading protocols to joint replacement components demanding wear testing per ISO 14242 standards. Advanced imaging including microCT enables three-dimensional reconstruction and quantitative morphometry while mechanical testing of explanted devices validates long-term performance predictions supporting regulatory pathways requiring comprehensive durability demonstration.",
+        "cta_text": "Explore Musculoskeletal Portfolio",
+        "cta_url": "/areas-of-expertise/musculoskeletal",
+        "image_placeholder": "[Biomechanical assessment visualization]"
+      }
+    ]
+  },
+  "related_services": {
+    "title": "Complementary Expertise",
+    "description": "Musculoskeletal device programs often benefit from our capabilities across other therapeutic areas addressing specialized validation requirements.",
+    "cards": [
+      {
+        "title": "Neurological",
+        "description": "Spinal nerve stimulation validation and chronic implant biocompatibility protocols address spinal device applications providing complementary neurological-orthopedic expertise for technologies requiring coordinated assessment of spinal fixation and neuromodulation components.",
+        "cta_text": "Explore Neurological â†’",
+        "cta_url": "/areas-of-expertise/neurological"
+      },
+      {
+        "title": "Dermatological",
+        "description": "Wound healing assessment and tissue integration protocols address soft tissue repair requirements providing complementary expertise for orthopedic devices requiring comprehensive evaluation across bone-soft tissue interfaces and healing progression validation.",
+        "cta_text": "Explore Dermatological â†’",
+        "cta_url": "/areas-of-expertise/dermatological"
+      },
+      {
+        "title": "Cardiovascular",
+        "description": "Chronic implant durability validation and biocompatibility assessment protocols address long-term device safety requirements providing complementary expertise for orthopedic implants requiring similar comprehensive safety demonstration across extended implantation periods.",
+        "cta_text": "Explore Cardiovascular â†’",
+        "cta_url": "/areas-of-expertise/cardiovascular"
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Musculoskeletal Program?",
+    "description": "Our musculoskeletal device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "page_slug": "bariatric-therapies",
+  "page_title": "Bariatric Therapies | Synchrony Labs",
+  "parent_page": {
+    "name": "Gastrointestinal",
+    "url": "/areas-of-expertise/gastrointestinal"
+  },
+  "hero": {
+    "headline": "Bariatric Therapies",
+    "description": "Weight loss devices face unique challenges proving therapeutic effectiveness while ensuring long-term safety in obesity conditions. We test device durability, metabolic impact, and tissue response using validated obesity models that address gastric bands, bypass support technologies, and endoscopic intervention platforms."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Bariatric devices must demonstrate weight management effectiveness while proving mechanical reliability throughout claimed implantation duration under metabolic disease conditions. Adjustable gastric bands require pressure regulation validation showing consistent restriction maintenance without erosion complications. Endoscopic sleeve systems need deployment accuracy assessment proving positioning stability throughout gastric anatomy. Bypass procedure support devices demand anastomotic integrity validation and nutrient malabsorption characterization. Each intervention strategy addresses different weight loss mechanisms requiring validated effectiveness protocols that predict clinical outcomes across obesity severity levels.\n\nWe evaluate bariatric device performance using validated obesity-induced metabolic disease models that replicate altered anatomy, inflammatory environments, and mechanical stress conditions characteristic of severe obesity. Weight change tracking throughout study durations measures therapeutic effectiveness while body composition analysis characterizes fat mass reduction and lean tissue preservation. Metabolic monitoring captures glucose homeostasis improvements, lipid profile changes, and hormonal response patterns throughout weight loss progression. Device durability protocols assess mechanical integrity under sustained gastric pressure conditions while tissue response studies evaluate erosion potential, adhesion formation, and biocompatibility at implant interfaces throughout chronic implantation periods.\n\nASTM F2477 bariatric surgery device standards guide mechanical testing while ISO 10993 biocompatibility requirements address chronic implant assessment in gastrointestinal environments. Testing supports both 510(k) pathways demonstrating substantial equivalence to cleared bariatric technologies and PMA submissions for breakthrough weight management platforms requiring comprehensive effectiveness validation. Whether characterizing adjustable band pressure dynamics, validating endoscopic intervention positioning, or assessing bypass procedure support effectiveness, our protocols generate data addressing bariatric device regulatory expectations and long-term safety requirements.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Weight Loss Effectiveness Assessment",
+          "description": "Longitudinal body weight tracking throughout study durations quantifies therapeutic weight reduction while measuring body composition changes, fat mass loss, and metabolic improvement patterns that demonstrate bariatric intervention effectiveness and weight maintenance sustainability."
+        },
+        {
+          "title": "Metabolic Disease Impact Characterization",
+          "description": "Comprehensive metabolic monitoring evaluates glucose homeostasis restoration, insulin sensitivity improvement, and lipid profile normalization while measuring hormonal changes including ghrelin, leptin, and GLP-1 patterns that indicate obesity comorbidity resolution."
+        },
+        {
+          "title": "Device Durability Under Obesity Conditions",
+          "description": "Chronic implantation protocols assess mechanical integrity throughout extended implantation periods under increased gastric pressure and altered pH conditions while evaluating component stability, adjustment mechanism reliability, and structural failure prevention in obesity environments."
+        },
+        {
+          "title": "Gastric Pressure Regulation",
+          "description": "Adjustable device testing validates pressure adjustment precision and restriction maintenance consistency while measuring band inflation stability, deflation response characteristics, and pressure distribution uniformity that determine satiety induction without obstruction complications."
+        },
+        {
+          "title": "Tissue Response and Erosion Assessment",
+          "description": "Chronic biocompatibility studies characterize tissue integration quality at device-gastric interfaces while evaluating erosion development potential, inflammatory response patterns, and fibrotic capsule formation that determine long-term implant safety and revision requirements."
+        },
+        {
+          "title": "Nutritional Impact Evaluation",
+          "description": "Malabsorption assessment protocols measure nutrient absorption efficiency changes following bypass interventions while evaluating vitamin deficiency development, protein malnutrition risk, and nutritional supplementation requirements throughout weight loss maintenance phases."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Bariatric Therapies",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Obesity Disease Model Infrastructure",
+        "description": "Validated obesity-induced metabolic disease models replicate severe obesity conditions enabling realistic bariatric device assessment under clinically relevant anatomical and physiological scenarios. Our facilities support complex gastrointestinal surgical procedures with specialized equipment for adjustable device implantation, endoscopic intervention validation, and chronic monitoring throughout extended weight loss study durations. Metabolic assessment capabilities characterize glucose homeostasis, hormonal patterns, and body composition changes throughout therapeutic interventions."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Weight Management Device Expertise",
+        "description": "Comprehensive bariatric assessment protocols address both weight loss effectiveness and metabolic disease resolution across adjustable restrictive devices, malabsorptive procedures, and combination intervention platforms. Our team understands obesity pathophysiology, weight loss mechanisms, and the specific effectiveness endpoints bariatric device manufacturers must demonstrate for regulatory approvals. This expertise translates to protocol designs capturing sustainable weight reduction validation, comorbidity improvement demonstration, and the long-term safety data FDA bariatric device submissions require."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Bariatric Device Regulatory Success",
+        "description": "Successful FDA submissions for weight management technologies across adjustable gastric bands, endoscopic interventions, and bypass support devices demonstrate our ability to generate data addressing bariatric device reviewer expectations. We understand obesity treatment pathways including effectiveness demonstration requirements, chronic implant biocompatibility validation per ISO 10993 gastrointestinal contact standards, and the specific weight loss and metabolic improvement endpoints FDA expects for bariatric device approvals requiring comprehensive safety evidence."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Bariatric Therapies Program?",
+    "description": "Our gastrointestinal device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

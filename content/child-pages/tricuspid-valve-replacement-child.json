@@ -1,0 +1,71 @@
+{
+  "page_slug": "tricuspid-valve-replacement",
+  "page_title": "Tricuspid Valve Replacement | Synchrony Labs",
+  "parent_page": {
+    "name": "Structural Heart",
+    "url": "/areas-of-expertise/cardiovascular/structural-heart"
+  },
+  "hero": {
+    "headline": "Tricuspid Valve Replacement",
+    "description": "Preclinical validation for transcatheter tricuspid valve replacement devices with anchoring assessment in dilated annuli, paravalvular leak prevention, pacemaker lead interference evaluation, hemodynamic performance under low-pressure conditions, and chronic durability testing using GLP-compliant methodologies."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Transcatheter tricuspid valve replacement systems address unique anatomical challenges including extreme annular dilation, complex three-dimensional geometry, and pacemaker lead presence while operating in low-pressure right heart environments requiring specialized validation approaches. TTVR platforms must demonstrate secure anchoring within severely dilated annuli lacking structural support while accommodating existing pacemaker leads without interference, preventing paravalvular regurgitation across asymmetric annular shapes, and maintaining hemodynamic performance under venous pressures substantially lower than left heart conditions. Device success depends on anchoring preventing migration in thin-walled right atrium, sealing effectiveness across elliptical annular geometry, and durability throughout chronic volume overload.\n\nWe evaluate anchoring mechanisms using models representing severe tricuspid regurgitation with annular diameters exceeding 50mm, assessing radial force requirements and atrial wall interaction throughout cardiac cycles. Our catheterization laboratories feature pacemaker lead presence simulation enabling interference assessment during deployment and chronic implantation while transesophageal echocardiography captures valve positioning relative to right coronary artery, conduction system, and lead trajectories. Hemodynamic protocols adapted for low right-sided pressures measure transvalvular gradients under varying cardiac outputs while flow assessment quantifies regurgitation reduction and evaluates hepatic vein flow pattern normalization. Chronic studies assess leaflet function preservation, anchoring stability, and lead-device interaction throughout extended follow-up periods.\n\nISO 5840 standards for transcatheter heart valves guide protocol development while FDA guidance documents for structural heart devices inform submission requirements addressing the unique regulatory considerations tricuspid replacement presents. Our GLP-compliant testing supports PMA pathways for Class III devices across transfemoral, transjugular, and transatrial delivery approaches. Whether validating self-expanding frames designed for extreme annular dilation, dual-stage anchoring preventing migration, or specialized designs accommodating multiple pacemaker leads, our protocols demonstrate anatomical compatibility, hemodynamic adequacy, and the safety evidence TTVR platforms demand for severe tricuspid regurgitation applications.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Dilated Annular Anchoring Validation",
+          "description": "Force measurement quantifies anchoring effectiveness in severely dilated tricuspid annuli exceeding 50mm diameter while assessing atrial wall engagement, migration resistance, and radial force distribution throughout cardiac cycles, evaluating anchoring mechanisms designed for thin-walled right atrium lacking the structural support found in left-sided valve positions."
+        },
+        {
+          "title": "Pacemaker Lead Interference Assessment",
+          "description": "Deployment protocols with existing lead presence evaluate catheter navigation, valve positioning accuracy, and lead entrapment risk while chronic studies assess lead-device interaction, pacing threshold stability, and sensing parameter preservation ensuring TTVR compatibility with single, dual, or biventricular pacing systems throughout extended implantation."
+        },
+        {
+          "title": "Low-Pressure Hemodynamic Performance",
+          "description": "Pulse duplicator testing adapted for right heart pressures characterizes transvalvular gradients, effective orifice area, and leaflet kinematics under venous pressure conditions while assessing performance across varying cardiac outputs ensuring adequate valve function without creating right ventricular outflow obstruction or compromising venous return."
+        },
+        {
+          "title": "Paravalvular Leak Prevention",
+          "description": "Flow measurement techniques quantify sealing effectiveness across elliptical annular geometry and severe dilation while imaging protocols detect leak locations enabling optimization of conformable sealing elements addressing the non-circular saddle-shaped anatomy and extreme size variation that tricuspid regurgitation presents compared to left-sided valve replacement."
+        },
+        {
+          "title": "Delivery System Navigation",
+          "description": "Transfemoral, transjugular, and transatrial delivery approach assessment characterizes catheter maneuverability through venous anatomy, right atrial navigation, and coaxial alignment with dilated tricuspid annulus while evaluating deployment controls enabling precise positioning despite anatomical distortion from chronic volume overload and chamber dilation."
+        },
+        {
+          "title": "Chronic Durability and Lead Compatibility",
+          "description": "Accelerated fatigue protocols simulate extended durability under right heart loading conditions while assessing frame integrity, leaflet function, and anchoring stability with specialized protocols evaluating chronic lead-device interaction, tissue ingrowth patterns, and performance preservation throughout years of volume overload addressing the unique right-sided hemodynamic environment."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Tricuspid Valve Replacement",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized TTVR Testing Infrastructure",
+        "description": "Catheterization laboratories configured for right heart structural procedures feature transesophageal echocardiography, fluoroscopy systems, and hemodynamic monitoring adapted for low venous pressures. Our tricuspid annular model library represents severe regurgitation with extreme dilation while pacemaker lead simulation systems enable realistic deployment and chronic interaction assessment. Pulse duplicator capabilities replicate right heart hemodynamics across tricuspid regurgitation severities addressing the unique low-pressure testing requirements tricuspid replacement demands."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Right Heart Structural Intervention Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered structural heart procedures, our team understands tricuspid valve anatomy, the challenges extreme annular dilation presents, and pacemaker lead management requirements unique to right-sided interventions. This cardiovascular heritage translates to protocol designs addressing FDA PMA requirements including dilated annular anchoring validation, lead interference assessment, and the specialized hemodynamic evidence transcatheter tricuspid replacement devices demand."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Structural Heart Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for transcatheter valve devices across multiple structural heart categories. We understand Class III device requirements including ISO 5840 compliance, the unique hemodynamic benchmarks right heart replacement presents, and the comprehensive preclinical evidence FDA expects for TTVR submissions addressing severe functional tricuspid regurgitation in patients with annular dilation, pacemaker leads, and failed medical management."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your tricuspid valve replacement device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

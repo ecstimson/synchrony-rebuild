@@ -1,0 +1,71 @@
+{
+  "page_slug": "mechanical-circulatory-support",
+  "page_title": "Mechanical Circulatory Support | Synchrony Labs",
+  "parent_page": {
+    "name": "Heart Failure",
+    "url": "/areas-of-expertise/cardiovascular/heart-failure"
+  },
+  "hero": {
+    "headline": "Mechanical Circulatory Support",
+    "description": "Preclinical validation for temporary and permanent circulatory assist platforms including percutaneous deployment assessment, hemodynamic support characterization across acute decompensation scenarios, biventricular coordination analysis, and rapid weaning protocol development using GLP-compliant methodologies for Class III devices."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Mechanical circulatory support devices provide temporary or permanent cardiac assistance during acute decompensation, cardiogenic shock, or post-cardiotomy failure requiring validation that demonstrates rapid deployment capability while delivering hemodynamic augmentation across varying cardiac function levels. These platforms range from percutaneous microaxial pumps to surgically implanted biventricular assist systems, each demanding specialized assessment of flow augmentation, ventricular unloading, and end-organ perfusion maintenance. Temporary support devices must enable swift deployment through catheter-based or surgical access while biventricular platforms require coordinated left and right ventricular assistance preventing pulmonary congestion or systemic hypoperfusion.\n\nWe evaluate mechanical support performance using pressure-volume loop analysis and cardiac output measurement that captures hemodynamic improvement throughout support escalation and weaning protocols. Our catheterization laboratories feature acute heart failure models enabling percutaneous device deployment assessment while surgical facilities accommodate biventricular platform implantation and total artificial heart installation. Hemodynamic monitoring quantifies flow augmentation, ventricular pressure reduction, and end-organ perfusion markers across support levels while hemocompatibility testing addresses thrombogenicity throughout temporary support durations ranging from hours to weeks of continuous operation before recovery or bridge-to-decision transitions.\n\nISO 10993 biocompatibility standards guide material selection for blood-contacting surfaces while IEC 60601 electrical safety requirements address active device components including pumps, controllers, and power systems. FDA guidance for circulatory support devices informs protocol development addressing hemodynamic efficacy endpoints, weaning success criteria, and the safety evidence temporary platforms require for emergency use indications. Our GLP-compliant testing supports PMA pathways for Class III life-sustaining devices. Whether validating percutaneous microaxial pumps, extracorporeal centrifugal platforms, or biventricular assist systems, our protocols demonstrate hemodynamic support capacity, deployment reliability, and the hemocompatibility performance acute circulatory failure management demands.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Hemodynamic Support Characterization",
+          "description": "Pressure-volume loop analysis quantifies cardiac output augmentation, ventricular unloading magnitude, and end-organ perfusion improvement across support levels from minimal assist to full flow replacement while assessing device performance throughout acute decompensation scenarios typical of cardiogenic shock and post-operative failure."
+        },
+        {
+          "title": "Percutaneous Deployment Assessment",
+          "description": "Catheterization laboratory protocols characterize femoral arterial access, device tracking through iliac tortuosity, and transvalvular positioning accuracy for microaxial pumps while measuring deployment times, hemodynamic stability during insertion, and vascular complication rates informing catheter-based platform optimization."
+        },
+        {
+          "title": "Biventricular Support Coordination",
+          "description": "Dual-device hemodynamic testing validates synchronized left and right ventricular assistance preventing pulmonary overperfusion or systemic underperfusion while assessing flow balance across varying pulmonary vascular resistance and ensuring coordinated support throughout weaning protocols as native cardiac function recovers."
+        },
+        {
+          "title": "Rapid Escalation and Weaning Protocols",
+          "description": "Support level titration studies characterize hemodynamic response to flow adjustments enabling optimized escalation during deterioration and controlled weaning as recovery progresses while developing protocols that prevent ventricular distension, pulmonary edema, or inadequate end-organ perfusion during transitions."
+        },
+        {
+          "title": "Short-Term Hemocompatibility Assessment",
+          "description": "Thrombogenicity evaluation across support durations from hours to weeks quantifies platelet consumption, fibrinogen depletion, and thrombus formation potential while assessing anticoagulation requirements and bleeding risk throughout temporary support periods before recovery, transplantation, or durable device transition."
+        },
+        {
+          "title": "End-Organ Perfusion Monitoring",
+          "description": "Renal function markers, hepatic enzyme trends, and lactate clearance assessment validates adequate end-organ perfusion during circulatory support while cerebral oximetry and peripheral tissue oxygenation measurement ensures support levels maintain vital organ viability throughout acute failure management and recovery phases."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Mechanical Circulatory Support",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Comprehensive Circulatory Support Infrastructure",
+        "description": "Two catheterization laboratories enable percutaneous device deployment assessment with acute heart failure model development while surgical suites accommodate biventricular assist system implantation and total artificial heart installation. Our facilities feature continuous hemodynamic monitoring, pressure-volume loop analysis systems, and end-organ perfusion measurement platforms that characterize support efficacy across the cardiogenic shock scenarios and post-cardiotomy failure conditions temporary circulatory assistance addresses."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Acute Heart Failure Management Expertise",
+        "description": "Founded by Duke University cardiac intensivists who pioneered mechanical circulatory support strategies, our team understands hemodynamic optimization, weaning protocols, and the unique challenges temporary support platforms present across percutaneous and surgical approaches. This critical care heritage translates to protocol designs addressing rapid deployment requirements, biventricular coordination, and the FDA Class III evidence temporary life-sustaining devices demand for emergency use indications and bridge-to-recovery applications."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Temporary Support Regulatory Success",
+        "description": "Our data packages have supported successful FDA PMA approvals for mechanical circulatory support devices across percutaneous microaxial pumps, extracorporeal centrifugal platforms, and biventricular assist systems. We understand the hemodynamic efficacy endpoints, weaning success criteria, and safety evidence FDA expects for temporary support submissions addressing cardiogenic shock, post-cardiotomy syndrome, and bridge-to-decision indications where rapid deployment and reliable performance prove essential for survival."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your mechanical circulatory support device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

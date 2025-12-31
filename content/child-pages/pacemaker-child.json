@@ -1,0 +1,71 @@
+{
+  "page_slug": "pacemaker",
+  "page_title": "Pacemaker Testing Services | Synchrony Labs",
+  "parent_page": {
+    "name": "Arrhythmia",
+    "url": "/preclinical-services/cardiovascular-disease-testing/arrhythmia-testing"
+  },
+  "hero": {
+    "headline": "Pacemaker Testing Services",
+    "description": "Comprehensive preclinical validation for bradycardia pacing devices with electrical performance characterization, sensing algorithm verification, lead system biocompatibility assessment, and battery longevity evaluation using GLP-compliant methodologies for regulatory submissions."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Cardiac pacemakers sustain life through reliable electrical stimulation, requiring validation that demonstrates consistent sensing, appropriate pacing, and battery longevity across varying physiological conditions. Pacemakers must detect intrinsic cardiac activity while delivering therapy that maintains adequate heart rate without depleting battery reserves prematurely. Single-chamber systems demand precise ventricular pacing validation while dual-chamber platforms require complex atrial-ventricular synchronization assessment and rate-responsive devices need sensor algorithm verification across activity levels.\n\nWe evaluate electrical performance using specialized electrophysiology systems that capture pacing thresholds, sensing amplitudes, and impedance measurements with microsecond precision. Our catheterization laboratories feature programmable cardiac simulation systems enabling comprehensive pacing mode assessment and rate adaptation testing. Lead system testing evaluates conductor durability through accelerated fatigue protocols while biocompatibility assessment addresses chronic tissue contact requirements using ISO 10993 standards adapted for active implantable devices.\n\nISO 14708 series standards guide cardiac pacemaker assessment while FDA guidance documents for active implantable medical devices inform protocol development addressing electromagnetic compatibility, battery performance, and MRI conditional validation. Our GLP-compliant testing supports both 510(k) pathways demonstrating substantial equivalence and PMA submissions for breakthrough technologies. Whether validating traditional dual-chamber systems, leadless pacemaker platforms, or MRI-conditional devices, our protocols demonstrate electrical reliability, sensing accuracy, and long-term biocompatibility performance that regulatory submissions demand.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Electrical Performance Characterization",
+          "description": "Pacing output validation across voltage and pulse width ranges, sensing threshold assessment for P-wave and R-wave detection, and impedance measurement throughout chronic implantation with battery performance evaluation projecting device longevity under varying pacing burden scenarios"
+        },
+        {
+          "title": "Sensing Algorithm and Rate Adaptation Validation",
+          "description": "Detection sensitivity testing for intrinsic cardiac activity, noise rejection assessment for electromagnetic interference sources, and rate-responsive sensor evaluation validating physiological rate adaptation across activity levels and environmental conditions"
+        },
+        {
+          "title": "Lead System Performance and Durability",
+          "description": "Chronic electrical integrity assessment evaluates conductor resistance stability, insulation performance under flexion stress, and lead-tissue interface impedance changes while mechanical durability protocols simulate years of cardiac motion through accelerated fatigue testing"
+        },
+        {
+          "title": "Electromagnetic Compatibility Testing",
+          "description": "MRI conditional validation per ISO 14117 standards, electromagnetic interference susceptibility assessment across frequency ranges, and medical device interaction testing including exposure to electrocautery, defibrillators, and consumer electronics"
+        },
+        {
+          "title": "Battery Longevity and End-of-Life Assessment",
+          "description": "Long-term battery performance characterization under varying pacing burdens, end-of-life indicator validation, and replacement threshold assessment ensuring predictable device longevity for clinical management planning"
+        },
+        {
+          "title": "Biocompatibility for Active Implants",
+          "description": "ISO 10993 testing adapted for active implantable devices addresses chronic tissue contact requirements with specialized protocols evaluating hemocompatibility for blood-contacting components, muscle stimulation effects, and tissue response at lead-myocardium interfaces"
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Pacemaker Testing",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Electrophysiology Infrastructure",
+        "description": "Two catheterization laboratories equipped specifically for cardiac rhythm device evaluation feature programmable cardiac simulation systems, high-resolution ECG monitoring, and real-time hemodynamic assessment capabilities. Our electromagnetic compatibility chambers validate MRI conditional devices and interference immunity across multiple frequency ranges while specialized lead testing systems simulate millions of cardiac cycles through accelerated fatigue protocols. Battery performance assessment equipment characterizes longevity projections under varying clinical pacing scenarios."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Cardiac Rhythm Device Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered electrophysiology techniques, our team understands cardiac conduction systems, pacing algorithms, and sensing mechanisms specific to rhythm management devices. This cardiovascular heritage translates to protocol designs addressing FDA active implantable device requirements including electromagnetic compatibility demonstration through ISO 14117 compliance, battery longevity assessment, and the comprehensive safety validation life-sustaining pacemakers demand for decades of reliable cardiac pacing therapy."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Pacemaker Regulatory Success",
+        "description": "Our data packages have supported successful FDA submissions for cardiac pacemaker systems across single-chamber, dual-chamber, and rate-responsive platforms. We understand active implantable medical device requirements including electromagnetic compatibility demonstration, chronic biocompatibility validation, and the specific endpoints FDA expects for pacemaker submissions addressing both traditional lead-based systems and emerging leadless pacemaker technologies requiring novel implantation and sensing validation approaches."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your pacemaker device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

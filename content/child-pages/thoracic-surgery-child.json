@@ -1,0 +1,71 @@
+{
+  "page_slug": "thoracic-surgery",
+  "page_title": "Thoracic Surgical Robotics | Synchrony Labs",
+  "parent_page": {
+    "name": "Surgical Robotics",
+    "url": "/areas-of-expertise/cardiovascular/robotics"
+  },
+  "hero": {
+    "headline": "Thoracic Surgical Robotics",
+    "description": "Robotic thoracic surgery platforms must enable precise dissection in confined pleural spaces, provide stable retraction during lung resection, and accommodate single-lung ventilation dynamics without compromising visualization. We test instrument reach in intercostal access, measure force control during mediastinal dissection, validate camera stability during ventilation changes, and confirm visualization through blood and irrigation for both 510(k) and PMA pathways."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Robotic thoracic surgery presents unique challenges that distinguish it from abdominal robotics applications. Your platform must operate in the confined space between ribs where instrument triangulation proves more difficult than abdominal access. The system must maintain visualization and instrument control while the operative lung deflates and re-inflates during single-lung ventilation. Instruments must provide the delicate force control necessary for mediastinal lymph node dissection and pulmonary vessel isolation while having sufficient strength for rib retraction and chest wall manipulation. The camera must deliver clear visualization through blood and irrigation in a confined space with limited ability to reposition for optimal viewing angles.\n\nWe test robotic thoracic surgery platforms using anatomically accurate chest models that replicate intercostal spacing, mediastinal anatomy, and pulmonary hilum configurations. Instrument reach assessment measures workspace coverage from standard port positions, evaluating whether articulating instruments access all areas of the pleural cavity including the apex and posterior costophrenic sulcus. Visualization testing validates camera performance during simulated single-lung ventilation with dynamic changes in operative field exposure. Force control protocols measure the delicate manipulation required for mediastinal dissection and vascular isolation. We evaluate setup considerations including port placement strategies, emergency conversion protocols, and compatibility with standard thoracic surgical equipment.\n\nISO 13485 quality management and IEC 60601 electrical safety standards guide robotic surgical device development while thoracic-specific protocols address the confined workspace and ventilation dynamics unique to chest procedures. Our testing supports 510(k) pathways for robotic platforms adapted from abdominal surgery and PMA submissions for thoracic-specific robotic systems. Whether validating a multi-port platform for robotic lobectomy or characterizing a thoracoscopic robot for mediastinal procedures, our protocols address the intercostal access constraints, visualization challenges, and precise force control that thoracic surgical robotics validation requires.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Intercostal Access and Instrument Reach",
+          "description": "Anatomical chest models measure whether instruments achieve adequate range of motion through intercostal port positions to access pulmonary hilum, mediastinal structures, and all pleural cavity regions including apex and posterior sulcus where rigid thoracoscopic instruments prove limiting."
+        },
+        {
+          "title": "Visualization During Ventilation Changes",
+          "description": "Testing validates camera stability and image quality during simulated single-lung ventilation with dynamic changes in operative lung collapse and expansion, measuring whether visualization remains adequate as operative field exposure varies throughout procedures."
+        },
+        {
+          "title": "Delicate Force Control for Mediastinal Dissection",
+          "description": "Force measurement during simulated lymph node dissection and vascular isolation validates the precise tissue handling necessary for mediastinal procedures where excessive force risks injury to critical structures including phrenic nerve, vagus nerve, and major vessels."
+        },
+        {
+          "title": "Confined Space Instrument Triangulation",
+          "description": "Workspace analysis measures whether multiple instruments achieve adequate separation and triangulation within the confined pleural space between ribs, validating that instrument shaft collisions don't limit procedural capability during complex dissection requiring bimanual coordination."
+        },
+        {
+          "title": "Blood and Irrigation Visualization",
+          "description": "Optical testing evaluates camera performance when operative field contains blood or irrigation fluid, measuring whether visualization systems maintain image quality adequate for precise dissection despite the optical challenges of working in confined bloody spaces."
+        },
+        {
+          "title": "Emergency Conversion Capability",
+          "description": "Protocols test how quickly robotic platforms undock for emergency conversion to open thoracotomy during hemorrhage or other complications requiring immediate direct surgical access, measuring whether undocking procedures enable rapid intervention when emergencies arise."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Thoracic Surgical Robotics",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Thoracic Surgery Testing Infrastructure",
+        "description": "Our facilities accommodate robotic platforms with thoracic-specific anatomical models replicating intercostal spacing, mediastinal anatomy, and pulmonary configurations. Ventilation simulators create dynamic field exposure changes mimicking single-lung ventilation while force sensors validate delicate tissue handling for mediastinal dissection. Optical testing equipment measures visualization through blood and irrigation. This specialized infrastructure enables thoracic surgical robotics validation addressing the unique challenges of confined pleural space access and dynamic ventilation effects."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Thoracic Surgical Device Expertise",
+        "description": "We understand the procedural requirements for robotic lobectomy, mediastinal lymphadenectomy, and complex thoracic resections that differ from abdominal robotic applications. Our team has validated thoracoscopic instruments and visualization systems through the same intercostal access your robotic platform must use. This thoracic expertise ensures protocols address the instrument reach, confined space triangulation, and visualization challenges that determine whether robotic platforms can successfully accomplish complex chest procedures."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Thoracic Robotic System Regulatory Success",
+        "description": "Our testing has supported FDA submissions for surgical robotic platforms adapted for thoracic procedures and thoracoscopic instruments requiring demonstration of intercostal access capability and confined space performance. We understand how to structure preclinical validation for thoracic robotic systems addressing both device performance in chest anatomy and human factors considerations. Whether pursuing 510(k) clearance or PMA approval, our protocols address thoracic-specific regulatory requirements for robotic platforms in lung and mediastinal surgery."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your thoracic surgical robotic platform, target procedures, and regulatory pathway to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

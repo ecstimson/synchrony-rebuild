@@ -1,0 +1,71 @@
+{
+  "page_slug": "shunts",
+  "page_title": "Shunts | Synchrony Labs",
+  "parent_page": {
+    "name": "Neurological",
+    "url": "/areas-of-expertise/neurological"
+  },
+  "hero": {
+    "headline": "Shunts",
+    "description": "Hydrocephalus shunt systems face unique challenges proving cerebrospinal fluid drainage effectiveness while preventing complications including valve malfunction and catheter obstruction. We test pressure regulation performance, flow consistency, and catheter patency using validated intracranial pressure models that address both 510(k) and PMA regulatory pathways."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Cerebrospinal fluid shunt systems must demonstrate drainage effectiveness maintaining intracranial pressure within therapeutic ranges while preventing overdrainage complications and ensuring long-term catheter patency. Fixed pressure valves require opening pressure accuracy validation across physiological ranges while programmable systems need magnetic adjustment verification and setting retention throughout chronic implantation. Anti-siphon devices demand function characterization preventing excessive drainage during postural changes while flow-regulating mechanisms require consistency demonstration across varying pressure gradients. Ventricular catheter designs need obstruction resistance validation addressing protein deposition and cellular debris accumulation that compromise drainage over time.\n\nWe evaluate shunt performance using validated hydrocephalus models that replicate elevated intracranial pressure dynamics and altered cerebrospinal fluid production rates requiring device intervention. Continuous pressure monitoring quantifies valve opening pressure accuracy, flow rate consistency, and pressure regulation stability throughout extended operation periods. Our protocols measure ventricular catheter placement precision using stereotactic guidance systems while assessing distal catheter positioning in peritoneal, atrial, or pleural drainage sites. Bench testing characterizes valve hydrodynamic performance across physiological pressure ranges while chronic implantation studies evaluate tissue response at catheter-brain interfaces, valve mechanism durability, and overall system patency. We measure cerebrospinal fluid composition changes, protein accumulation on catheter surfaces, and bacterial colonization resistance throughout study durations.\n\nISO 10993 biocompatibility standards adapted for chronic central nervous system implant contact guide material safety assessment while FDA hydrocephalus shunt device guidance addresses both acute functionality validation and long-term performance reliability requirements. Testing supports 510(k) pathways demonstrating substantial equivalence to predicate shunt systems and PMA submissions for breakthrough technologies incorporating novel pressure regulation mechanisms or programmable features requiring comprehensive safety demonstration. Whether characterizing fixed differential pressure valves, validating gravitational units, or assessing programmable valve magnetic interference resistance, our protocols generate data meeting neurosurgical device regulatory expectations.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Intracranial Pressure Monitoring and Regulation",
+          "description": "Continuous cerebrospinal fluid pressure measurement tracks shunt system effectiveness maintaining intracranial pressure within therapeutic ranges while quantifying pressure reduction kinetics, drainage flow rates, and regulation consistency preventing both underdrainage and overdrainage complications throughout chronic operation periods."
+        },
+        {
+          "title": "Valve Performance Characterization",
+          "description": "Hydrodynamic bench testing measures valve opening pressure accuracy across physiological ranges while characterizing flow-pressure relationships, pressure-dependent flow resistance, and valve mechanism consistency per ASTM shunt valve testing standards. Programmable valve systems undergo magnetic adjustment validation, setting retention confirmation, and electromagnetic interference resistance assessment."
+        },
+        {
+          "title": "Catheter Patency and Obstruction Resistance",
+          "description": "Accelerated protein deposition protocols evaluate ventricular catheter resistance to obstruction from cellular debris and proteinaceous material accumulation while measuring flow maintenance throughout chronic exposure to cerebrospinal fluid. Catheter design features including multi-fenestration patterns and anti-obstruction coatings undergo comparative performance assessment."
+        },
+        {
+          "title": "Anti-Siphon Device Validation",
+          "description": "Postural position testing characterizes anti-siphon mechanism effectiveness preventing excessive drainage during patient position changes from supine to upright orientations. Flow resistance modulation assessment validates device response to hydrostatic pressure gradients while measuring protection against overdrainage complications including subdural hematoma and slit ventricle syndrome development."
+        },
+        {
+          "title": "Central Nervous System Biocompatibility",
+          "description": "ISO 10993-6 implantation testing adapted for brain tissue contact evaluates inflammatory cell infiltration at ventricular catheter surfaces while characterizing glial response, foreign body reaction development, and potential neurotoxicity effects. Chronic studies assess tissue integration quality and absence of neurological complications throughout extended implantation periods."
+        },
+        {
+          "title": "System Integration and Component Compatibility",
+          "description": "Complete shunt system assessment validates catheter-valve-reservoir integration including connection site mechanical strength, disconnection resistance under tensile stress, and cerebrospinal fluid leak prevention at junction points. System durability testing simulates years of operation through pressure cycling and flow fatigue protocols addressing destination therapy lifetime requirements."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Shunts",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Neurosurgical Shunt Testing Infrastructure",
+        "description": "Advanced stereotactic systems enable precise ventricular catheter placement validation while continuous intracranial pressure monitoring and cerebrospinal fluid sampling capabilities support comprehensive shunt system performance assessment. Our facilities feature hydrocephalus simulation models replicating elevated pressure dynamics while bench testing equipment characterizes valve hydrodynamic performance per standardized protocols. Neurosurgical suites accommodate complete system implantation from ventricular catheter insertion through distal catheter positioning validation."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Hydrocephalus Disease Model Expertise",
+        "description": "Validated hydrocephalus models replicate intracranial pressure elevation, cerebrospinal fluid overproduction, and absorption pathway obstruction that shunt systems address across congenital and acquired etiologies. Our team understands cerebrospinal fluid dynamics, intracranial compliance relationships, valve mechanism design principles, and the specific performance characteristics neurosurgeons require for successful hydrocephalus management. This expertise translates to protocol designs capturing therapeutic effectiveness demonstration alongside comprehensive safety validation."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Neurological Implant Regulatory Success",
+        "description": "Successful FDA submissions across fixed pressure valves, programmable shunt systems, and anti-siphon devices demonstrate our ability to generate data addressing reviewer expectations for hydrocephalus shunts. We understand both 510(k) substantial equivalence pathways and PMA requirements for breakthrough shunt technologies including biocompatibility validation per ISO 10993 central nervous system contact standards and the specific pressure regulation performance endpoints FDA expects for chronic cerebrospinal fluid drainage system approvals."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Shunts Program?",
+    "description": "Our neurological device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

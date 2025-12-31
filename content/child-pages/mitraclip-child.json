@@ -1,0 +1,71 @@
+{
+  "page_slug": "mitraclip",
+  "page_title": "MitraClip Testing Services | GLP Preclinical CRO | Synchrony Labs",
+  "parent_page": {
+    "name": "Heart Valve",
+    "url": "/preclinical-services/cardiovascular-disease-testing/heart-valve-testing"
+  },
+  "hero": {
+    "headline": "MitraClip Testing Services",
+    "description": "Comprehensive preclinical validation for edge-to-edge mitral repair devices with leaflet grasping force characterization, deployment accuracy assessment, and residual regurgitation quantification under GLP compliance."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Edge-to-edge mitral repair devices face unique validation challenges requiring precise leaflet grasping mechanics across varying tissue pathologies, deployment accuracy within moving cardiac structures, and residual regurgitation optimization that preserves mitral valve area. MitraClip-type devices must demonstrate secure leaflet capture without tissue trauma, positioning precision that targets regurgitant jets, and clip closure mechanics that create effective double-orifice configurations. Device success depends on achieving significant mitral regurgitation reduction while avoiding mitral stenosis, requiring comprehensive assessment across both primary degenerative disease and secondary functional regurgitation.\n\nWe evaluate grasping force using specialized measurement systems that quantify clip closure pressure, leaflet compression characteristics, and tissue holding strength throughout cardiac cycles. Our catheterization laboratories feature transseptal access capabilities enabling realistic left atrial approach simulation while transesophageal echocardiography provides three-dimensional visualization of leaflet capture, clip positioning, and residual regurgitation patterns. From deployment accuracy validation in varying mitral anatomies to multi-clip strategy assessment, our protocols address the specific performance requirements each edge-to-edge repair platform presents.\n\nISO 5840 standards guide transcatheter heart valve device testing while FDA guidance documents for transcatheter mitral repair inform protocol development addressing hemodynamic benchmarks, procedural safety, and durability requirements. Our GLP-compliant protocols support both PMA submissions for breakthrough repair technologies and 510(k) pathways demonstrating substantial equivalence to established MitraClip platforms. Whether validating fourth-generation devices with independent gripper control or specialized systems addressing complex anatomies, our testing addresses regulatory expectations for Class III transcatheter mitral devices across primary and secondary mitral regurgitation applications.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Leaflet Grasping Force Characterization",
+          "description": "Force measurement systems quantify clip closure force, tissue compression characteristics, and leaflet holding strength throughout cardiac cycles under varying systolic pressures. Specialized protocols assess grasping adequacy across leaflet thickness variations, evaluate tissue damage thresholds, and characterize optimal force ranges preventing both single leaflet detachment and tissue perforation."
+        },
+        {
+          "title": "Deployment Accuracy and Positioning Assessment",
+          "description": "High-resolution fluoroscopy and three-dimensional transesophageal echocardiography capture clip positioning relative to regurgitant jet location, evaluating deployment precision across varying mitral valve anatomies. Advanced imaging protocols assess clip maneuverability, leaflet alignment verification, and positioning stability during cardiac motion while specialized models replicate anatomical challenges including restricted leaflet motion and annular calcification."
+        },
+        {
+          "title": "Residual Regurgitation Quantification",
+          "description": "Advanced echocardiographic techniques quantify mitral regurgitation reduction using PISA radius measurement, vena contracta assessment, and regurgitant volume calculation. Hemodynamic monitoring evaluates left atrial pressure changes, mitral valve gradient development, and effective mitral valve area preservation. Protocols validate achievement of â‰¤2+ residual regurgitation targets across diverse mitral pathologies."
+        },
+        {
+          "title": "Multi-Clip Strategy and Leaflet Coaptation",
+          "description": "Comprehensive evaluation of single versus multiple clip configurations addresses optimal spacing, sequential deployment mechanics, and cumulative regurgitation reduction effectiveness. Specialized protocols assess device-device interactions, evaluate mitral stenosis risk with multiple implants, and characterize leaflet coaptation length optimization. Testing validates clip width selection for broad regurgitant jets and clip length adequacy for varying leaflet dimensions."
+        },
+        {
+          "title": "Durability and Chronic Performance",
+          "description": "Accelerated fatigue testing simulates years of cardiac cycles through continuous clip opening-closing mechanics under physiological loading conditions. Durability protocols evaluate gripper element integrity, clip arm structural stability, and leaflet tissue response at attachment sites. Extended observation studies assess maintained regurgitation reduction, device positioning stability, and tissue integration patterns through comprehensive histopathological analysis."
+        },
+        {
+          "title": "Transseptal Access and Delivery System Performance",
+          "description": "Comprehensive delivery system evaluation addresses transseptal puncture site requirements, steerable guide catheter performance, and clip delivery system tracking through anatomical variations. Specialized protocols assess left atrial navigation capabilities, clip orientation control, and deployment system responsiveness. Testing validates retrieval and repositioning mechanics for devices offering recapture functionality."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for MitraClip Testing",
+    "cards": [
+      {
+        "icon_name": "Zap",
+        "title": "Specialized Edge-to-Edge Repair Infrastructure",
+        "description": "Two catheterization laboratories configured specifically for transcatheter mitral procedures feature three-dimensional transesophageal echocardiography, biplane fluoroscopy, and transseptal access capabilities. Our mitral valve anatomical model library spans primary and secondary regurgitation pathologies while specialized force measurement systems characterize leaflet grasping mechanics. This infrastructure enables edge-to-edge repair testing protocols addressing deployment challenges that standard structural heart facilities cannot replicate."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Transcatheter Mitral Repair Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered transcatheter structural heart procedures, our team understands mitral valve regurgitation pathophysiology, edge-to-edge repair mechanics, and leaflet coaptation requirements. This cardiovascular heritage translates to protocol designs addressing FDA Class III device requirements including grasping force validation, residual regurgitation assessment, and the comprehensive safety evaluation transcatheter mitral repair devices demand for both primary and secondary regurgitation applications."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Mitral Repair Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for transcatheter mitral devices across edge-to-edge repair and replacement categories. We understand Class III device requirements including ISO 5840 compliance for transcatheter valves, hemodynamic performance benchmarks, and the comprehensive preclinical evidence FDA expects for mitral repair submissions addressing both degenerative mitral regurgitation in prohibitive surgical risk patients and secondary regurgitation in heart failure populations."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your edge-to-edge mitral repair device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

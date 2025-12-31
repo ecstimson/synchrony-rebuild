@@ -1,0 +1,71 @@
+{
+  "page_slug": "evolut",
+  "page_title": "Evolut Valve Testing Services | GLP Preclinical CRO | Synchrony Labs",
+  "parent_page": {
+    "name": "Heart Valve",
+    "url": "/preclinical-services/cardiovascular-disease-testing/heart-valve-testing"
+  },
+  "hero": {
+    "headline": "Evolut Valve Testing Services",
+    "description": "Comprehensive preclinical validation for self-expanding transcatheter aortic valves with repositioning mechanics assessment, nitinol frame characterization, and supra-annular hemodynamic optimization under GLP compliance."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Self-expanding transcatheter aortic valves face unique validation challenges requiring controlled nitinol frame deployment mechanics, repositioning capability assessment across multiple deployment attempts, and supra-annular leaflet performance optimization that maximizes effective orifice area. Medtronic Evolut-type platforms must demonstrate predictable self-expansion behavior, secure retrieval and redeployment functionality enabling procedural optimization, and superior hemodynamic performance through enhanced valve design. Device success depends on achieving optimal radial force distribution preventing paravalvular leak while maintaining repositioning capabilities that enhance procedural safety and valve positioning accuracy.\n\nWe evaluate self-expansion mechanics using specialized delivery system assessment platforms quantifying nitinol frame deployment forces, expansion rates, and positioning control throughout complete deployment sequences. Our catheterization laboratories feature advanced fluoroscopic capabilities enabling three-dimensional visualization of valve positioning, repositioning mechanics documentation, and supra-annular leaflet function assessment during multiple deployment cycles. From nitinol framework characterization measuring chronic outward force to repositioning impact validation assessing performance after recapture-redeploy sequences, our protocols address the specific requirements self-expanding platforms present across varying aortic root anatomies.\n\nISO 5840 standards guide transcatheter heart valve device testing while FDA guidance documents for TAVR devices inform protocol development addressing repositioning safety, supra-annular design validation, and long-term durability requirements. Our GLP-compliant protocols support both PMA submissions for breakthrough repositionable valve technologies and 510(k) pathways demonstrating substantial equivalence to established Evolut platforms. Whether validating nitinol framework designs with porcine pericardial leaflets or novel repositioning mechanisms enhancing deployment control, our testing addresses regulatory expectations for Class III self-expanding transcatheter cardiac devices with enhanced procedural capabilities.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Nitinol Frame Deployment and Self-Expansion Mechanics",
+          "description": "Specialized testing systems characterize nitinol frame self-expansion including deployment force measurement across temperature ranges, expansion rate control validation, and final geometry assessment under varying anatomical constraints. Advanced monitoring captures radial force distribution, chronic outward force characterization, and deployment predictability across multiple expansion cycles addressing superelastic material behavior and shape memory properties."
+        },
+        {
+          "title": "Repositioning and Retrieval Capability Assessment",
+          "description": "Comprehensive repositioning protocols evaluate recapture mechanics, redeployment performance, and valve integrity following multiple positioning attempts. Advanced imaging captures retrieval force requirements, valve compression during recapture, and positioning accuracy improvement through repositioning capabilities while specialized protocols assess impact of repositioning cycles on structural integrity, hemodynamic performance, and long-term durability."
+        },
+        {
+          "title": "Supra-Annular Design Hemodynamic Optimization",
+          "description": "Advanced hemodynamic assessment quantifies supra-annular leaflet positioning benefits including enhanced effective orifice area measurement, reduced transvalvular gradient characterization, and improved flow pattern analysis. Comparative protocols validate hemodynamic advantages over intra-annular designs through pressure gradient measurement across cardiac output ranges, effective orifice area calculation using continuity equation, and computational fluid dynamics assessment optimizing leaflet positioning."
+        },
+        {
+          "title": "Paravalvular Leak Prevention and Sealing Assessment",
+          "description": "Specialized protocols evaluate radial force optimization balancing effective annular sealing against conduction disturbance risk while assessing adaptive sealing technology performance across varying calcification patterns. Advanced leak quantification measures regurgitant fraction across deployment scenarios, characterizes peridevice leak jet severity, and validates sealing effectiveness throughout repositioning cycles using real-time flow measurement and three-dimensional leak mapping techniques."
+        },
+        {
+          "title": "Durability and Long-Term Performance Validation",
+          "description": "Accelerated wear protocols simulate 200-400 million cardiac cycles characterizing nitinol frame fatigue resistance, porcine pericardial leaflet structural integrity, and polyethylene terephthalate skirt durability throughout projected valve lifespan. Continuous monitoring detects early structural changes, leaflet tear formation, or frame deformation while assessing chronic outward force stability and maintained hemodynamic performance under extended physiological loading conditions."
+        },
+        {
+          "title": "Delivery System and Procedural Performance Assessment",
+          "description": "Comprehensive delivery system validation evaluates catheter navigation through tortuous anatomy, valve loading consistency, and deployment control across varying operator techniques. Specialized protocols assess sheath compatibility, valve tracking performance, and deployment precision while characterizing repositioning mechanism reliability, retrieval force requirements, and procedural time optimization across multiple deployment scenarios addressing real-world procedural variability."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Evolut Valve Testing",
+    "cards": [
+      {
+        "icon_name": "Settings",
+        "title": "Specialized Self-Expanding Valve Infrastructure",
+        "description": "Two catheterization laboratories configured specifically for self-expanding TAVR feature advanced delivery system assessment capabilities, repositioning mechanism testing equipment, and specialized nitinol characterization systems. Our supra-annular valve testing protocols utilize anatomical models spanning diverse aortic root geometries while hemodynamic assessment systems characterize enhanced effective orifice area benefits. This infrastructure enables self-expanding valve testing addressing repositioning mechanics and chronic outward force characterization that balloon-expandable valve facilities cannot evaluate."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Repositionable TAVR Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered transcatheter structural heart procedures, our team understands nitinol deployment mechanics, repositioning technology benefits, and supra-annular design optimization specific to Evolut-type platforms. This cardiovascular heritage translates to protocol designs addressing FDA Class III device requirements including repositioning safety validation, radial force optimization, and the comprehensive performance testing self-expanding valves demand across both intermediate and high surgical risk populations."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Self-Expanding Valve Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for transcatheter aortic valves across self-expanding and repositionable platforms. We understand Class III device requirements including ISO 5840 compliance for transcatheter valves, repositioning capability validation, and the comprehensive preclinical evidence FDA expects for self-expanding TAVR submissions addressing supra-annular hemodynamic benefits, multiple deployment cycle safety, and enhanced procedural control through retrieval and repositioning functionality."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your self-expanding valve platform, repositioning capabilities, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

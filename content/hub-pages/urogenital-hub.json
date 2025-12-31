@@ -1,0 +1,109 @@
+{
+  "page_slug": "urogenital",
+  "page_title": "Urogenital | Synchrony Labs",
+  "hero": {
+    "headline": "Urogenital",
+    "description": "Comprehensive preclinical validation across renal transplantation support technologies, prosthetic disease treatment devices, and stone retrieval systems addressing urological intervention requirements."
+  },
+  "subpages_section": {
+    "title": "Complete Urogenital Portfolio",
+    "description": "Select your specific area below, or scroll down to learn more about our urogenital expertise and specialized capabilities.",
+    "cards": [
+      {
+        "icon_name": "Heart",
+        "title": "Renal Transplantation",
+        "description": "Organ preservation system validation, perfusion technology assessment, and transplantation support device characterization addressing kidney transplant procedure requirements with viability monitoring protocols.",
+        "link_url": "/areas-of-expertise/urogenital/renal-transplantation"
+      },
+      {
+        "icon_name": "Stethoscope",
+        "title": "Prosthetic Disease Treatment",
+        "description": "Penile implant validation, erectile dysfunction device assessment, and prosthetic system characterization addressing urological reconstruction applications with functional outcome evaluation.",
+        "link_url": "/areas-of-expertise/urogenital/prosthetic-disease-treatment"
+      },
+      {
+        "icon_name": "Zap",
+        "title": "Stone Retrieval",
+        "description": "Ureteroscope validation, lithotripsy system assessment, and stone extraction device characterization for urolithiasis management with fragmentation efficiency and tissue preservation protocols.",
+        "link_url": "/areas-of-expertise/urogenital/stone-retrieval"
+      }
+    ]
+  },
+  "why_choose_section": {
+    "title": "Why Choose Synchrony for Urogenital Devices",
+    "description": "Specialized urological expertise provides validated surgical models, advanced imaging capabilities, and proven regulatory success that general preclinical facilities cannot match.",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Urological Surgical Infrastructure",
+        "description": "Purpose-built surgical suites enable complex urological procedures with specialized cystoscopy equipment, fluoroscopic imaging integration, and real-time functional monitoring. Our facilities support minimally invasive ureteroscopic access, laparoscopic transplantation procedures, and open surgical reconstructions while maintaining environmental controls throughout validation studies."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Renal Function Assessment Expertise",
+        "description": "Comprehensive renal function monitoring through creatinine measurement, glomerular filtration rate estimation, and urine output tracking enables quantitative assessment of preservation system effectiveness and transplantation procedure success. Our team understands ischemia-reperfusion injury mechanisms, organ viability indicators, and functional recovery patterns that transplantation technology development requires."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Urological Device Regulatory Success",
+        "description": "Successful FDA submissions across stone management systems, prosthetic implants, and transplantation support technologies demonstrate our ability to generate data addressing reviewer expectations for urological devices requiring comprehensive safety and performance validation."
+      }
+    ]
+  },
+  "featured_services": {
+    "title": "Featured Urogenital Capabilities",
+    "services": [
+      {
+        "title": "Renal Preservation System Validation",
+        "description": "Kidney preservation technologies require proving organ viability maintenance during transport while minimizing ischemic injury that compromises transplant outcomes. We evaluate preservation system performance through continuous monitoring of perfusion parameters, metabolic markers, and tissue oxygenation levels throughout storage periods matching clinical transport durations. Advanced biochemical analysis tracks lactate dehydrogenase release, ATP preservation, and cellular injury markers while functional assessment protocols measure glomerular filtration capacity following reperfusion. Our testing addresses hypothermic machine perfusion systems, normothermic preservation platforms, and static cold storage optimization using standardized transplantation models. GLP-compliant protocols support regulatory pathways for organ preservation devices requiring ISO 13485 quality system compliance alongside comprehensive effectiveness demonstration per FDA transplantation device guidance.",
+        "cta_text": "Learn More About Renal Transplantation",
+        "cta_url": "/areas-of-expertise/urogenital/renal-transplantation",
+        "image_placeholder": "[Renal preservation validation visualization]"
+      },
+      {
+        "title": "Penile Prosthetic Device Assessment",
+        "description": "Erectile dysfunction implants face unique validation challenges proving mechanical reliability throughout claimed device lifetime while ensuring biocompatibility at urological tissue interfaces. We characterize prosthetic system performance through cycling protocols that simulate repeated inflation-deflation sequences exceeding expected clinical usage patterns while measuring pressure maintenance, component durability, and mechanical failure modes. Tissue response studies assess capsule formation characteristics, infection resistance properties, and long-term implant stability using validated urological implantation models. Our protocols address inflatable multi-component systems, malleable implants, and hydraulic pump mechanisms requiring different mechanical testing approaches per ASTM surgical implant standards. Testing supports 510(k) pathways demonstrating substantial equivalence and addresses biocompatibility requirements per ISO 10993 for chronic implant applications in urological reconstruction.",
+        "cta_text": "Learn More About Prosthetic Disease Treatment",
+        "cta_url": "/areas-of-expertise/urogenital/prosthetic-disease-treatment",
+        "image_placeholder": "[Prosthetic device validation visualization]"
+      },
+      {
+        "title": "Lithotripsy System Characterization",
+        "description": "Stone fragmentation devices require proving effective urolithiasis treatment while minimizing urothelial injury and surrounding tissue trauma. We evaluate lithotripsy performance through standardized stone models that replicate varying composition and hardness characteristics encountered clinically, measuring fragmentation efficiency, particle size distribution, and complete clearance capability. Advanced imaging documents energy delivery accuracy, focal zone positioning precision, and treatment progression while tissue effect protocols assess thermal injury potential and mechanical trauma to surrounding structures. Our testing addresses extracorporeal shock wave systems, laser lithotripsy platforms, and ultrasonic fragmentation devices using both bench-top characterization per IEC 61846 standards and in vivo validation demonstrating clinical translation. GLP-compliant studies support regulatory submissions for urological energy devices requiring comprehensive safety validation alongside stone clearance effectiveness demonstration.",
+        "cta_text": "Learn More About Stone Retrieval",
+        "cta_url": "/areas-of-expertise/urogenital/stone-retrieval",
+        "image_placeholder": "[Lithotripsy validation visualization]"
+      }
+    ]
+  },
+  "related_services": {
+    "title": "Complementary Expertise",
+    "description": "Urogenital device programs often benefit from our capabilities across other therapeutic areas addressing specialized validation requirements.",
+    "cards": [
+      {
+        "title": "Gastrointestinal",
+        "description": "Robotic surgical platform validation and minimally invasive device assessment provide complementary expertise for urological procedures requiring laparoscopic or robotic-assisted approaches beyond traditional endoscopic techniques.",
+        "cta_text": "Explore Gastrointestinal â†’",
+        "cta_url": "/areas-of-expertise/gastrointestinal"
+      },
+      {
+        "title": "Cardiovascular",
+        "description": "Transplantation organ preservation expertise and chronic implant biocompatibility assessment address device-tissue interface requirements providing specialized validation capabilities for urological prosthetic applications.",
+        "cta_text": "Explore Cardiovascular â†’",
+        "cta_url": "/areas-of-expertise/cardiovascular"
+      },
+      {
+        "title": "Neurological",
+        "description": "Spinal nerve stimulation validation provides specialized expertise for urological neuromodulation devices addressing bladder control and pelvic floor dysfunction requiring electrical stimulation therapy assessment.",
+        "cta_text": "Explore Neurological â†’",
+        "cta_url": "/areas-of-expertise/neurological"
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Urogenital Program?",
+    "description": "Our urological device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "page_slug": "carotid-stent",
+  "page_title": "Carotid Stent | Synchrony Labs",
+  "parent_page": {
+    "name": "Peripheral Vascular",
+    "url": "/areas-of-expertise/cardiovascular/peripheral-vascular"
+  },
+  "hero": {
+    "headline": "Carotid Stent",
+    "description": "Success in carotid stenting depends on opening blocked arteries without releasing plaque fragments that could cause stroke. We test how your device compresses plaque, measure particles released during deployment, track vessel scaffolding performance, and verify that cerebral blood flow remains adequate throughout the procedure for both 510(k) and PMA pathways."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Carotid stents face a unique challenge that doesn't exist in other vascular territories. The plaque you're treating is the same material that causes stroke if fragments break loose. Your device must compress unstable plaque against the vessel wall, maintain that compression long-term, and accomplish both without releasing particles into cerebral circulation. This requires testing that tracks embolic generation during every phase of deployment while verifying that the stent provides adequate vessel scaffolding without compromising blood flow to the brain.\n\nWe test carotid stents using anatomically accurate carotid bifurcation models with pulsatile flow systems that replicate cerebral circulation patterns. High-resolution particle tracking captures debris released during deployment and expansion, measuring both size and quantity of embolic material down to 40 microns. Flow velocity measurement confirms adequate cerebral perfusion throughout the procedure, while radial force testing validates that your stent maintains plaque compression under arterial pressure. We evaluate both self-expanding nitinol designs and balloon-expandable systems across different stenosis severities and plaque compositions including calcified lesions and soft lipid-rich material.\n\nOur protocols align with FDA guidance for carotid stent devices, typically following the 510(k) pathway with substantial equivalence to predicate devices. Testing demonstrates embolic safety during deployment, adequate revascularization of the stenosed segment, and maintained vessel patency over time. We measure performance against ISO 25539 standards for cardiovascular stents, with specific emphasis on cerebrovascular safety parameters that distinguish carotid applications from coronary or other peripheral uses including unique embolic risk profiles.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Embolic Particle Tracking During Deployment",
+          "description": "We capture and measure every particle released when your stent compresses plaque, using real-time imaging and filtration systems to track debris size and quantity throughout deployment sequences that simulate clinical procedures and quantify stroke risk from embolic generation."
+        },
+        {
+          "title": "Cerebral Flow Preservation Measurement",
+          "description": "Flow velocity sensors confirm that your device maintains adequate blood supply to the brain during deployment and after implantation, measuring pressure gradients across the treatment site under pulsatile flow conditions that replicate carotid hemodynamics."
+        },
+        {
+          "title": "Plaque Compression Performance",
+          "description": "We test how effectively your stent secures unstable plaque against vessel walls without causing material extrusion through struts, evaluating compression force and coverage patterns across different plaque types from calcified to lipid-rich compositions."
+        },
+        {
+          "title": "Deployment Precision in Carotid Anatomy",
+          "description": "Anatomically accurate carotid bifurcation models validate that your delivery system positions the stent accurately at the stenosis site, with testing across various vessel sizes, angulations, and anatomical configurations including tortuous common carotid and internal carotid artery access."
+        },
+        {
+          "title": "Self-Expansion Characteristics",
+          "description": "For nitinol designs, we measure deployment force, expansion timing, and chronic radial force maintenance to verify consistent performance across physiological temperature ranges and after prolonged catheter constraint during delivery to target lesions."
+        },
+        {
+          "title": "Long-Term Scaffolding Durability",
+          "description": "Accelerated fatigue testing simulates years of pulsatile pressure and cardiac cycles to confirm your stent maintains vessel support and plaque compression throughout the intended implantation period per ISO 25539 requirements for cardiovascular implants."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Carotid Stent",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Embolic Safety Infrastructure",
+        "description": "Our particle tracking systems capture debris down to 40 microns during simulated carotid procedures, providing the embolic safety data FDA requires for cerebrovascular devices. Custom carotid bifurcation models with programmable stenosis severity let us test your device across the anatomical variations you'll encounter in clinical trials, from calcified plaque to soft lipid-rich lesions. Multi-channel flow monitoring confirms cerebral perfusion throughout deployment sequences."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Cerebrovascular Testing Expertise",
+        "description": "We understand the critical difference between carotid and other vascular territories where embolic consequences prove catastrophic. Our team has validated dozens of carotid stent submissions, from early self-expanding nitinol designs to current drug-eluting platforms and dual-layer mesh systems. This experience means we know which embolic thresholds matter for regulatory approval and how to position your data against predicate devices for 510(k) substantial equivalence."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Carotid Device Regulatory Success",
+        "description": "Our GLP-compliant protocols have supported successful 510(k) submissions for multiple carotid stent platforms over 40 years of cerebrovascular device testing. We provide complete embolic safety datasets, flow preservation measurements, and durability testing that align with FDA guidance for cerebrovascular devices, reducing review cycles and accelerating your path to approval for symptomatic and asymptomatic carotid stenosis applications."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your carotid stent device, embolic safety features, and regulatory pathway to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

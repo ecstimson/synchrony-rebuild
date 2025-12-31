@@ -1,0 +1,90 @@
+{
+  "page_slug": "coronary-vascular",
+  "page_title": "Coronary Vascular | Synchrony Labs",
+  "parent_hub": {
+    "name": "Cardiovascular",
+    "url": "/areas-of-expertise/cardiovascular"
+  },
+  "hero": {
+    "headline": "Coronary Vascular",
+    "description": "Coronary intervention device validation from drug-eluting stent platforms to drug-coated balloons with release kinetics assessment and vascular healing characterization."
+  },
+  "sub_services": {
+    "title": "Complete Coronary Vascular Services",
+    "description": "We provide specialized testing for coronary intervention devices, addressing unique combination product requirements including drug release characterization, polymer biocompatibility, and vascular healing validation.",
+    "cards": [
+      {
+        "icon_name": "Pill",
+        "title": "DES",
+        "description": "Drug-eluting stent validation for coronary applications including release kinetics characterization in coronary vessels, polymer coating assessment, tissue uptake quantification in LAD and circumflex territories, and antiproliferative efficacy evaluation addressing in-stent restenosis prevention.",
+        "link_url": "/areas-of-expertise/cardiovascular/coronary-vascular/des"
+      },
+      {
+        "icon_name": "Circle",
+        "title": "DCB",
+        "description": "Drug-coated balloon validation for coronary interventions including paclitaxel transfer kinetics in coronary flow, coating uniformity assessment, tissue concentration quantification in small vessel disease, and vascular healing protocols for in-stent restenosis and de novo lesion treatment.",
+        "link_url": "/areas-of-expertise/cardiovascular/coronary-vascular/dcb"
+      }
+    ]
+  },
+  "primary_content": {
+    "title": "What We Test",
+    "description": "Coronary vascular devices restore myocardial perfusion through mechanical scaffolding and pharmacological intervention, requiring validation that demonstrates antirestenotic efficacy while promoting vascular healing. Drug-eluting stents face complexity as combination products requiring integrated assessment of mechanical performance, polymer coating stability, and antiproliferative drug activity. Drug-coated balloons demand characterization of rapid drug transfer kinetics during brief inflation periods while minimizing systemic exposure. Both platform types must achieve therapeutic tissue concentrations in coronary arterial walls while supporting complete endothelialization. Each technology presents unique regulatory challenges from CDRH-CDER coordination for combination products to demonstrating superiority over established bare metal and first-generation drug-eluting platforms.\n\nWe evaluate mechanical integrity through radial force measurement, recoil assessment, and deployment characterization in anatomically accurate coronary models featuring LAD, RCA, and circumflex vessel geometries. Our analytical laboratories feature HPLC systems quantifying drug release kinetics, tissue uptake mapping therapeutic agent distribution in arterial walls, and polymer degradation assessment tracking coating changes throughout shelf life and implantation. Specialized protocols characterize drug transfer efficiency during balloon inflation, measuring coating adhesion, particle loss during tracking, and rapid tissue penetration. Vascular healing assessment employs standardized histomorphometry measuring neointimal thickness progression, strut coverage timepoints, and inflammatory response scoring.\n\nISO 10993 biocompatibility standards guide material and polymer evaluation while ISO 25539 specifications inform mechanical testing for vascular stents. Combination product requirements demand CDRH-CDER coordination addressing drug-specific toxicology, release kinetics, and tissue distribution. Our GLP-compliant testing supports both 510(k) substantial equivalence demonstrations and PMA pathways for novel therapeutic combinations. Whether validating established drug-eluting stent platforms, next-generation bioresorbable scaffolds, or novel drug-coated balloon formulations, our protocols demonstrate mechanical performance, pharmacological efficacy, and vascular healing that coronary intervention indications demand.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Drug Release Kinetics and Tissue Uptake Quantification",
+          "description": "HPLC-based elution profiling characterizes multi-phase release patterns from polymer matrices while tissue extraction protocols quantify therapeutic agent concentrations in arterial wall layers. Pharmacokinetic modeling predicts local drug availability and systemic exposure."
+        },
+        {
+          "title": "Polymer Coating Characterization and Degradation Assessment",
+          "description": "Scanning electron microscopy evaluates coating uniformity and adhesion throughout deployment while accelerated aging studies predict shelf life stability. Biodegradable polymer platforms require degradation kinetics characterization and byproduct biocompatibility assessment."
+        },
+        {
+          "title": "Vascular Healing and Endothelialization Assessment",
+          "description": "Standardized histomorphometry measures neointimal thickness at multiple timepoints, strut coverage progression, and inflammation scoring using established grading systems. Endothelial cell migration studies characterize healing progression and complete coverage achievement."
+        },
+        {
+          "title": "Restenosis Prevention and Late Lumen Loss Quantification",
+          "description": "Quantitative coronary angiography measures lumen diameter changes throughout follow-up periods while binary restenosis assessment quantifies treatment failure rates. Target lesion revascularization endpoints address clinical efficacy."
+        },
+        {
+          "title": "Drug-Coated Balloon Transfer Efficiency and Tissue Penetration",
+          "description": "Specialized protocols measure drug transfer during brief inflation periods, coating particle loss during catheter tracking, and rapid arterial wall penetration. Tissue concentration mapping validates therapeutic doses achieved despite short contact times."
+        },
+        {
+          "title": "Combination Product CDRH-CDER Regulatory Coordination",
+          "description": "Integrated testing programs address both device and drug aspects including mechanical performance per CDRH requirements, drug-specific toxicology supporting CDER review, and pharmacology studies demonstrating local antiproliferative activity with acceptable systemic exposure."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Coronary Vascular",
+    "description": null,
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Advanced Coronary Device Testing Infrastructure",
+        "description": "Dedicated catheterization laboratories equipped with high-resolution fluoroscopy and IVUS integration enable comprehensive deployment characterization in anatomically accurate coronary models. Advanced analytical capabilities include HPLC systems for drug elution quantification and scanning electron microscopy for coating characterization. Mechanical testing equipment validates radial strength while vascular healing laboratories provide standardized histomorphometry capabilities."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Combination Product Development Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered minimally invasive coronary techniques, our team understands stent deployment mechanics, drug release requirements, and vascular healing patterns specific to coronary circulation. This cardiovascular heritage translates to protocol designs addressing Class III combination product requirements including CDRH-CDER coordination and comprehensive preclinical evidence regulatory submissions demand."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Coronary Device Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for coronary devices across bare metal stent, drug-eluting stent, and drug-coated balloon categories. We understand combination product requirements including integrated device-drug assessment and the comprehensive preclinical evidence FDA expects for both 510(k) substantial equivalence demonstrations and PMA pathway submissions."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Coronary Vascular Program?",
+    "description": "Our cardiovascular device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

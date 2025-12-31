@@ -1,0 +1,103 @@
+{
+  "page_slug": "respiratory",
+  "page_title": "Respiratory | Synchrony Labs",
+  "hero": {
+    "headline": "Respiratory",
+    "description": "Comprehensive preclinical validation across COPD therapy platforms and lung lobe sealant applications addressing minimally invasive pulmonary intervention requirements."
+  },
+  "subpages_section": {
+    "title": "Complete Respiratory Portfolio",
+    "description": "Select your specific area below, or scroll down to learn more about our respiratory expertise and specialized capabilities.",
+    "cards": [
+      {
+        "icon_name": "Wind",
+        "title": "COPD Therapies",
+        "description": "Bronchoscopic volume reduction device validation including endobronchial valve deployment, coil insertion performance, and lung volume reduction effectiveness assessment for chronic obstructive pulmonary disease management.",
+        "link_url": "/areas-of-expertise/respiratory/copd-therapies"
+      },
+      {
+        "icon_name": "Droplet",
+        "title": "Lung Lobe Sealants",
+        "description": "Pulmonary sealant characterization for air leak prevention, post-resection closure enhancement, and pleurodesis support addressing thoracic surgical complications and healing augmentation.",
+        "link_url": "/areas-of-expertise/respiratory/lung-lobe-sealants"
+      }
+    ]
+  },
+  "why_choose_section": {
+    "title": "Why Choose Synchrony for Respiratory Devices",
+    "description": "Four decades of minimally invasive device expertise provides specialized bronchoscopic infrastructure, validated pulmonary disease models, and proven regulatory success that general preclinical facilities cannot match.",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Bronchoscopic Intervention Capabilities",
+        "description": "Advanced bronchoscopy suites equipped with flexible and rigid scopes, fluoroscopic guidance systems, and real-time pulmonary function monitoring enable comprehensive assessment of endobronchial device deployment, positioning accuracy, and airway navigation across varying anatomical challenges."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Pulmonary Disease Model Expertise",
+        "description": "Validated COPD-induced emphysema models replicate airway remodeling, hyperinflation characteristics, and impaired gas exchange that bronchoscopic interventions address. Our team understands pulmonary mechanics, ventilation-perfusion relationships, and device performance in diseased lung environments that COPD technology development requires."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Respiratory Device Regulatory Success",
+        "description": "Successful FDA submissions across bronchoscopic volume reduction platforms and pulmonary sealant technologies demonstrate our ability to generate data that addresses reviewer expectations for minimally invasive respiratory interventions requiring comprehensive safety and effectiveness validation per ISO 10993 respiratory device guidance."
+      }
+    ]
+  },
+  "featured_services": {
+    "title": "Featured Respiratory Capabilities",
+    "services": [
+      {
+        "title": "Bronchoscopic Volume Reduction Validation",
+        "description": "COPD interventions reducing lung volume face unique challenges proving therapeutic benefit while ensuring bronchoscopic deployment safety in diseased airways. We evaluate endobronchial valve performance using validated emphysema models that replicate hyperinflation and collateral ventilation characteristics determining device effectiveness. Our protocols assess valve deployment accuracy under fluoroscopic guidance, sealing integrity preventing air passage to isolated lobes, and pulmonary function changes through spirometry and plethysmography measurements. From one-way valve mechanisms to coil-based volume reduction platforms, our testing addresses both 510(k) pathways demonstrating substantial equivalence and PMA requirements for breakthrough COPD technologies requiring comprehensive effectiveness demonstration supporting clinical trial initiation.",
+        "cta_text": "Learn More About COPD Therapies",
+        "cta_url": "/areas-of-expertise/respiratory/copd-therapies",
+        "image_placeholder": "[COPD device validation visualization]"
+      },
+      {
+        "title": "Pulmonary Sealant Assessment",
+        "description": "Lung sealants preventing prolonged air leaks following pulmonary resection must demonstrate adhesion strength sufficient to withstand respiratory pressures while supporting pleural healing without inflammatory complications. We evaluate sealant performance using standardized air leak quantification protocols that measure seal integrity under physiological ventilation pressures while tissue response studies assess healing quality at pleural surfaces. Burst pressure testing validates acute sealing effectiveness while chronic implantation studies track sealant degradation, inflammatory response, and tissue integration throughout healing phases. Our GLP-compliant protocols support regulatory submissions across synthetic adhesives, fibrin-based sealants, and hydrogel platforms requiring ISO 10993 biocompatibility demonstration alongside mechanical performance validation per ASTM surgical sealant standards for thoracic applications.",
+        "cta_text": "Learn More About Lung Lobe Sealants",
+        "cta_url": "/areas-of-expertise/respiratory/lung-lobe-sealants",
+        "image_placeholder": "[Pulmonary sealant validation visualization]"
+      },
+      {
+        "title": "Pulmonary Function Analysis",
+        "description": "Respiratory devices require comprehensive pulmonary function assessment proving intervention effectiveness without compromising unaffected lung regions or creating complications. We utilize whole-body plethysmography measuring lung volumes including total lung capacity, residual volume, and functional residual capacity that quantify hyperinflation changes following volume reduction. Spirometry protocols track forced expiratory volume and vital capacity improvements while arterial blood gas analysis evaluates oxygenation and ventilation effectiveness. Advanced imaging including CT volumetry documents anatomical changes while exercise capacity testing assesses functional improvements translating to patient quality of life. Our respiratory physiology expertise ensures comprehensive device performance characterization supporting regulatory pathways requiring effectiveness demonstration for pulmonary intervention technologies.",
+        "cta_text": "Explore Respiratory Portfolio",
+        "cta_url": "/areas-of-expertise/respiratory",
+        "image_placeholder": "[Pulmonary function analysis visualization]"
+      }
+    ]
+  },
+  "related_services": {
+    "title": "Complementary Expertise",
+    "description": "Respiratory device programs often benefit from our capabilities across other therapeutic areas addressing specialized validation requirements.",
+    "cards": [
+      {
+        "title": "Cardiovascular",
+        "description": "Heart failure device validation and neurovascular intervention protocols provide complementary thoracic expertise addressing cardiopulmonary interactions and minimally invasive catheter-based technologies requiring coordinated cardiovascular-pulmonary assessment.",
+        "cta_text": "Explore Cardiovascular â†’",
+        "cta_url": "/areas-of-expertise/cardiovascular"
+      },
+      {
+        "title": "Gastrointestinal",
+        "description": "Robotic surgical platform validation and tissue sealant characterization address minimally invasive intervention requirements providing complementary surgical device expertise applicable across thoracic and abdominal applications.",
+        "cta_text": "Explore Gastrointestinal â†’",
+        "cta_url": "/areas-of-expertise/gastrointestinal"
+      },
+      {
+        "title": "Neurological",
+        "description": "Dural sealant assessment and chronic implant biocompatibility protocols address tissue sealing and long-term device integration requirements providing complementary expertise for respiratory devices requiring similar validation approaches.",
+        "cta_text": "Explore Neurological â†’",
+        "cta_url": "/areas-of-expertise/neurological"
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Respiratory Program?",
+    "description": "Our respiratory device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

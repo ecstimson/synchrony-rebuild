@@ -1,0 +1,103 @@
+{
+  "page_slug": "dermatological",
+  "page_title": "Dermatological | Synchrony Labs",
+  "hero": {
+    "headline": "Dermatological",
+    "description": "Comprehensive preclinical validation across wound healing technologies and aesthetic device applications addressing dermal tissue intervention requirements."
+  },
+  "subpages_section": {
+    "title": "Complete Dermatological Portfolio",
+    "description": "Select your specific area below, or scroll down to learn more about our dermatological expertise and specialized capabilities.",
+    "cards": [
+      {
+        "icon_name": "Bandage",
+        "title": "Wound Healing",
+        "description": "Closure device validation, negative pressure therapy assessment, and tissue scaffold characterization for acute and chronic wound management applications with healing progression monitoring.",
+        "link_url": "/areas-of-expertise/dermatological/wound-healing"
+      },
+      {
+        "icon_name": "Sparkles",
+        "title": "Aesthetics",
+        "description": "Injectable filler integration assessment, energy-based device validation, and skin tightening technology characterization addressing cosmetic dermatology applications with tissue response evaluation.",
+        "link_url": "/areas-of-expertise/dermatological/aesthetics"
+      }
+    ]
+  },
+  "why_choose_section": {
+    "title": "Why Choose Synchrony for Dermatological Devices",
+    "description": "Specialized dermal tissue expertise provides validated assessment methodologies, standardized outcome measures, and proven regulatory success that general preclinical facilities cannot match.",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Dermal Biocompatibility Infrastructure",
+        "description": "Purpose-built facilities enable comprehensive dermal contact assessment per ISO 10993 standards with specialized protocols evaluating allergic response potential, irritation thresholds, and sensitization risk. Our histopathology capabilities characterize tissue integration patterns, inflammatory responses, and long-term material compatibility at dermal-device interfaces."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Wound Healing Assessment Expertise",
+        "description": "Validated wound models enable standardized evaluation of closure progression, granulation tissue formation, and epithelialization rates using quantitative imaging analysis. Our team understands healing phase dynamics, scar formation mechanisms, and tissue remodeling processes that determine device effectiveness in acute and chronic wound applications."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Aesthetic Device Regulatory Success",
+        "description": "Successful FDA submissions across injectable fillers, energy-based platforms, and skin rejuvenation technologies demonstrate our ability to generate data addressing reviewer expectations for both safety demonstration and effectiveness claims in cosmetic dermatology applications."
+      }
+    ]
+  },
+  "featured_services": {
+    "title": "Featured Dermatological Capabilities",
+    "services": [
+      {
+        "title": "Wound Closure Device Validation",
+        "description": "Wound management technologies require proving closure effectiveness while minimizing scar formation and supporting optimal healing outcomes. We evaluate device performance using standardized wound models that replicate acute surgical incisions and chronic ulcer conditions requiring validated healing assessment. Closure rate quantification through planimetric imaging tracks wound area reduction over time while histological analysis characterizes granulation tissue quality, collagen deposition patterns, and epithelialization progression. Our protocols assess negative pressure therapy systems, advanced dressings, and tissue scaffolds using ISO 10993 biocompatibility standards adapted for dermal applications. GLP-compliant studies support both 510(k) pathways demonstrating substantial equivalence and PMA submissions for breakthrough wound healing technologies requiring comprehensive effectiveness demonstration.",
+        "cta_text": "Learn More About Wound Healing",
+        "cta_url": "/areas-of-expertise/dermatological/wound-healing",
+        "image_placeholder": "[Wound healing device validation visualization]"
+      },
+      {
+        "title": "Injectable Filler Assessment",
+        "description": "Dermal fillers face unique validation challenges proving tissue integration without migration while maintaining volume augmentation throughout claimed duration. We evaluate filler performance through injection technique standardization, volumetric persistence measurement, and tissue response characterization at implant sites. Advanced imaging modalities quantify filler distribution patterns and volume retention over time while histopathological analysis assesses tissue incorporation quality, inflammatory cell infiltration, and foreign body response development. Our protocols address hyaluronic acid-based systems, calcium hydroxylapatite formulations, and permanent filler materials requiring different biocompatibility assessment approaches. Testing supports regulatory pathways for cosmetic devices requiring ISO 10993 compliance alongside FDA aesthetic device guidance addressing both safety endpoints and aesthetic outcome validation.",
+        "cta_text": "Learn More About Aesthetics",
+        "cta_url": "/areas-of-expertise/dermatological/aesthetics",
+        "image_placeholder": "[Injectable filler validation visualization]"
+      },
+      {
+        "title": "Energy-Based Device Validation",
+        "description": "Laser, radiofrequency, and ultrasound platforms for skin rejuvenation require proving tissue effect consistency while preventing thermal injury complications. We characterize energy delivery parameters through temperature mapping, penetration depth measurement, and tissue interaction assessment across varying skin types and treatment areas. Specialized protocols evaluate collagen remodeling stimulation, dermal thickness changes, and epidermal integrity preservation following energy exposure using standardized histological analysis. Our testing addresses ablative and non-ablative technologies, fractional delivery systems, and combined-modality platforms requiring comprehensive safety validation per IEC 60601 electrical safety standards. GLP-compliant studies generate data supporting regulatory submissions for aesthetic devices requiring both immediate safety demonstration and long-term tissue response characterization.",
+        "cta_text": "Learn More About Aesthetics",
+        "cta_url": "/areas-of-expertise/dermatological/aesthetics",
+        "image_placeholder": "[Energy-based device validation visualization]"
+      }
+    ]
+  },
+  "related_services": {
+    "title": "Complementary Expertise",
+    "description": "Dermatological device programs often benefit from our capabilities across other therapeutic areas addressing specialized validation requirements.",
+    "cards": [
+      {
+        "title": "Gastrointestinal",
+        "description": "Tissue sealant validation and surgical closure assessment provide complementary expertise for wound healing technologies requiring multi-tissue application protocols beyond dermatological scope.",
+        "cta_text": "Explore Gastrointestinal â†’",
+        "cta_url": "/areas-of-expertise/gastrointestinal"
+      },
+      {
+        "title": "Musculoskeletal",
+        "description": "Bone healing assessment and tissue integration protocols address deeper tissue applications providing specialized expertise for devices requiring comprehensive wound healing evaluation beyond dermal layers.",
+        "cta_text": "Explore Musculoskeletal â†’",
+        "cta_url": "/areas-of-expertise/musculoskeletal"
+      },
+      {
+        "title": "Neurological",
+        "description": "Dural sealant validation and chronic implant tissue response assessment provide specialized surgical closure expertise complementing dermatological wound management capabilities.",
+        "cta_text": "Explore Neurological â†’",
+        "cta_url": "/areas-of-expertise/neurological"
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Dermatological Program?",
+    "description": "Our dermatological device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

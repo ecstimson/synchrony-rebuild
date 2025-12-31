@@ -1,0 +1,71 @@
+{
+  "page_slug": "structural-heart",
+  "page_title": "Structural Heart Testing Services | GLP Preclinical CRO | Synchrony Labs",
+  "parent_page": {
+    "name": "Cardiovascular Disease",
+    "url": "/preclinical-services/cardiovascular-disease-testing"
+  },
+  "hero": {
+    "headline": "Structural Heart Testing Services",
+    "description": "Comprehensive preclinical validation for LAA closure devices, septal defect occluders, and transcatheter repair systems with deployment accuracy assessment, anatomical compatibility testing, and chronic tissue integration evaluation under GLP compliance."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Structural heart devices operate in anatomical environments where standard cardiovascular testing protocols fall short. LAA closure systems must seal appendages with chicken wing, cactus, cauliflower, and windsock morphologies while preventing peridevice leaks that compromise stroke protection. Septal defect occluders need stable positioning across varying defect geometries with tissue integration that creates permanent closure. Transcatheter repair platforms require precise deployment in moving cardiac structures while maintaining device stability throughout continuous cardiac cycles.\n\nWe evaluate deployment accuracy using high-resolution fluoroscopy and transesophageal echocardiography that captures device positioning throughout complete cardiac motion. Our catheterization laboratories feature specialized left atrial access capabilities, anatomical models representing morphological variations, and hemodynamic monitoring systems that assess device performance under physiological conditions. From device-tissue interface characterization to chronic endothelialization studies, our protocols address the specific challenges structural heart technologies present.\n\nISO 10993 biocompatibility standards guide chronic implantation assessment while device-specific protocols address deployment mechanics, anatomical compatibility across patient populations, and long-term tissue integration. Whether validating Watchman LAA occluders refined through dozens of studies, novel septal closure systems, or emerging transcatheter repair platforms, our GLP-compliant testing addresses both PMA pathway requirements and post-market surveillance objectives across structural heart device categories.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Anatomical Compatibility Assessment",
+          "description": "Deployment validation across morphological variants using anatomically accurate models that replicate chicken wing, cactus, cauliflower, and windsock LAA configurations plus varying septal defect geometries. Advanced imaging provides detailed anatomical measurements and device sizing verification."
+        },
+        {
+          "title": "Deployment Mechanics Characterization",
+          "description": "High-resolution fluoroscopy and transesophageal echocardiography capture device deployment dynamics, positioning accuracy, and stability during cardiac motion. Specialized protocols assess delivery system performance, retrieval capabilities, and deployment consistency across anatomical variations."
+        },
+        {
+          "title": "Occlusion Effectiveness and Leak Assessment",
+          "description": "Advanced flow measurement techniques quantify LAA occlusion completeness, peridevice leak detection, and septal defect closure effectiveness. Real-time imaging during deployment enables sealing optimization while long-term studies validate permanent closure maintenance."
+        },
+        {
+          "title": "Chronic Tissue Integration Studies",
+          "description": "Extended observation protocols evaluate endothelialization progression, device-tissue interface healing, and biological integration patterns. Histopathological analysis characterizes tissue ingrowth, cellular responses, and complete endothelial coverage development using standardized scoring systems."
+        },
+        {
+          "title": "Device Stability and Durability Testing",
+          "description": "Cardiac cycle simulation assesses device positioning stability, anchoring mechanism integrity, and structural performance throughout extended physiological loading. Accelerated fatigue protocols characterize material durability and predict long-term device behavior."
+        },
+        {
+          "title": "Biocompatibility and Thrombogenicity Evaluation",
+          "description": "ISO 10993-4 compliant hemocompatibility testing addresses blood contact requirements while specialized thrombogenicity protocols evaluate clot formation potential under atrial fibrillation flow patterns. Chronic biocompatibility studies assess tissue response and material integration over implant lifetime."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Structural Heart Testing",
+    "cards": [
+      {
+        "icon_name": "Layers",
+        "title": "Specialized Structural Heart Infrastructure",
+        "description": "Two catheterization laboratories equipped specifically for structural heart procedures feature transesophageal echocardiography, high-resolution fluoroscopy, and specialized left atrial access capabilities. Our anatomical model library spans LAA morphological variants and septal defect geometries while hemodynamic monitoring systems capture device-heart interactions throughout complete cardiac cycles."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Structural Heart Device Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered transcatheter structural heart procedures, our team understands complex cardiac anatomy, deployment mechanics, and chronic tissue integration requirements. This cardiovascular heritage translates to protocol designs that address FDA Class III device requirements including anatomical compatibility demonstration, endothelialization assessment, and comprehensive safety validation."
+      },
+      {
+        "icon_name": "Activity",
+        "title": "Proven Structural Heart Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for structural heart devices across LAA closure, septal defect, and transcatheter repair categories. We understand Class III device requirements including chronic biocompatibility demonstration through ISO 10993 compliance, deployment accuracy validation, and the specific endpoints FDA expects for structural heart device submissions."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your structural heart device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

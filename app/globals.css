@@ -2,32 +2,59 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
+@layer base {
+    :root {
+        --color-navy: #032235;
+        --color-white: #FFFFFF;
+        --color-ghost: #F7F7F8;
+        --color-teal: #55B9BE;
+        --color-red: #CF0000;
+        --color-steel: #4682b4;
+    }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
+    body {
+        @apply bg-white text-navy antialiased;
+    }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        @apply font-bold tracking-tight text-navy;
+    }
+
+    a {
+        @apply transition-colors duration-200;
+    }
 }
 
 @layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+    .luxury-padding {
+        @apply py-24 px-6;
+    }
+
+    .luxury-shadow {
+        @apply shadow-luxury;
+    }
+}
+
+/* Logo carousel animation - shows one at a time */
+@keyframes logo-carousel {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+.animate-logo-carousel {
+    animation: logo-carousel 25s linear infinite;
+}
+
+.animate-logo-carousel:hover {
+    animation-play-state: paused;
 }

@@ -1,0 +1,71 @@
+{
+  "page_slug": "osteoarthritis-models",
+  "page_title": "Osteoarthritis Models | Synchrony Labs",
+  "parent_page": {
+    "name": "Musculoskeletal",
+    "url": "/areas-of-expertise/musculoskeletal"
+  },
+  "hero": {
+    "headline": "Osteoarthritis Models",
+    "description": "Joint degeneration therapies face unique validation challenges proving effectiveness in environments replicating cartilage breakdown and subchondral bone changes. We evaluate therapeutic interventions using validated osteoarthritis models that characterize cartilage preservation, pain modulation, and functional improvement addressing preclinical efficacy demonstration requirements."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Osteoarthritis disease models must replicate key pathological features including progressive cartilage degeneration, subchondral bone remodeling, synovial inflammation, and functional impairment that therapeutic interventions address. Surgical induction models using anterior cruciate ligament transection with partial medial meniscectomy create post-traumatic osteoarthritis replicating joint instability and altered biomechanics driving disease progression. Chemical induction using monosodium iodoacetate produces controlled cartilage degradation enabling dose-response assessment and standardized disease severity characterization. Spontaneous degeneration models replicate age-related osteoarthritis progression while genetic models address specific pathogenic mechanisms. Each model type serves different validation requirements from viscosupplementation effectiveness to disease-modifying drug assessment and regenerative therapy evaluation.\n\nWe characterize disease progression using modified Mankin scoring systems that quantify cartilage structural deterioration, proteoglycan loss, and chondrocyte abnormalities through histopathological examination. Joint imaging protocols including micro-computed tomography measure subchondral bone density changes, osteophyte formation, and joint space narrowing quantifying structural disease progression. Pain assessment utilizes validated behavioral scoring systems measuring weight-bearing asymmetry, voluntary activity changes, and response to mechanical stimulation characterizing functional impairment. Our capabilities include gait analysis documenting altered biomechanics, biomarker measurement tracking cartilage degradation products, and synovial fluid analysis characterizing inflammatory mediators. Therapeutic intervention protocols evaluate treatment timing effects, dose-response relationships, and mechanism of action validation supporting investigational new drug applications.\n\nGood Laboratory Practice compliance ensures regulatory acceptance while FDA osteoarthritis guidance informs endpoint selection and study design addressing both structural modification demonstration and symptomatic benefit assessment requirements. Testing supports investigational device exemption applications for intra-articular devices and investigational new drug submissions for disease-modifying osteoarthritis drug candidates requiring preclinical efficacy demonstration. Whether validating viscosupplementation products, characterizing cartilage repair scaffold integration, or assessing anti-inflammatory drug effectiveness, our protocols generate data meeting osteoarthritis therapeutic regulatory expectations across both symptom management and structure modification endpoints.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Cartilage Degeneration Quantification",
+          "description": "Modified Mankin scoring characterizes cartilage structural integrity, cellularity changes, safranin-O staining intensity indicating proteoglycan content, and tidemark integrity throughout disease progression. Histomorphometry quantifies cartilage thickness, surface fibrillation extent, and chondrocyte cluster formation providing standardized disease severity assessment enabling therapeutic intervention effectiveness evaluation."
+        },
+        {
+          "title": "Subchondral Bone Analysis",
+          "description": "Micro-computed tomography imaging measures bone volume fraction, trabecular thickness, trabecular spacing, and bone mineral density in subchondral regions while quantifying osteophyte formation and sclerosis development. Three-dimensional reconstruction enables volumetric analysis tracking structural changes throughout disease progression and therapeutic intervention periods."
+        },
+        {
+          "title": "Pain and Functional Assessment",
+          "description": "Validated behavioral scoring systems quantify pain-related behaviors including weight-bearing asymmetry through incapacitance testing, voluntary activity monitoring using automated tracking systems, and mechanical allodynia assessment measuring withdrawal thresholds. Gait analysis characterizes stride length, stance phase duration, and paw pressure distribution changes reflecting functional impairment."
+        },
+        {
+          "title": "Synovial Inflammation Characterization",
+          "description": "Synovial membrane histopathology quantifies inflammatory cell infiltration, synovial hyperplasia, and fibrosis development while immunohistochemistry identifies specific immune cell populations. Synovial fluid analysis measures inflammatory cytokine concentrations, matrix metalloproteinase activities, and cartilage degradation biomarker levels characterizing joint inflammatory status throughout disease progression."
+        },
+        {
+          "title": "Biomarker Measurement",
+          "description": "Serum and synovial fluid biomarker quantification measures cartilage oligomeric matrix protein, type II collagen degradation fragments, hyaluronic acid concentrations, and other molecular indicators tracking disease activity. Biomarker profiles characterize disease progression kinetics, therapeutic response timing, and potential surrogate endpoints for clinical translation."
+        },
+        {
+          "title": "Therapeutic Intervention Validation",
+          "description": "Dose-response protocols evaluate treatment effectiveness across concentration ranges while timing studies assess disease stage-dependent responsiveness. Mechanism of action studies characterize therapeutic effects on cartilage metabolism, inflammatory pathways, pain sensitization, and biomechanical joint function supporting investigational new drug submissions and device effectiveness demonstration."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Osteoarthritis Models",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Orthopedic Disease Model Infrastructure",
+        "description": "Advanced imaging capabilities including micro-computed tomography enable comprehensive structural analysis throughout disease progression while specialized histopathology laboratories feature cartilage-specific staining protocols and quantitative scoring systems. Gait analysis equipment documents functional impairment through objective biomechanical measurements while pain assessment capabilities utilize validated behavioral testing platforms. Our facilities accommodate both surgical osteoarthritis induction and chemical models with standardized disease severity characterization."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Joint Degeneration Expertise",
+        "description": "Validated osteoarthritis models replicate disease features including cartilage matrix degradation, subchondral bone remodeling, synovial inflammation, and pain development that therapeutic interventions must address. Our team understands cartilage biology, joint biomechanics, pain mechanisms in arthritis, and the specific effectiveness endpoints regulatory agencies expect for osteoarthritis therapeutic validation. This expertise translates to protocol designs capturing both structural modification and symptomatic benefit demonstration supporting investigational drug applications."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Musculoskeletal Therapy Regulatory Success",
+        "description": "Successful investigational new drug submissions for disease-modifying osteoarthritis candidates and device applications for intra-articular therapies demonstrate our ability to generate data addressing FDA reviewer expectations. We understand osteoarthritis guidance requirements including structural endpoint validation, pain assessment methodologies, functional outcome demonstration, and the comprehensive preclinical evidence osteoarthritis therapeutic approvals require across viscosupplementation, regenerative medicine, and disease-modifying drug development programs."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Osteoarthritis Models Program?",
+    "description": "Our musculoskeletal device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

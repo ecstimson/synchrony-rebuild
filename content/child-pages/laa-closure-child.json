@@ -1,0 +1,71 @@
+{
+  "page_slug": "laa-closure",
+  "page_title": "LAA Closure Testing Services | GLP Preclinical CRO | Synchrony Labs",
+  "parent_page": {
+    "name": "Structural Heart",
+    "url": "/preclinical-services/cardiovascular-disease-testing/structural-heart-testing"
+  },
+  "hero": {
+    "headline": "LAA Closure Testing Services",
+    "description": "Comprehensive preclinical testing for left atrial appendage closure devices with deployment accuracy, sealing effectiveness assessment, and anatomical compatibility validation across diverse appendage morphologies."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Left atrial appendage closure devices prevent stroke in atrial fibrillation patients by permanently sealing the appendage where blood clots form. These devices face unique validation challenges across diverse appendage anatomies, from chicken wing to cauliflower configurations, requiring precise deployment mechanics and complete sealing without peridevice leaks. Success depends on demonstrating anatomical compatibility across morphological variants, positioning accuracy during cardiac motion, and endothelialization that ensures permanent closure.\n\nWe evaluate deployment accuracy using transesophageal echocardiography and high-resolution fluoroscopy that capture device positioning throughout complete cardiac cycles. Our catheterization laboratories feature specialized left atrial access capabilities, anatomical models representing morphological variations, and flow measurement systems that quantify sealing effectiveness. From device-tissue interface characterization to chronic endothelialization assessment, our protocols address the specific performance requirements LAA closure technologies demand.\n\nISO 10993 biocompatibility standards guide chronic implantation studies while device specific protocols address deployment mechanics and anatomical compatibility validation. Our GLP compliant testing supports both 510(k) pathways demonstrating substantial equivalence to predicate devices and PMA submissions for breakthrough technologies. Whether validating nitinol framework designs or novel sealing mechanisms, our protocols address FDA expectations for stroke prevention devices across diverse patient anatomies.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Anatomical Compatibility Assessment",
+          "description": "Deployment validation across chicken wing, cactus, cauliflower, and windsock LAA morphologies using anatomically accurate models with advanced imaging for detailed anatomical measurements and device sizing verification."
+        },
+        {
+          "title": "Deployment Mechanics and Positioning Accuracy",
+          "description": "High-resolution fluoroscopy and transesophageal echocardiography capture device deployment dynamics, positioning accuracy, and stability during cardiac motion with assessment of delivery system performance and retrieval capabilities."
+        },
+        {
+          "title": "Sealing Effectiveness and Leak Assessment",
+          "description": "Advanced flow measurement techniques quantify LAA occlusion completeness and peridevice leak detection with real-time imaging during deployment enabling sealing optimization and long-term closure validation."
+        },
+        {
+          "title": "Endothelialization and Tissue Integration",
+          "description": "Extended observation protocols evaluate endothelialization progression and device-tissue interface healing with histopathological analysis characterizing tissue ingrowth, cellular responses, and complete endothelial coverage development."
+        },
+        {
+          "title": "Device Stability and Durability",
+          "description": "Cardiac cycle simulation assesses device positioning stability and anchoring mechanism integrity throughout extended physiological loading with accelerated fatigue protocols characterizing material durability and long-term device behavior."
+        },
+        {
+          "title": "Biocompatibility and Thrombogenicity",
+          "description": "ISO 10993-4 compliant hemocompatibility testing addresses blood contact requirements while specialized thrombogenicity protocols evaluate clot formation potential under atrial fibrillation flow patterns with chronic studies assessing tissue response over implant lifetime."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for LAA Closure Testing",
+    "cards": [
+      {
+        "icon_name": "Layers",
+        "title": "Specialized Structural Heart Infrastructure",
+        "description": "Two catheterization laboratories equipped specifically for LAA closure evaluation feature transesophageal echocardiography, high-resolution fluoroscopy, and specialized left atrial access capabilities. Our anatomical model library spans chicken wing, cactus, cauliflower, and windsock morphologies while hemodynamic monitoring systems capture device-heart interactions throughout complete cardiac cycles."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Structural Heart Device Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered transcatheter structural heart procedures, our team understands complex cardiac anatomy, deployment mechanics, and chronic tissue integration requirements. This cardiovascular heritage translates to protocol designs that address FDA Class III device requirements including anatomical compatibility demonstration, endothelialization assessment, and comprehensive safety validation."
+      },
+      {
+        "icon_name": "Activity",
+        "title": "Proven Structural Heart Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for structural heart devices across LAA closure, septal defect, and transcatheter repair categories. We understand Class III device requirements including chronic biocompatibility demonstration through ISO 10993 compliance, deployment accuracy validation, and the specific endpoints FDA expects for structural heart device submissions."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your LAA closure device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

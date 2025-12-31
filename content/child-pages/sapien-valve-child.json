@@ -1,0 +1,71 @@
+{
+  "page_slug": "sapien-valve",
+  "page_title": "Sapien Valve Testing Services | GLP Preclinical CRO | Synchrony Labs",
+  "parent_page": {
+    "name": "Heart Valve",
+    "url": "/preclinical-services/cardiovascular-disease-testing/heart-valve-testing"
+  },
+  "hero": {
+    "headline": "Sapien Valve Testing Services",
+    "description": "Comprehensive preclinical validation for balloon-expandable transcatheter aortic valves with crimping profile characterization, deployment force measurement, and paravalvular leak assessment under GLP compliance."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Balloon-expandable transcatheter aortic valves face unique validation challenges requiring precise crimping profile characterization, controlled expansion mechanics during balloon inflation, and paravalvular sealing effectiveness across heavily calcified anatomies. Edwards Sapien-type platforms must demonstrate predictable deployment geometry, secure annular positioning without migration risk, and optimal hemodynamic performance while minimizing paravalvular leak that compromises patient outcomes. Device success depends on achieving controlled radial force distribution during balloon expansion while preserving leaflet integrity and frame structural stability throughout accelerated durability cycles.\n\nWe evaluate deployment mechanics using specialized balloon inflation systems that quantify expansion pressures, deployment forces, and frame geometry throughout controlled expansion sequences. Our catheterization laboratories feature high-resolution biplane fluoroscopy enabling precise visualization of valve positioning, calcium displacement patterns, and annular contact assessment during balloon inflation. From crimping recovery validation measuring recoil characteristics to paravalvular leak quantification using advanced flow measurement techniques, our protocols address the specific performance requirements balloon-expandable platforms present across varying aortic root anatomies.\n\nISO 5840 standards guide transcatheter heart valve device testing while FDA guidance documents for TAVR devices inform protocol development addressing deployment safety, hemodynamic benchmarks, and structural durability requirements. Our GLP-compliant protocols support both PMA submissions for breakthrough valve technologies and 510(k) pathways demonstrating substantial equivalence to established Sapien platforms. Whether validating cobalt-chromium frame designs with bovine pericardial leaflets or novel sealing technologies addressing paravalvular leak prevention, our testing addresses regulatory expectations for Class III balloon-expandable transcatheter cardiac devices.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Crimping Profile and Deployment Force Characterization",
+          "description": "Specialized crimping systems quantify valve compression characteristics, recoil measurement during delivery catheter transit, and balloon expansion force requirements across deployment sequences. Advanced monitoring captures crimping uniformity, frame stress distribution, and leaflet positioning integrity throughout controlled compression and expansion cycles."
+        },
+        {
+          "title": "Balloon Inflation Mechanics and Expansion Control",
+          "description": "Precision balloon inflation systems measure expansion pressure requirements, deployment force distribution, and frame geometry development during controlled inflation sequences. High-speed fluoroscopic imaging captures expansion dynamics, identifies asymmetric deployment patterns, and validates predictable valve positioning across varying anatomical conditions including eccentric calcification and elliptical annuli."
+        },
+        {
+          "title": "Paravalvular Leak Assessment and Sealing Technology Validation",
+          "description": "Advanced flow measurement techniques quantify paravalvular leak severity using regurgitant fraction calculation, jet characterization, and volumetric analysis. Real-time leak detection during balloon deployment enables sealing technology optimization while specialized protocols evaluate fabric skirt effectiveness, annular contact pressure distribution, and calcium displacement mechanics influencing leak prevention across diverse calcification patterns."
+        },
+        {
+          "title": "Hemodynamic Performance and Valve Function Assessment",
+          "description": "Pulse duplicator systems replicate physiological aortic conditions while measuring transvalvular gradients, effective orifice area, and regurgitant fraction across cardiac output ranges. Hemodynamic assessment validates ISO 5840 performance requirements through pressure gradient characterization, flow pattern analysis, and leaflet kinematics evaluation ensuring optimal valve function throughout complete cardiac cycles."
+        },
+        {
+          "title": "Structural Durability and Accelerated Wear Testing",
+          "description": "Accelerated fatigue protocols simulate 200-400 million cardiac cycles representing projected valve lifespan while continuous monitoring detects structural deterioration, leaflet calcification, or frame fracture. Durability assessment addresses cobalt-chromium frame integrity, bovine pericardial leaflet performance, and suture line stability using ISO 5840 accelerated wear methodologies with real-time performance tracking throughout extended cycling."
+        },
+        {
+          "title": "Anatomical Compatibility and Sizing Validation",
+          "description": "Comprehensive anatomical testing evaluates valve performance across annular size ranges, validates sizing algorithm accuracy, and assesses deployment success in challenging geometries including bicuspid aortic valves and severe calcification. Specialized protocols characterize valve-in-valve applications, coronary obstruction risk assessment, and conduction disturbance potential through anatomically accurate aortic root models spanning patient population variations."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Sapien Valve Testing",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Balloon-Expandable Valve Infrastructure",
+        "description": "Two catheterization laboratories configured specifically for balloon-expandable TAVR feature precision balloon inflation systems, biplane fluoroscopy, and specialized crimping equipment. Our aortic root anatomical model library spans small annuli through severely calcified bicuspid configurations while advanced hemodynamic monitoring systems characterize deployment forces and paravalvular leak patterns. This infrastructure enables balloon-expandable valve testing protocols addressing controlled expansion mechanics that self-expanding valve facilities cannot replicate."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Balloon-Expandable TAVR Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered transcatheter aortic valve replacement techniques, our team understands balloon inflation mechanics, paravalvular leak prevention strategies, and calcium displacement dynamics specific to Sapien-type platforms. This cardiovascular heritage translates to protocol designs addressing FDA Class III device requirements including deployment force validation, sealing technology assessment, and the comprehensive durability testing balloon-expandable valves demand for both surgical and prohibitive risk populations."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Balloon-Expandable Valve Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for transcatheter aortic valves across balloon-expandable platforms. We understand Class III device requirements including ISO 5840 compliance for transcatheter valves, hemodynamic performance benchmarks, and the comprehensive preclinical evidence FDA expects for TAVR submissions addressing both standard anatomies and challenging applications including valve-in-valve procedures, bicuspid aortic valve treatment, and low-flow low-gradient aortic stenosis populations."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your balloon-expandable valve platform, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

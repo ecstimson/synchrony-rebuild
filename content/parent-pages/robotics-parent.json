@@ -1,0 +1,102 @@
+{
+  "page_slug": "robotics",
+  "page_title": "Robotics | Synchrony Labs",
+  "parent_hub": {
+    "name": "Cardiovascular",
+    "url": "/areas-of-expertise/cardiovascular"
+  },
+  "hero": {
+    "headline": "Robotics",
+    "description": "Robotic-assisted surgical system validation from neurovascular navigation to thoracic applications with articulation characterization and force feedback assessment."
+  },
+  "sub_services": {
+    "title": "Complete Robotics Services",
+    "description": "We provide specialized testing for robotic-assisted surgical systems, addressing unique articulation mechanics, imaging integration, and precision control requirements across minimally invasive cardiovascular and surgical applications.",
+    "cards": [
+      {
+        "icon_name": "Brain",
+        "title": "Neurovascular",
+        "description": "Robotic neurovascular navigation system validation including catheter steering precision through tortuous cerebrovascular anatomy, remote control responsiveness assessment, force feedback characterization, and tremor filtration verification for intracranial intervention applications.",
+        "link_url": "/areas-of-expertise/cardiovascular/robotics/neurovascular"
+      },
+      {
+        "icon_name": "Activity",
+        "title": "Endovascular",
+        "description": "Robotic endovascular platform validation with catheter manipulation precision characterization, guidewire control assessment, fluoroscopic integration verification, radiation exposure reduction quantification, and procedural efficiency protocols for coronary and peripheral interventions.",
+        "link_url": "/areas-of-expertise/cardiovascular/robotics/endovascular"
+      },
+      {
+        "icon_name": "Layers",
+        "title": "Abdominal Surgery",
+        "description": "Robotic abdominal surgical system validation including articulated instrument dexterity assessment, laparoscopic camera control characterization, tissue manipulation precision quantification, and suturing capability evaluation for minimally invasive abdominal procedures.",
+        "link_url": "/areas-of-expertise/cardiovascular/robotics/abdominal-surgery"
+      },
+      {
+        "icon_name": "Heart",
+        "title": "Thoracic Surgery",
+        "description": "Robotic thoracic surgical platform validation with instrument articulation characterization in confined thoracic spaces, rib spreading force assessment, cardiac motion compensation verification, and procedural accuracy protocols for minimally invasive cardiac and pulmonary applications.",
+        "link_url": "/areas-of-expertise/cardiovascular/robotics/thoracic-surgery"
+      }
+    ]
+  },
+  "primary_content": {
+    "title": "What We Test",
+    "description": "Robotic-assisted surgical systems enhance procedural precision through tremor filtration, motion scaling, and articulated instrument control, requiring validation that demonstrates mechanical reliability while maintaining tactile feedback and surgical accuracy. Neurovascular platforms must navigate tortuous cerebrovascular anatomy with submillimeter precision while endovascular systems balance catheter control against operator radiation exposure reduction. Surgical robotic platforms demand articulation characterization across multiple degrees of freedom while force feedback assessment ensures appropriate tissue interaction. Each application category presents unique validation challenges from remote control latency in catheter steering to suturing precision in confined anatomical spaces.\n\nWe evaluate robotic system performance using precision measurement fixtures that quantify positional accuracy, force transmission fidelity, and control responsiveness across complete range of motion. Our robotic testing laboratories feature anatomically accurate surgical models, vascular phantoms replicating target vessel tortuosity, and specialized sensors measuring instrument forces, articulation angles, and tip positioning. Imaging system integration assessment validates fluoroscopic and ultrasound compatibility while radiation dosimetry protocols quantify operator exposure reduction. Tremor filtration characterization employs accelerometer-based measurement tracking frequency attenuation and motion scaling accuracy. Software validation addresses control algorithm performance, fail-safe mechanisms, and emergency override functionality.\n\nISO 10993 biocompatibility standards guide blood-contacting component assessment while IEC 60601 electrical safety standards inform robotic system validation. Software as a Medical Device guidance addresses algorithm verification and validation requirements. Device-specific protocols characterize articulation mechanics, force feedback accuracy, and procedural workflow integration. Our GLP-compliant testing supports PMA pathways for Class II and Class III robotic systems. Whether validating next-generation catheter steering platforms, articulated surgical instruments, or integrated imaging-navigation systems, our protocols demonstrate mechanical precision, control reliability, and procedural safety that robotic-assisted intervention indications demand.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Articulation Mechanics and Degrees of Freedom Characterization",
+          "description": "Precision measurement systems quantify articulation range across multiple degrees of freedom while force-displacement analysis characterizes resistance throughout motion envelopes. Repeatability testing validates consistent positioning accuracy while durability protocols assess joint mechanics through extended use cycles."
+        },
+        {
+          "title": "Remote Control Responsiveness and Latency Assessment",
+          "description": "High-speed motion capture systems measure control input to device response timing, quantifying latency across communication pathways. Precision positioning protocols validate motion scaling accuracy and tremor filtration effectiveness. Emergency stop response time characterization ensures operator safety."
+        },
+        {
+          "title": "Force Feedback and Tactile Sensation Transmission",
+          "description": "Specialized sensors measure force transmission fidelity from instrument tip through robotic arms to operator controls. Tissue interaction protocols characterize feedback accuracy during grasping, cutting, and suturing while scaling assessment validates force magnification appropriateness preventing tissue damage."
+        },
+        {
+          "title": "Navigation Precision Through Tortuous Vascular Anatomy",
+          "description": "Anatomically accurate cerebrovascular and coronary models validate catheter steering accuracy through challenging geometries. Trackability assessment quantifies navigation success rates while vessel wall contact force measurement prevents perforation. Off-axis force characterization evaluates lateral steering capabilities."
+        },
+        {
+          "title": "Imaging System Integration and Radiation Exposure Reduction",
+          "description": "Fluoroscopic and ultrasound compatibility protocols validate imaging quality during robotic operation. Radiation dosimetry quantifies operator exposure reduction from remote control positioning. Three-dimensional navigation system integration characterizes registration accuracy and real-time tracking performance."
+        },
+        {
+          "title": "Surgical Workflow Integration and Procedural Efficiency",
+          "description": "Complete procedure simulation protocols measure setup time, instrument exchange efficiency, and operative duration across representative cases. Workflow analysis identifies bottlenecks while learning curve assessment characterizes training requirements. Sterile field maintenance and contamination prevention protocols validate infection control compliance."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Robotics",
+    "description": null,
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Advanced Robotic System Testing Infrastructure",
+        "description": "Dedicated robotic testing laboratories equipped with precision measurement systems, high-speed motion capture, and anatomically accurate surgical models enable comprehensive characterization across neurovascular, endovascular, and surgical applications. Specialized sensor arrays measure articulation mechanics, force transmission, and positioning accuracy. Imaging integration capabilities validate fluoroscopic and ultrasound compatibility while radiation dosimetry systems quantify exposure reduction."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Minimally Invasive Procedure Expertise",
+        "description": "Our cardiovascular heritage provides deep understanding of interventional procedure workflows, catheter navigation challenges, and surgical precision requirements. This expertise translates to protocol designs addressing articulation characterization, force feedback validation, and procedural efficiency assessment that robotic system development demands across diverse cardiovascular and surgical applications."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Robotic Device Regulatory Success",
+        "description": "Our data packages have supported successful FDA submissions for robotic-assisted medical devices addressing Class II and Class III pathway requirements. We understand software validation, human factors assessment, and the comprehensive mechanical characterization FDA expects for robotic surgical and interventional platforms across neurovascular, endovascular, and surgical applications."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Robotics Program?",
+    "description": "Our cardiovascular device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "page_slug": "embolic-protection",
+  "page_title": "Embolic Protection | Synchrony Labs",
+  "parent_page": {
+    "name": "Peripheral Vascular",
+    "url": "/areas-of-expertise/cardiovascular/peripheral-vascular"
+  },
+  "hero": {
+    "headline": "Embolic Protection",
+    "description": "Successful embolic protection requires devices that capture plaque debris without blocking blood flow to critical organs, contain all captured material during retrieval, and deploy reliably in the seconds available during high-risk procedures. We test particle capture efficiency down to 40 microns, measure flow obstruction at the filter, validate debris retention during device collapse and removal, and confirm deployment accuracy in tortuous anatomy."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Embolic protection devices face competing demands that make preclinical testing critical. Your filter or occlusion system must catch particles that could cause stroke, heart attack, or organ damage, yet the same pores or mechanisms that capture debris also restrict blood flow to tissue that depends on continuous perfusion. Deploy too slowly and emboli escape before protection activates. Retrieve carelessly and captured debris spills back into circulation. The device must accomplish all this during procedures where seconds matter and anatomical access may be challenging through tortuous vessels or difficult angulations.\n\nWe test embolic protection devices using programmable debris generators that release controlled quantities of synthetic particles sized from 40 microns to 5 millimeters, replicating the size distribution of emboli generated during carotid stenting, TAVR, and peripheral interventions. High-speed imaging tracks what your filter captures versus what passes through, while flow sensors measure pressure gradients that indicate perfusion compromise. We validate that your device deploys within the time window available during actual procedures, test debris retention as the filter collapses for retrieval, and confirm that captured material remains contained during catheter withdrawal through guide catheters. Testing covers distal filter systems, proximal occlusion devices, and flow reversal systems across vessel diameters from 3mm to 8mm.\n\nOur protocols align with FDA guidance for embolic protection devices, typically following the 510(k) pathway with substantial equivalence to predicate devices. Testing demonstrates adequate particle capture for procedural safety, minimal flow obstruction during deployment, complete debris containment during retrieval, and reliable performance across relevant vascular territories. We measure capture efficiency against benchmarks established for cerebral protection during carotid stenting and peripheral intervention safety, while flow preservation data confirms tissue perfusion throughout the protected period.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Particle Capture Efficiency Across Size Ranges",
+          "description": "We measure what percentage of debris your filter captures across particles from 40 microns to 5 millimeters, providing the size-specific capture data that determines protection against microembolic injury during carotid stenting, TAVR, and peripheral vascular interventions."
+        },
+        {
+          "title": "Flow Obstruction and Perfusion Measurement",
+          "description": "Pressure gradient sensors quantify how much your deployed filter restricts blood flow, confirming that particle capture mechanisms don't create dangerous tissue ischemia during the minutes your device protects the cerebral or peripheral vascular bed."
+        },
+        {
+          "title": "Debris Retention During Retrieval",
+          "description": "High-speed imaging validates that captured particles remain contained as your filter collapses and withdraws through the guide catheter, measuring any debris spillage that could defeat the purpose of embolic protection and cause delayed complications."
+        },
+        {
+          "title": "Deployment Speed and Accuracy",
+          "description": "We measure time from catheter advancement to full filter deployment, confirming your device activates quickly enough to capture debris generated during balloon inflation, stent expansion, or atherectomy while positioning accurately in target vessels before intervention begins."
+        },
+        {
+          "title": "Performance in Tortuous Anatomy",
+          "description": "Testing through curved vessel models and bifurcation anatomy validates that your delivery system navigates challenging vascular access including carotid, renal, and iliac territories while maintaining filter integrity and deployment reliability across the anatomical variations encountered clinically."
+        },
+        {
+          "title": "Multi-Debris Load Testing",
+          "description": "We challenge your filter with increasing volumes of captured material, measuring at what point debris burden begins to compromise flow or device performance and whether your system maintains effectiveness throughout extended procedures with high plaque burden."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Embolic Protection",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Precision Particle Tracking Systems",
+        "description": "Our debris generators release calibrated synthetic particles that replicate the size distribution of emboli generated during carotid stenting, TAVR, and peripheral interventions. High-resolution imaging and filtration systems capture particles as small as 40 microns, providing the detailed capture efficiency data FDA requires for embolic protection claims across cerebral and peripheral applications. Multi-channel flow monitoring confirms perfusion throughout debris capture testing."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Procedural Realism in Testing",
+        "description": "We simulate actual intervention sequences with precise timing, testing whether your device deploys fast enough to capture debris from balloon inflation or stent expansion in carotid, renal, or iliac territories. Our protocols replicate the procedural realities that determine clinical success, from guide catheter compatibility through final retrieval with captured debris containment. This procedural focus ensures testing matches the time-critical nature of real-world embolic protection."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Multi-Territory Testing Experience",
+        "description": "Our GLP-compliant protocols address embolic protection across vascular territories, from cerebral filters during carotid procedures to distal protection during renal and iliac interventions. We understand the territory-specific requirements that differentiate carotid protection from peripheral applications, including different flow rates, vessel diameters, and embolic load expectations. This multi-territory experience provides testing strategies aligned with your specific regulatory pathway and clinical indication."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your embolic protection device, target vascular territory, and regulatory pathway to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

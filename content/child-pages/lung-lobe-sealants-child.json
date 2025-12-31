@@ -1,0 +1,71 @@
+{
+  "page_slug": "lung-lobe-sealants",
+  "page_title": "Lung Lobe Sealants | Synchrony Labs",
+  "parent_page": {
+    "name": "Respiratory",
+    "url": "/areas-of-expertise/respiratory"
+  },
+  "hero": {
+    "headline": "Lung Lobe Sealants",
+    "description": "Pulmonary sealants preventing prolonged air leaks face unique challenges proving adhesion strength sufficient to withstand respiratory pressures while supporting pleural healing. We test seal integrity, burst pressure resistance, and air leak resolution using standardized protocols that address thoracic surgical sealant regulatory requirements."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Thoracic surgical sealants must demonstrate sealing effectiveness preventing prolonged air leaks following pulmonary resection while ensuring biocompatibility with pleural surfaces throughout healing progression. Synthetic adhesives require immediate bonding strength validation withstanding respiratory pressure fluctuations during ventilation cycles while fibrin-based systems need polymerization kinetics characterization ensuring adequate working time and final seal integrity. Hydrogel platforms demand adhesion testing on wet lung tissue surfaces while biological sealants require tissue integration assessment supporting pleural healing without inflammatory complications. Each formulation addresses different leak severity levels from minor alveolar air leaks to larger bronchopleural fistula prevention requiring validated performance characterization.\n\nWe evaluate sealant performance using standardized air leak quantification protocols measuring leak flow rates through digital drainage systems while burst pressure testing validates acute sealing strength under physiological stress conditions. Chronic implantation studies track sealant degradation dynamics, tissue response patterns at pleural interfaces, and healing progression through serial imaging and histopathological examination. Our protocols measure time to air leak cessation as primary effectiveness endpoints while tissue adhesion strength testing quantifies bonding integrity throughout healing phases. Pleural cavity assessment evaluates inflammatory response, adhesion formation, and lung re-expansion characteristics determining surgical outcome quality. We characterize sealant application techniques ensuring reproducible delivery across varying anatomical geometries and tissue conditions encountered during thoracic procedures.\n\nISO 10993 biocompatibility standards guide pleural tissue contact assessment while ASTM surgical sealant standards address mechanical performance validation requirements specific to pulmonary applications. Testing supports 510(k) pathways demonstrating substantial equivalence to cleared surgical sealant technologies and PMA submissions for breakthrough formulations requiring comprehensive effectiveness demonstration. Whether validating synthetic polymer adhesives, characterizing fibrin sealant kinetics, or assessing biological scaffold integration, our protocols generate data meeting thoracic surgical device regulatory expectations for air leak prevention technologies across pulmonary resection, pleurodesis, and pneumothorax management applications.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Air Leak Quantification and Resolution",
+          "description": "Digital drainage system monitoring quantifies air leak flow rates throughout postoperative periods while measuring time to leak cessation and total air volume evacuated. Standardized leak grading protocols characterize leak severity using validated scoring systems supporting comparative effectiveness assessment across sealant formulations."
+        },
+        {
+          "title": "Burst Pressure and Adhesion Strength",
+          "description": "Acute sealing effectiveness testing measures burst pressure thresholds using controlled inflation protocols while tissue adhesion strength quantification evaluates bonding integrity under tensile and shear stress conditions replicating respiratory motion and pleural space pressures during ventilation cycles and patient activity."
+        },
+        {
+          "title": "Sealant Application and Delivery Validation",
+          "description": "Bench testing characterizes sealant viscosity, spray pattern uniformity for aerosolized delivery systems, and working time from mixing to polymerization completion. Application technique standardization ensures reproducible coverage across varying tissue geometries while delivery device performance validation addresses applicator functionality and precision dosing consistency."
+        },
+        {
+          "title": "Pleural Tissue Biocompatibility",
+          "description": "ISO 10993-6 implantation testing adapted for pleural cavity applications evaluates inflammatory cell infiltration, foreign body response development, and adhesion formation potential at sealant-tissue interfaces. Chronic studies assess tissue integration quality, sealant degradation characteristics, and healing progression without respiratory compromise throughout extended observation periods."
+        },
+        {
+          "title": "Hemostatic Effectiveness Assessment",
+          "description": "Bleeding control validation quantifies hemostatic performance at vascular injury sites while measuring time to hemostasis achievement and clot stability under physiological pressures. Coagulation cascade interaction studies characterize fibrin formation enhancement for biological sealants while evaluating platelet activation and aggregation effects."
+        },
+        {
+          "title": "Lung Re-Expansion and Healing Quality",
+          "description": "Serial computed tomography imaging documents lung re-expansion kinetics following sealant application while measuring residual pleural space, parenchymal recovery, and functional lung volume restoration. Histopathological examination characterizes pleural healing quality including mesothelial cell regeneration, collagen deposition patterns, and inflammatory resolution supporting complete functional recovery."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Lung Lobe Sealants",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Thoracic Surgical Assessment Infrastructure",
+        "description": "Purpose-built surgical suites accommodate pulmonary resection procedures with standardized air leak creation, digital drainage monitoring systems, and real-time leak quantification capabilities. Our facilities feature burst pressure testing equipment calibrated for pulmonary applications while imaging systems enable serial lung re-expansion assessment throughout healing progression. Advanced histopathology laboratories characterize pleural tissue response using specialized staining protocols for surgical sealant biocompatibility evaluation."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Pulmonary Sealant Expertise",
+        "description": "Validated thoracic surgical models replicate pulmonary resection scenarios including lobectomy, wedge resection, and segmentectomy procedures creating standardized air leak conditions for sealant effectiveness assessment. Our team understands pleural space physiology, lung mechanics during ventilation, and healing requirements that surgical sealant manufacturers must address for regulatory submissions. This expertise translates to protocol designs capturing air leak prevention demonstration, tissue compatibility validation, and the comprehensive safety evidence FDA thoracic sealant pathways require."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Surgical Sealant Regulatory Success",
+        "description": "Successful FDA submissions across fibrin-based sealants, synthetic polymer adhesives, and biological scaffold platforms demonstrate our ability to generate data addressing reviewer expectations for thoracic surgical sealants. We understand 510(k) substantial equivalence pathways, biocompatibility validation per ISO 10993 pleural tissue contact standards, and the specific air leak reduction endpoints FDA expects for pulmonary sealant approvals across lobectomy, pleurodesis, and pneumothorax prevention applications."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Lung Lobe Sealants Program?",
+    "description": "Our respiratory device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "page_slug": "heart-pump",
+  "page_title": "Heart Pump Testing Services | Synchrony Labs",
+  "parent_page": {
+    "name": "Heart Failure",
+    "url": "/preclinical-services/cardiovascular-disease-testing/heart-failure-testing"
+  },
+  "hero": {
+    "headline": "Heart Pump Testing Services",
+    "description": "Comprehensive preclinical validation for mechanical circulatory support devices with pump performance characterization, hemocompatibility assessment, durability protocols, and hemodynamic testing under physiological conditions using GLP-compliant methodologies."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Mechanical circulatory support devices sustain life by generating continuous flow, requiring validation that demonstrates reliable pump performance while preventing blood damage and thrombotic complications. Heart pumps must maintain 5 liters per minute across varying preload and afterload conditions while operating continuously for months or years without mechanical failure. Continuous-flow platforms demand specialized shear stress assessment while pulsatile systems require complex timing validation and chamber pressurization characterization.\n\nWe evaluate pump performance using pressure-flow curve analysis and real-time hemodynamic monitoring that captures output stability across physiological stress conditions. Our catheterization laboratories feature mock circulation loops replicating normal and failing heart hemodynamics while specialized test fixtures accommodate both implantable and percutaneous pump configurations. Hemocompatibility protocols quantify hemolysis indices, platelet activation markers, and von Willebrand factor degradation using ISO 10993-4 adapted for high-shear blood pump environments.\n\nISO 10993 biocompatibility standards guide chronic implantation assessment while device-specific protocols address pump durability through accelerated fatigue testing, flow dynamics optimization, and anatomical integration studies. Our GLP-compliant testing addresses PMA pathway requirements for Class III life-sustaining devices. Whether validating next-generation LVADs, temporary support systems, or total artificial hearts, our protocols demonstrate both mechanical reliability and hemocompatibility performance that regulatory submissions demand.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Pump Performance Characterization",
+          "description": "Pressure-flow curve validation across physiological ranges evaluates pump efficiency, power consumption, and flow stability under varying preload and afterload conditions while assessing continuous-flow dynamics and pulsatility characteristics"
+        },
+        {
+          "title": "Hemodynamic Performance Assessment",
+          "description": "Real-time monitoring captures cardiac output, ventricular pressure relationships, and systemic flow patterns using pressure-volume loop analysis that quantifies ventricular unloading and circulatory support effectiveness across stress conditions"
+        },
+        {
+          "title": "Hemocompatibility and Blood Damage Testing",
+          "description": "ISO 10993-4 compliant protocols quantify hemolysis indices, platelet function markers, and shear stress effects while evaluating thrombogenic potential and anticoagulation requirements for chronic blood-contacting pump surfaces"
+        },
+        {
+          "title": "Durability and Accelerated Wear Testing",
+          "description": "Long-term durability protocols simulate years of continuous operation through accelerated cycling with performance monitoring detecting bearing wear, seal degradation, and motor stability changes across millions of pump cycles"
+        },
+        {
+          "title": "Flow Dynamics and Visualization",
+          "description": "Advanced imaging identifies flow disturbances and stasis regions that promote thrombosis while computational fluid dynamics validation assesses shear stress distribution across blood-contacting surfaces and pump chambers"
+        },
+        {
+          "title": "Anatomical Integration and Biocompatibility",
+          "description": "Chronic implantation studies evaluate tissue response at pump interfaces, cannula positioning stability, and healing patterns using histopathological analysis with standardized scoring systems for fibrosis and inflammation assessment"
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Heart Pump Testing",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Circulatory Support Infrastructure",
+        "description": "Two catheterization laboratories configured specifically for mechanical circulatory support evaluation feature continuous hemodynamic monitoring, pressure-volume loop analysis systems, and real-time flow measurement capabilities. Our mock circulation loops replicate physiological preload and afterload conditions while specialized test fixtures accommodate both implantable and percutaneous pump configurations. Accelerated durability testing systems simulate years of continuous operation through millions of pump cycles under controlled conditions."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Mechanical Support Device Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered mechanical circulatory support techniques, our team understands pump physiology, ventricular mechanics, and hemodynamic optimization specific to life-sustaining devices. This cardiovascular heritage translates to protocol designs addressing FDA Class III requirements including durability demonstration, hemocompatibility validation, and the comprehensive safety evidence mechanical support devices demand for both bridge-to-transplant and destination therapy applications."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Circulatory Support Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for mechanical circulatory support devices across ventricular assist device, temporary support, and total artificial heart categories. We understand Class III life-sustaining device requirements including chronic biocompatibility demonstration through ISO 10993 compliance, pump durability validation, and the specific endpoints FDA expects for circulatory support submissions addressing both acute decompensation management and long-term cardiac replacement applications."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your heart pump device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

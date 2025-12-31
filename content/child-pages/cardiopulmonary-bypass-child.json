@@ -1,0 +1,71 @@
+{
+  "page_slug": "cardiopulmonary-bypass",
+  "page_title": "Cardiopulmonary Bypass | Synchrony Labs",
+  "parent_page": {
+    "name": "Heart Failure",
+    "url": "/areas-of-expertise/cardiovascular/heart-failure"
+  },
+  "hero": {
+    "headline": "Cardiopulmonary Bypass",
+    "description": "Preclinical validation for extracorporeal circulation systems with oxygenator gas transfer efficiency measurement, blood pump hemodynamic characterization, hemocompatibility assessment throughout prolonged bypass periods, and heat exchanger performance evaluation using ISO 7199 compliant methodologies."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Cardiopulmonary bypass systems temporarily replace cardiac and pulmonary function during open-heart surgical procedures, requiring validation that demonstrates reliable gas exchange while minimizing blood trauma throughout extended circulation periods. These extracorporeal circuits must maintain adequate oxygenation and carbon dioxide removal while blood pumps deliver precise flow rates across varying systemic resistances. Membrane oxygenators demand specialized assessment of oxygen transfer efficiency, CO2 clearance capacity, and blood-side pressure drop while integrated heat exchangers regulate temperature during cardioplegia induction and rewarming phases.\n\nWe evaluate bypass circuit performance using blood gas analyzers that quantify partial pressures throughout oxygenator transit while hemolysis measurement systems detect red cell damage and platelet activation across flow ranges typical of cardiac surgery. Our mock circulation loops replicate physiologic pressures and resistance while specialized test fixtures enable pump flow characterization, membrane surface area optimization, and priming volume assessment. Hemocompatibility protocols measure complement activation, leukocyte degranulation, and fibrinogen consumption using ISO 10993-4 standards adapted for short-term extracorporeal circulation applications where blood contact surfaces exceed standard implant testing requirements.\n\nISO 7199 standards for blood-gas exchangers guide membrane oxygenator validation while ISO 10993 biocompatibility requirements address circuit material selection and blood contact surface treatment. FDA guidance for cardiopulmonary bypass systems informs protocol development addressing gas transfer efficiency benchmarks, heat exchanger safety limits, and blood damage thresholds. Our testing supports 510(k) pathways for established oxygenator designs and PMA submissions for novel membrane technologies. Whether validating hollow-fiber oxygenators, centrifugal pump platforms, or integrated bypass consoles, our protocols demonstrate gas exchange capacity, hemodynamic performance, and hemocompatibility across the flow rates and perfusion durations cardiac surgical procedures require.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Oxygenator Gas Transfer Efficiency",
+          "description": "Blood gas analysis throughout membrane transit quantifies oxygen delivery rates and carbon dioxide removal capacity across flow ranges from 1-7 liters per minute while measuring partial pressure gradients that determine oxygenator sizing requirements for adult and pediatric applications."
+        },
+        {
+          "title": "Hemolysis and Blood Damage Quantification",
+          "description": "Plasma-free hemoglobin measurement detects red cell trauma while platelet counts, aggregation function, and von Willebrand factor multimer analysis characterize circuit-induced coagulopathy across bypass durations typical of valve replacement, coronary bypass, and complex reconstructive procedures."
+        },
+        {
+          "title": "Pump Flow Characterization",
+          "description": "Hemodynamic testing across pressure gradients from 20-150 mmHg validates flow rate accuracy, pulsatility effects, and afterload response while assessing centrifugal pump head-flow relationships and roller pump occlusion settings that maintain consistent perfusion during surgical manipulations."
+        },
+        {
+          "title": "Heat Exchanger Performance Validation",
+          "description": "Temperature control assessment during rapid cooling and rewarming protocols validates heat transfer efficiency while monitoring blood-side thermal gradients that prevent localized hemolysis, ensuring safe temperature management throughout cardioplegia arrest and normothermic reperfusion phases."
+        },
+        {
+          "title": "Membrane Surface Biocompatibility",
+          "description": "Complement activation markers including C3a and C5a quantify inflammatory response to oxygenator membranes while leukocyte elastase and myeloperoxidase release indicate neutrophil activation patterns informing surface coating strategies that reduce systemic inflammatory response syndrome."
+        },
+        {
+          "title": "Circuit Priming and Air Handling",
+          "description": "Priming volume optimization reduces hemodilution while air detection and removal capability testing validates bubble trap efficiency and arterial line filter performance, ensuring circuit designs minimize transfusion requirements while preventing gas embolism during deairing and perfusion."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Cardiopulmonary Bypass",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Bypass Circuit Testing Infrastructure",
+        "description": "Dedicated mock circulation systems replicate cardiac surgical hemodynamics with precise flow and pressure control while blood gas analyzers provide continuous monitoring of oxygenation efficiency. Our laboratories feature hemolysis measurement platforms, complement activation assays, and thermal management systems that characterize circuit performance across the temperature ranges and flow conditions encountered during valve replacement, coronary bypass, and aortic reconstruction procedures requiring cardiopulmonary support."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Cardiovascular Surgery Heritage",
+        "description": "Founded by Duke University cardiac surgeons and perfusionists who developed early cardiopulmonary bypass protocols, our team understands oxygenator efficiency requirements, pump flow dynamics, and the hemocompatibility challenges extracorporeal circulation presents. This surgical heritage informs protocol designs addressing gas transfer benchmarks, blood trauma thresholds, and the ISO 7199 compliance requirements that membrane oxygenators, centrifugal pumps, and integrated bypass consoles demand for regulatory clearance."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Bypass System Regulatory Success",
+        "description": "Our data packages have supported successful FDA 510(k) clearances for cardiopulmonary bypass oxygenators and blood pumps across hollow-fiber membrane, centrifugal, and roller pump technologies. We understand the gas transfer efficiency benchmarks, hemolysis limits, and heat exchanger safety margins FDA expects for bypass circuit submissions addressing adult, pediatric, and neonatal applications requiring reliable extracorporeal support throughout complex cardiac surgical procedures."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your cardiopulmonary bypass system, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

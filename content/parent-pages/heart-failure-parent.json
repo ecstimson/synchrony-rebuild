@@ -1,0 +1,102 @@
+{
+  "page_slug": "heart-failure",
+  "page_title": "Heart Failure | Synchrony Labs",
+  "parent_hub": {
+    "name": "Cardiovascular",
+    "url": "/areas-of-expertise/cardiovascular"
+  },
+  "hero": {
+    "headline": "Heart Failure",
+    "description": "Mechanical circulatory support device validation from continuous-flow LVADs to temporary percutaneous systems with hemodynamic assessment and chronic biocompatibility protocols."
+  },
+  "sub_services": {
+    "title": "Complete Heart Failure Services",
+    "description": "We provide specialized testing for mechanical circulatory support devices, addressing unique pump performance, hemocompatibility, and durability requirements across life-sustaining cardiac platforms.",
+    "cards": [
+      {
+        "icon_name": "Heart",
+        "title": "LVAD",
+        "description": "Left ventricular assist device validation with hemocompatibility assessment under continuous flow conditions, pump durability protocols, driveline interface evaluation, and ventricular interaction analysis for bridge-to-transplant and destination therapy applications.",
+        "link_url": "/areas-of-expertise/cardiovascular/heart-failure/lvad"
+      },
+      {
+        "icon_name": "Activity",
+        "title": "Cardiopulmonary Bypass",
+        "description": "Extracorporeal circulation system validation including oxygenator gas transfer efficiency, pump flow characteristics, hemocompatibility assessment, and blood damage quantification for cardiac surgical support applications.",
+        "link_url": "/areas-of-expertise/cardiovascular/heart-failure/cardiopulmonary-bypass"
+      },
+      {
+        "icon_name": "CircleDot",
+        "title": "Mechanical Circulatory Support",
+        "description": "Temporary and permanent circulatory assist device testing including percutaneous platforms, biventricular support systems, flow optimization, and hemodynamic performance validation across acute and chronic heart failure applications.",
+        "link_url": "/areas-of-expertise/cardiovascular/heart-failure/mechanical-circulatory-support"
+      },
+      {
+        "icon_name": "Microscope",
+        "title": "Myocardial Ischemia Models",
+        "description": "Controlled coronary occlusion protocols establishing reproducible heart failure states for device validation, with infarct size quantification, ventricular remodeling assessment, and hemodynamic characterization across ischemia severities.",
+        "link_url": "/areas-of-expertise/cardiovascular/heart-failure/myocardial-ischemia-models"
+      }
+    ]
+  },
+  "primary_content": {
+    "title": "What We Test",
+    "description": "Mechanical circulatory support devices sustain life when cardiac function deteriorates, requiring validation that demonstrates pump reliability while preventing thrombosis, hemolysis, and infection complications throughout extended implantation periods. LVADs must maintain continuous flow supporting 5-6 liters per minute across varying preload and afterload conditions while preserving potential for myocardial recovery. Temporary support systems demand rapid deployment validation and stable performance during acute decompensation events. Each platform category presents unique challenges from driveline infection resistance in chronic LVADs to gas exchange efficiency in cardiopulmonary bypass circuits.\n\nWe evaluate pump performance using pressure-volume loop analysis and ventricular function monitoring that captures device-heart interaction throughout cardiac cycles. Our catheterization laboratories feature mock circulation systems replicating normal and failing heart conditions with continuous cardiac output measurement, ventricular pressure monitoring, and echocardiographic imaging tracking hemodynamic responses across physiological stress conditions. Specialized surgical models enable driveline tunneling assessment and percutaneous site evaluation. Hemocompatibility testing quantifies hemolysis indices, platelet activation markers, and von Willebrand factor degradation using ISO 10993-4 protocols adapted for chronic continuous-flow environments.\n\nISO 10993 biocompatibility standards guide long-term implantation assessment while FDA guidance documents for ventricular assist devices inform protocol development addressing pump durability, electrical safety, and infection resistance requirements. Our GLP-compliant testing supports PMA pathways for Class III life-sustaining devices. Whether validating next-generation miniaturized LVADs, percutaneous temporary support platforms, or biventricular assist systems, our protocols demonstrate mechanical reliability, hemocompatibility performance, and anatomical integration that bridge-to-transplant and destination therapy indications demand.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Hemodynamic Performance Assessment Across Heart Failure Severities",
+          "description": "Pressure-volume loop analysis quantifies ventricular unloading and cardiac output augmentation while real-time monitoring captures pump-heart interactions across varying degrees of myocardial dysfunction from acute decompensation to end-stage failure."
+        },
+        {
+          "title": "Continuous-Flow Pump Characterization and Optimization",
+          "description": "Flow curve validation evaluates pump efficiency, rotor speed stability, and power consumption across physiological pressure ranges while flow modulation testing assesses pulsatility generation and physiological adaptation capabilities supporting optimal organ perfusion."
+        },
+        {
+          "title": "Chronic Hemocompatibility and Blood Damage Assessment",
+          "description": "ISO 10993-4 compliant protocols quantify hemolysis indices, platelet function changes, and von Willebrand factor degradation while evaluating thrombogenic potential under extended anticoagulation scenarios typical of LVAD therapy and destination therapy applications."
+        },
+        {
+          "title": "Pump Durability and Accelerated Wear Testing",
+          "description": "Long-term reliability protocols simulate years of continuous operation through millions of pump cycles with performance monitoring detecting bearing wear, seal integrity changes, and motor efficiency degradation addressing destination therapy requirements."
+        },
+        {
+          "title": "Driveline Interface and Infection Resistance Evaluation",
+          "description": "Percutaneous exit site assessment evaluates tissue integration at skin-driveline interfaces while infection challenge studies characterize bacterial colonization resistance and biofilm formation potential across extended implantation periods."
+        },
+        {
+          "title": "Ventricular Recovery and Weaning Protocol Development",
+          "description": "Progressive pump speed reduction studies assess myocardial function restoration with echocardiographic monitoring tracking ventricular remodeling, contractility improvement, and hemodynamic stability during device weaning supporting bridge-to-recovery applications."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Heart Failure",
+    "description": null,
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Pump Testing Infrastructure",
+        "description": "Two catheterization laboratories configured specifically for ventricular assist device evaluation feature pressure-volume loop analysis systems, continuous hemodynamic monitoring, and mock circulation loops replicating heart failure conditions. Our surgical suites enable driveline implantation studies and percutaneous site assessment while specialized test fixtures accommodate both intracorporeal and extracorporeal configurations. Accelerated durability systems simulate destination therapy requirements through millions of continuous pump cycles."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Mechanical Circulatory Support Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered mechanical circulatory support therapies, our team understands ventricular mechanics, pump-heart interaction, and LVAD optimization specific to both bridge-to-transplant and destination therapy applications. This cardiovascular heritage translates to protocol designs addressing FDA Class III requirements including chronic hemocompatibility demonstration, pump durability validation, and comprehensive safety evidence life-sustaining devices demand."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Heart Failure Device Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for mechanical circulatory support devices across LVAD, BiVAD, and temporary support categories. We understand Class III device requirements including chronic biocompatibility demonstration through ISO 10993 compliance, destination therapy durability validation, and the specific endpoints FDA expects for submissions addressing both bridge-to-transplant and permanent cardiac support applications."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Heart Failure Program?",
+    "description": "Our cardiovascular device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "page_slug": "arrhythmia",
+  "page_title": "Arrhythmia Device Testing | GLP Preclinical CRO | Synchrony Labs",
+  "parent_page": {
+    "name": "Cardiovascular Disease",
+    "url": "/preclinical-services/cardiovascular-disease-testing"
+  },
+  "hero": {
+    "headline": "Arrhythmia Device Testing",
+    "description": "Comprehensive preclinical validation for cardiac rhythm management devices including pacemaker electrical performance testing, ICD defibrillation efficacy assessment, and lead system biocompatibility protocols under GLP compliance."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Cardiac rhythm management devices sustain life through precise electrical therapy, requiring validation that demonstrates reliable sensing, appropriate pacing, and effective arrhythmia termination across varying physiological conditions. Pacemakers must detect intrinsic cardiac activity while delivering therapy that maintains adequate heart rate without depleting battery reserves prematurely. ICDs face the additional challenge of discriminating life-threatening ventricular arrhythmias from benign rhythms while delivering high-voltage therapy that terminates fibrillation without causing unnecessary shocks that traumatize patients and accelerate device replacement.\n\nWe evaluate electrical performance using specialized electrophysiology systems that capture pacing thresholds, sensing amplitudes, and impedance measurements with microsecond precision. Our catheterization laboratories feature programmable cardiac simulation systems, real-time rhythm analysis capabilities, and high-voltage testing infrastructure that characterizes defibrillation efficacy across multiple energy levels. From sensing algorithm validation to battery longevity projection, our protocols address the complex interaction between device electronics, lead systems, and cardiac tissue throughout chronic implantation periods.\n\nISO 14708 series standards guide cardiac device assessment while FDA guidance documents for active implantable medical devices inform protocol development. Whether validating leadless pacemaker platforms, MRI-conditional ICD systems, or cardiac resynchronization therapy devices, our GLP-compliant testing addresses both PMA pathway requirements and post-market surveillance objectives for Class III life-sustaining devices.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Electrical Performance Characterization",
+          "description": "Pacing output validation across voltage and pulse width ranges, sensing threshold assessment for P-wave and R-wave detection, and impedance measurement throughout chronic implantation. Battery performance evaluation projects device longevity under varying pacing burden scenarios."
+        },
+        {
+          "title": "Arrhythmia Detection Algorithm Validation",
+          "description": "Detection sensitivity testing across ventricular tachycardia and fibrillation presentations, specificity assessment for supraventricular tachycardia rejection, and rate discrimination validation. Advanced algorithms including morphology analysis and sudden onset criteria undergo comprehensive evaluation."
+        },
+        {
+          "title": "Defibrillation Efficacy Assessment",
+          "description": "High-voltage testing characterizes defibrillation thresholds across multiple energy levels while waveform optimization validates biphasic shock delivery. Capacitor charging performance, shock impedance measurement, and therapy success rate analysis address ICD-specific requirements."
+        },
+        {
+          "title": "Lead System Performance and Durability",
+          "description": "Chronic electrical integrity assessment evaluates conductor resistance stability, insulation performance under flexion stress, and lead-tissue interface impedance changes. Mechanical durability protocols simulate years of cardiac motion through accelerated fatigue testing."
+        },
+        {
+          "title": "Electromagnetic Compatibility Testing",
+          "description": "MRI conditional validation per ISO 14117 standards, electromagnetic interference susceptibility assessment across frequency ranges, and medical device interaction testing. Evaluation includes exposure to electrocautery, defibrillators, and common consumer electronics."
+        },
+        {
+          "title": "Biocompatibility and Chronic Safety",
+          "description": "ISO 10993 testing adapted for active implantable devices addresses chronic tissue contact requirements. Specialized protocols evaluate hemocompatibility for blood-contacting components, muscle stimulation effects, and long-term tissue response at lead-myocardium interfaces."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Arrhythmia Device Testing",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Electrophysiology Infrastructure",
+        "description": "Two catheterization laboratories equipped specifically for cardiac rhythm device evaluation feature programmable cardiac simulation systems, high-resolution ECG monitoring, and real-time hemodynamic assessment capabilities. Our high-voltage testing infrastructure accommodates ICD defibrillation assessment while electromagnetic compatibility chambers validate MRI conditional devices and interference immunity across multiple frequency ranges."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Cardiac Rhythm Device Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered electrophysiology techniques, our team understands cardiac conduction systems, pacing algorithms, and arrhythmia mechanisms specific to rhythm management devices. This cardiovascular heritage translates to protocol designs that address FDA Class III device requirements including sensing validation, battery longevity assessment, and the comprehensive safety testing life-sustaining devices demand."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Active Implant Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for cardiac rhythm management devices across pacemaker, ICD, and CRT categories. We understand Class III active implantable medical device requirements including electromagnetic compatibility demonstration through ISO 14117 compliance, chronic biocompatibility validation, and the specific endpoints FDA expects for rhythm device submissions addressing both bradycardia management and sudden cardiac death prevention."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your arrhythmia device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

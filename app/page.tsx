@@ -1,113 +1,175 @@
 import Image from "next/image";
+import { Container } from "@/components/layout/Container";
+import { Section } from "@/components/layout/Section";
+import { Button } from "@/components/ui/Button";
+import { Card } from "@/components/ui/Card";
+import { H1, H2, Paragraph } from "@/components/ui/Typography";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
-        <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-          Get started by editing&nbsp;
-          <code className="font-mono font-bold">app/page.tsx</code>
-        </p>
-        <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
-          <a
-            className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{" "}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className="dark:invert"
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
-        </div>
-      </div>
-
-      <div className="relative z-[-1] flex place-items-center before:absolute before:h-[300px] before:w-full before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-full after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 sm:before:w-[480px] sm:after:w-[240px] before:lg:h-[360px]">
+    <div className="flex flex-col">
+      {/* Hero Section - Using Legacy Content & Picsum Image */}
+      <section className="relative min-h-[80vh] flex items-center justify-center overflow-hidden bg-navy">
+        {/* Background - keeping picsum as requested */}
         <Image
-          className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
+          src="https://picsum.photos/1920/1080?random=1"
+          alt="Synchrony Labs Hero"
+          fill
+          className="object-cover opacity-50 mix-blend-overlay"
           priority
         />
-      </div>
+        <Container className="relative z-10 text-center">
+          <H1 className="text-white mb-6 text-5xl md:text-7xl">
+            Specialized Cardiovascular <br /> Preclinical Research
+          </H1>
+          <Paragraph className="text-gray-200 max-w-3xl mx-auto mb-10 text-xl leading-relaxed">
+            Four decades of GLP expertise advancing structural heart, neurovascular, and peripheral vascular innovation. Expert preclinical testing services for medical device development.
+          </Paragraph>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <Button size="lg" variant="secondary" href="/preclinical-services">Explore Services</Button>
+            <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-navy" href="/facility">View Facility</Button>
+          </div>
+        </Container>
+      </section>
 
-      <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">
-            Docs{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Find in-depth information about Next.js features and API.
-          </p>
-        </a>
+      {/* Services Section - First 3 Core Study Areas */}
+      <Section background="white">
+        <Container>
+          <div className="text-center mb-16">
+            <H2 className="mb-4">Our Services</H2>
+            <Paragraph className="max-w-2xl mx-auto">
+              Comprehensive preclinical testing across multiple disciplines.
+            </Paragraph>
+          </div>
 
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">
-            Learn{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Learn about Next.js in an interactive course with&nbsp;quizzes!
-          </p>
-        </a>
+          <div className="grid md:grid-cols-3 gap-8">
+            <Card className="p-8">
+              <h3 className="text-2xl font-bold text-navy mb-4">Cardiovascular</h3>
+              <p className="text-gray-600 mb-6">
+                From TAVR valves and structural heart interventions to peripheral stents and novel combination therapies. Our GLP-compliant protocols are designed to accelerate your path.
+              </p>
+              <Button variant="link" href="/areas-of-expertise/cardiovascular">Cardiovascular Testing &rarr;</Button>
+            </Card>
 
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">
-            Templates{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Explore starter templates for Next.js.
-          </p>
-        </a>
+            <Card className="p-8">
+              <h3 className="text-2xl font-bold text-navy mb-4">Dermatological</h3>
+              <p className="text-gray-600 mb-6">
+                Specialized protocols for wound healing and aesthetic device testing. Comprehensive evaluation of closure devices, injectable fillers, and energy-based platforms.
+              </p>
+              <Button variant="link" href="/areas-of-expertise/dermatological">Dermatological Testing &rarr;</Button>
+            </Card>
 
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">
-            Deploy{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
-      </div>
-    </main>
+            <Card className="p-8">
+              <h3 className="text-2xl font-bold text-navy mb-4">Urogenital</h3>
+              <p className="text-gray-600 mb-6">
+                Comprehensive solutions for renal and urological device validation. Testing for transplantation devices, prosthetic treatments, and stone retrieval systems.
+              </p>
+              <Button variant="link" href="/areas-of-expertise/urogenital">Urogenital Testing &rarr;</Button>
+            </Card>
+          </div>
+        </Container>
+      </Section>
+
+      {/* Logos Strip - Full Width Carousel */}
+      <Section background="ghost" className="py-12">
+        <Paragraph className="text-center text-sm font-bold uppercase tracking-widest text-gray-500 mb-8 px-4">
+          Trusted Standards & Accreditations
+        </Paragraph>
+        <div className="relative h-24 w-full overflow-hidden">
+          <div className="animate-logo-carousel flex absolute left-0">
+            {[
+              { src: "/images/ticker/AAALAC-LOGO grey.png", alt: "AAALAC" },
+              { src: "/images/ticker/NIH_2012_logo_arrow.svg.png", alt: "NIH" },
+              { src: "/images/ticker/Logo_of_the_United_States_Department_of_Agriculture.svg.png", alt: "USDA" },
+              { src: "/images/ticker/NABR-LOGO.png", alt: "NABR" },
+              { src: "/images/ticker/AMERICAN-LOGO.png", alt: "American Association" },
+            ].map((logo, i) => (
+              <div key={i} className="relative h-20 w-56 flex-shrink-0 mx-20">
+                <Image
+                  src={logo.src}
+                  alt={logo.alt}
+                  fill
+                  className="object-contain grayscale hover:grayscale-0 transition-all duration-300"
+                />
+              </div>
+            ))}
+            {/* Duplicate for seamless loop */}
+            {[
+              { src: "/images/ticker/AAALAC-LOGO grey.png", alt: "AAALAC" },
+              { src: "/images/ticker/NIH_2012_logo_arrow.svg.png", alt: "NIH" },
+              { src: "/images/ticker/Logo_of_the_United_States_Department_of_Agriculture.svg.png", alt: "USDA" },
+              { src: "/images/ticker/NABR-LOGO.png", alt: "NABR" },
+              { src: "/images/ticker/AMERICAN-LOGO.png", alt: "American Association" },
+            ].map((logo, i) => (
+              <div key={`dup-${i}`} className="relative h-20 w-56 flex-shrink-0 mx-20">
+                <Image
+                  src={logo.src}
+                  alt={logo.alt}
+                  fill
+                  className="object-contain grayscale hover:grayscale-0 transition-all duration-300"
+                />
+              </div>
+            ))}
+          </div>
+        </div>
+      </Section>
+
+      {/* Capabilities Section */}
+      <Section background="white">
+        <Container>
+          <div className="flex flex-col lg:flex-row gap-16 items-center">
+            <div className="w-full lg:w-1/2 relative min-h-[400px]">
+              {/* Image placeholder - user said keep picsum for general images */}
+              <div className="relative aspect-[4/3] rounded-lg overflow-hidden shadow-2xl">
+                <Image
+                  src="https://picsum.photos/800/600?random=5"
+                  alt="Capabilities"
+                  fill
+                  className="object-cover"
+                />
+              </div>
+            </div>
+            <div className="w-full lg:w-1/2">
+              <Paragraph className="text-teal font-bold uppercase tracking-widest mb-4 text-sm">
+                World-Class Facilities
+              </Paragraph>
+              <H2 className="mb-6 text-4xl">State-of-the-art <br /> Lab Environments</H2>
+              <Paragraph className="mb-8 text-lg">
+                Our 20,000 sq. ft. facility is designed to replicate clinical environments, ensuring your device is tested under the most realistic conditions possible.
+              </Paragraph>
+              <ul className="space-y-4 mb-8">
+                {[
+                  "Dual Cath Labs with Philips Azurion Systems",
+                  "Dedicated Surgical Operating Suites",
+                  "Advanced Imaging (CT, Fluoroscopy, ICE)",
+                  "AAALAC Accredited & GLP Compliant"
+                ].map((item, i) => (
+                  <li key={i} className="flex items-center gap-3">
+                    <span className="h-2 w-2 rounded-full bg-teal" />
+                    <span className="text-navy font-medium">{item}</span>
+                  </li>
+                ))}
+              </ul>
+              <Button variant="outline" href="/facility">Tour Our Facility</Button>
+            </div>
+          </div>
+        </Container>
+      </Section>
+
+      {/* CTA Section */}
+      <Section background="navy" className="text-white relative overflow-hidden">
+        <div className="absolute inset-0 bg-teal/10 skew-x-12 transform -translate-x-1/2" />
+        <Container className="relative z-10 text-center">
+          <H2 className="text-white mb-6">Ready to Start Your Study?</H2>
+          <Paragraph className="text-gray-200 mb-10 max-w-2xl mx-auto text-lg">
+            Partner with a team that treats your innovation with the precision it deserves.
+          </Paragraph>
+          <div className="flex justify-center gap-4">
+            <Button size="lg" variant="secondary" href="/contact">Schedule Consultation</Button>
+            <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-navy">Download Brochure</Button>
+          </div>
+        </Container>
+      </Section>
+    </div>
   );
 }

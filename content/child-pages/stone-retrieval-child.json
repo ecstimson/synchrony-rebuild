@@ -1,0 +1,71 @@
+{
+  "page_slug": "stone-retrieval",
+  "page_title": "Stone Retrieval | Synchrony Labs",
+  "parent_page": {
+    "name": "Urogenital",
+    "url": "/areas-of-expertise/urogenital"
+  },
+  "hero": {
+    "headline": "Stone Retrieval",
+    "description": "Lithotripsy systems face unique challenges proving effective stone fragmentation while minimizing urothelial injury and surrounding tissue trauma. We test fragmentation efficiency, energy delivery accuracy, and tissue preservation using standardized stone models that address extracorporeal, laser, and ultrasonic lithotripsy technologies."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Stone fragmentation devices must demonstrate effective urolithiasis treatment across varying stone composition and size characteristics while proving tissue safety throughout repeated treatment applications. Extracorporeal shock wave lithotripsy requires focal zone positioning accuracy validation ensuring energy delivery concentrates at stone locations without damaging surrounding structures. Laser lithotripsy platforms need fiber delivery system characterization showing consistent energy transmission throughout ureteroscopic procedures. Ultrasonic fragmentation devices demand probe contact efficiency assessment measuring vibration transmission that disintegrates stones while preserving urothelial tissue integrity. Each modality addresses different stone composition challenges requiring validated effectiveness protocols.\n\nWe evaluate lithotripsy performance through standardized synthetic stone models replicating calcium oxalate, uric acid, cystine, and struvite composition hardness characteristics encountered clinically while measuring fragmentation efficiency, particle size distribution, and complete clearance capability. Energy delivery characterization uses dosimetry measurement documenting shock wave pressure amplitudes, laser pulse energies, and ultrasonic power levels throughout treatment sequences. High-speed imaging captures fragmentation mechanisms and particle trajectory patterns while tissue effect protocols assess thermal injury potential, mechanical trauma extent, and urothelial preservation. Advanced imaging modalities track stone localization accuracy and treatment progression throughout procedures.\n\nIEC 61846 shock wave lithotripters safety standard guides extracorporeal system validation while device-specific protocols address laser safety per IEC 60825 and ultrasonic energy characterization requirements. Testing supports 510(k) pathways for devices demonstrating substantial equivalence to cleared lithotripsy platforms and addresses comprehensive safety validation for breakthrough fragmentation technologies. Whether characterizing extracorporeal shock wave systems, validating holmium laser lithotripsy effectiveness, or assessing ultrasonic probe fragmentation efficiency, our protocols generate data meeting urological stone management device regulatory expectations.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Stone Fragmentation Efficiency",
+          "description": "Standardized stone model protocols quantify fragmentation completeness across composition types while measuring treatment duration requirements, fragment size distributions, and clearance capability that determine clinical stone-free rate achievement and procedure success."
+        },
+        {
+          "title": "Focal Zone Positioning Accuracy",
+          "description": "Imaging guidance validation characterizes stone localization precision and energy delivery targeting accuracy while measuring focal zone dimensions and positioning reproducibility that determine effective treatment without collateral tissue damage."
+        },
+        {
+          "title": "Laser Energy Delivery",
+          "description": "Fiber optic transmission efficiency testing measures laser pulse energy consistency throughout ureteroscopic working distances while characterizing power stability, beam profile quality, and fiber durability under repeated activation cycles."
+        },
+        {
+          "title": "Thermal Injury Assessment",
+          "description": "Temperature mapping during energy application quantifies thermal distribution patterns and peak tissue temperatures while measuring coagulation zone dimensions and thermal damage extent that determine urothelial safety and complication prevention."
+        },
+        {
+          "title": "Mechanical Trauma Evaluation",
+          "description": "Tissue effect protocols assess urothelial perforation risk, hematoma formation potential, and vessel injury patterns while measuring mechanical trauma severity from shock wave pressure, laser pulse impact, or ultrasonic probe contact."
+        },
+        {
+          "title": "Treatment Monitoring Capabilities",
+          "description": "Real-time imaging integration validates stone visualization quality throughout procedures while measuring treatment progression assessment capability and fragment clearance confirmation that determine procedure endpoint determination and completion verification."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Stone Retrieval",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Lithotripsy Testing Infrastructure",
+        "description": "Specialized facilities accommodate extracorporeal shock wave systems with integrated imaging guidance while ureteroscopy equipment enables laser and ultrasonic probe validation under realistic procedural conditions. Our stone model development capabilities replicate clinically relevant composition and hardness characteristics while energy measurement systems characterize shock wave pressures, laser pulse energies, and ultrasonic power outputs per applicable safety standards."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Stone Management Expertise",
+        "description": "Validated urological intervention models enable realistic assessment of lithotripsy device performance across anatomical locations including kidney, ureter, and bladder stone scenarios. Our team understands stone composition variation, fragmentation mechanism differences across energy modalities, and the specific safety and effectiveness endpoints stone management device manufacturers must demonstrate for regulatory approvals and clinical adoption."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Urological Energy Device Success",
+        "description": "Successful FDA submissions for lithotripsy platforms across extracorporeal, laser, and ultrasonic technologies demonstrate our ability to generate data addressing urological energy device requirements. We understand stone management device pathways including 510(k) demonstration, energy delivery safety validation per IEC medical electrical equipment standards, and the specific fragmentation effectiveness and tissue preservation endpoints FDA expects for urological stone treatment device approvals."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Stone Retrieval Program?",
+    "description": "Our urological device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

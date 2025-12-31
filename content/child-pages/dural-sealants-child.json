@@ -1,0 +1,71 @@
+{
+  "page_slug": "dural-sealants",
+  "page_title": "Dural Sealants | Synchrony Labs",
+  "parent_page": {
+    "name": "Neurological",
+    "url": "/areas-of-expertise/neurological"
+  },
+  "hero": {
+    "headline": "Dural Sealants",
+    "description": "Neurosurgical sealants preventing cerebrospinal fluid leaks face unique validation challenges proving adhesion strength sufficient to withstand intracranial pressure while ensuring biocompatibility in central nervous system environments. We test burst pressure resistance, leak prevention effectiveness, and tissue response using protocols addressing dural closure regulatory requirements."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Dural closure sealants must demonstrate sealing effectiveness preventing cerebrospinal fluid leakage following craniotomy and spinal surgery while proving biocompatibility with neural tissue throughout healing progression. Fibrin-based systems require polymerization kinetics characterization ensuring adequate working time and final seal strength while polyethylene glycol hydrogels need adhesion validation on wet dural surfaces under physiological pressure conditions. Biological sealants demand tissue integration assessment supporting dural healing without inflammatory complications or neurotoxic effects. Each formulation addresses different surgical scenarios from routine craniotomy closure to complex skull base reconstruction requiring validated performance across anatomical locations and leak severity levels.\n\nWe evaluate sealant performance using standardized burst pressure protocols measuring seal integrity under intracranial pressure conditions while leak detection methods quantify sealing effectiveness immediately following application and throughout healing phases. Tissue response protocols assess biocompatibility at dural interfaces through histopathological examination characterizing inflammatory cell infiltration, foreign body reaction development, and healing quality. Our capabilities include neurotoxicity evaluation using specialized central nervous system tissue contact protocols while adhesion strength testing quantifies bonding integrity under tensile and shear stress conditions. Chronic implantation studies track sealant degradation dynamics, dural healing progression, and absence of complications including adhesion formation to neural structures. We characterize application techniques ensuring reproducible delivery across varying surgical field conditions including active bleeding and cerebrospinal fluid leakage during sealant placement.\n\nISO 10993 biocompatibility standards adapted for central nervous system applications guide material safety assessment while FDA neurosurgical sealant guidance addresses both immediate sealing effectiveness and long-term tissue response validation requirements. Testing supports 510(k) pathways demonstrating substantial equivalence to cleared dural sealant technologies and PMA submissions for breakthrough formulations requiring comprehensive safety demonstration in neural environments. Whether validating synthetic polymer adhesives, characterizing fibrin sealant kinetics, or assessing collagen matrix integration, our protocols generate data meeting neurosurgical device regulatory expectations across craniotomy closure, spinal dural repair, and skull base reconstruction applications.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Burst Pressure and Leak Prevention",
+          "description": "Acute sealing effectiveness testing measures burst pressure thresholds using controlled intracranial pressure simulation while leak detection protocols quantify cerebrospinal fluid seepage under physiological stress conditions. Standardized dural defect models enable comparative assessment across sealant formulations characterizing immediate sealing performance and pressure resistance throughout curing or polymerization processes."
+        },
+        {
+          "title": "Dural Adhesion Strength Quantification",
+          "description": "Mechanical testing characterizes sealant bonding strength to dural tissue under tensile, shear, and peel stress conditions replicating forces encountered during patient movement and intracranial pressure fluctuations. Wet tissue adhesion validation ensures performance on blood-contaminated surfaces and active cerebrospinal fluid leakage scenarios encountered during surgical application."
+        },
+        {
+          "title": "Central Nervous System Biocompatibility",
+          "description": "ISO 10993-6 implantation protocols adapted for neural tissue contact evaluate inflammatory response at dural-sealant interfaces while assessing potential neurotoxicity through specialized central nervous system tissue response studies. Chronic implantation characterizes healing quality, absence of adhesion formation to brain or spinal cord, and long-term compatibility throughout extended observation periods."
+        },
+        {
+          "title": "Sealant Application and Working Time",
+          "description": "Bench testing characterizes viscosity, gelation kinetics, and working time from component mixing to final polymerization enabling surgical technique validation. Delivery system performance assessment evaluates applicator functionality, spray pattern uniformity for aerosolized formulations, and precision dosing consistency ensuring reproducible coverage across varying defect geometries."
+        },
+        {
+          "title": "Dural Healing Quality Assessment",
+          "description": "Histopathological examination characterizes dural tissue regeneration using specialized staining protocols measuring collagen deposition patterns, fibroblast infiltration, and dural layer reconstitution quality. Healing progression quantification tracks tissue integration, sealant degradation synchronized with native tissue repair, and restoration of dural barrier function preventing cerebrospinal fluid communication."
+        },
+        {
+          "title": "Neurotoxicity and Neuroinflammation Evaluation",
+          "description": "Specialized central nervous system safety protocols assess potential neurological complications including cerebral edema, inflammatory cell infiltration into brain parenchyma, and neuronal viability at tissue-sealant interfaces. Immunohistochemistry characterizes glial activation patterns, cytokine expression profiles, and absence of neurotoxic effects throughout chronic exposure periods."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Dural Sealants",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Neurosurgical Sealant Testing Infrastructure",
+        "description": "Purpose-built neurosurgical facilities enable comprehensive dural closure assessment with standardized defect creation, burst pressure testing equipment, and cerebrospinal fluid leak quantification capabilities. Our laboratories feature specialized tissue response evaluation for central nervous system applications while advanced histopathology capabilities characterize neural tissue biocompatibility using neuron-specific immunostaining protocols. Dural tissue preparation maintains physiological characteristics ensuring clinically relevant sealant performance evaluation."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Neural Tissue Interface Expertise",
+        "description": "Validated neurosurgical models replicate craniotomy and spinal surgery scenarios including varying cerebrospinal fluid pressure conditions, dural defect geometries, and surgical field contamination states that sealant application encounters. Our team understands central nervous system biocompatibility requirements, dural healing physiology, neurotoxicity assessment methodologies, and the specific safety endpoints neurosurgical sealant manufacturers must demonstrate for regulatory approvals. This expertise translates to protocol designs capturing leak prevention validation alongside comprehensive neural safety demonstration."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Neurosurgical Device Regulatory Success",
+        "description": "Successful FDA submissions across fibrin-based sealants, synthetic polymer adhesives, and biological dural substitutes demonstrate our ability to generate data addressing reviewer expectations for neurosurgical closure technologies. We understand 510(k) substantial equivalence pathways, biocompatibility validation per ISO 10993 standards adapted for central nervous system tissue contact, and the specific leak prevention endpoints FDA expects for dural sealant approvals across craniotomy, spinal surgery, and skull base reconstruction applications."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Dural Sealants Program?",
+    "description": "Our neurological device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

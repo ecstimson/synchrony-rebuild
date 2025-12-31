@@ -1,0 +1,71 @@
+{
+  "page_slug": "dcb",
+  "page_title": "Drug-Coated Balloons | Synchrony Labs",
+  "parent_page": {
+    "name": "Peripheral Vascular",
+    "url": "/areas-of-expertise/cardiovascular/peripheral-vascular"
+  },
+  "hero": {
+    "headline": "Drug-Coated Balloons",
+    "description": "Peripheral drug-coated balloons must transfer therapeutic paclitaxel concentrations into long diseased segments, maintain coating integrity through tortuous iliac and femoral anatomy, and provide sustained antiproliferative effects in vessels subject to extreme biomechanical forces. We test coating uniformity across long balloons, drug transfer in calcified vessels, tissue pharmacokinetics through extended lesions, and primary patency outcomes for femoropopliteal and below-the-knee applications."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Peripheral drug-coated balloons face challenges that differ fundamentally from coronary applications. Femoropopliteal and popliteal lesions often extend 100-200mm, requiring drug transfer across much longer vessel segments than coronary interventions. Peripheral arteries frequently have heavy calcification that affects balloon-vessel contact and drug uptake. Below-the-knee vessels present small diameters combined with long diseased segments and poor runoff that influences drug retention. The paclitaxel coating must survive navigation through tortuous iliac and femoral anatomy, maintain drug stability during balloon preparation, then transfer therapeutic concentrations during inflation times that may be longer than coronary procedures.\n\nWe test peripheral DCB using vessel models replicating femoropopliteal anatomy including heavy calcification and long lesion lengths up to 200mm. Coating adhesion studies measure drug retention through tortuous iliac access while particulate testing quantifies coating loss during balloon deflation across extended surface areas. Drug transfer kinetics protocols evaluate paclitaxel uptake as a function of balloon contact pressure, inflation duration, and vessel wall characteristics including calcification severity. Tissue pharmacokinetic analysis tracks drug concentration in peripheral arterial layers from immediate post-inflation through 6-month follow-up, validating sustained antiproliferative effects necessary for primary patency in vessels subject to continuous mechanical stress.\n\nPeripheral DCB applications focus on femoropopliteal disease where restenosis rates historically exceeded 50% and below-the-knee interventions where treatment options remain limited. ISO 10993 biocompatibility addresses peripheral tissue exposure to higher total drug doses from long lesion treatment while combination product regulations require demonstrating primary patency benefit. Our testing supports 510(k) pathways for paclitaxel-formulation variations and PMA submissions for novel excipient systems or drug platforms. Whether validating coating durability for femoropopliteal applications or measuring drug transfer for below-the-knee small vessels, our peripheral testing addresses the long-lesion coverage and biomechanical challenges central to peripheral DCB performance.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Long Lesion Coating Uniformity",
+          "description": "Micro-CT imaging and HPLC analysis quantify paclitaxel distribution across balloon lengths up to 200mm, validating uniform coating coverage from proximal to distal edges to ensure consistent drug delivery throughout extended femoropopliteal lesions typical of peripheral arterial disease."
+        },
+        {
+          "title": "Drug Transfer in Calcified Vessels",
+          "description": "Specialized protocols measure paclitaxel uptake in vessels with varying calcification severity, evaluating whether balloon inflation pressures sufficient to fracture calcium deposits enable adequate drug transfer into arterial walls despite irregular vessel contact and reduced compliance."
+        },
+        {
+          "title": "Peripheral Tissue Pharmacokinetics",
+          "description": "Quantitative tissue analysis measures drug concentration in femoropopliteal, popliteal, and tibial arterial layers from immediate post-inflation through 6-month follow-up, validating that drug levels persist through the critical restenosis window despite biomechanical stresses and longer distances from treatment site."
+        },
+        {
+          "title": "Coating Durability Through Peripheral Anatomy",
+          "description": "Tortuous iliac and femoral navigation models test coating integrity during catheter advancement through complex anatomy, measuring drug retention through particulate analysis and electron microscopy to confirm minimal coating loss before balloon reaches target lesion in distal vessels."
+        },
+        {
+          "title": "Below-the-Knee Performance",
+          "description": "Testing in 2.5-4.0mm tibial and peroneal vessels evaluates DCB effectiveness in small-diameter, long-lesion territories where treatment options prove limited, measuring coating uniformity on smaller balloons and drug transfer in vessels where runoff limitations affect drug retention."
+        },
+        {
+          "title": "Primary Patency Enhancement",
+          "description": "Serial angiographic and duplex ultrasound assessment measures late lumen loss reduction and primary patency at 6 and 12 months, quantifying the freedom from target lesion revascularization that represents the key efficacy endpoint for peripheral DCB in femoropopliteal disease."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Peripheral Drug-Coated Balloons",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Peripheral DCB Testing Infrastructure",
+        "description": "Our peripheral vascular labs feature long-vessel models accommodating 200mm+ lesion lengths and calcification simulators replicating severe peripheral arterial disease. HPLC-MS systems quantify paclitaxel tissue concentrations while micro-CT imaging evaluates coating uniformity across extended balloon surfaces. Tortuous anatomy navigation models test coating durability through iliac and femoral access. This infrastructure enables the long-lesion coverage validation and calcified vessel testing that peripheral DCB submissions require."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Femoropopliteal and BTK Expertise",
+        "description": "We understand peripheral DCB applications span from heavily calcified femoropopliteal lesions to small-vessel below-the-knee disease with distinct challenges for each territory. Our team has validated paclitaxel platforms addressing safety signals while demonstrating primary patency benefit across both applications. This peripheral-specific expertise ensures protocols address the unique challenges of long lesion coverage, calcification impact on drug transfer, and biomechanical environments that differentiate peripheral from coronary DCB use."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Peripheral DCB Regulatory Success",
+        "description": "Our testing has supported FDA submissions for femoropopliteal and below-the-knee drug-coated balloons navigating combination product requirements and paclitaxel safety scrutiny. We understand how to demonstrate primary patency improvement, characterize drug transfer in calcified vessels, validate coating integrity through tortuous delivery, and address safety concerns from higher total drug doses in long lesion treatment through protocols FDA expects for peripheral DCB devices."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your peripheral drug-coated balloon platform, target lesion location, and regulatory pathway to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "page_slug": "tavr",
+  "page_title": "TAVR Testing Services | Synchrony Labs",
+  "parent_page": {
+    "name": "Heart Valve",
+    "url": "/preclinical-services/cardiovascular-disease-testing/heart-valve-testing"
+  },
+  "hero": {
+    "headline": "TAVR Testing Services",
+    "description": "Comprehensive preclinical validation for transcatheter aortic valve replacement devices with deployment accuracy assessment, paravalvular leak quantification, coronary flow preservation, and hemodynamic performance testing under GLP compliance."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Transcatheter aortic valve replacement systems face unique validation challenges requiring deployment precision across varying anatomies, paravalvular leak prevention in heavily calcified annuli, and coronary flow preservation throughout valve positioning. TAVR devices must demonstrate effective hemodynamic performance while avoiding conduction system interference that leads to permanent pacemaker implantation. Balloon-expandable platforms demand precise positioning validation while self-expanding systems require repositioning mechanics assessment and chronic radial force characterization.\n\nWe evaluate deployment accuracy using high-resolution fluoroscopy and transesophageal echocardiography that capture valve expansion, annular contact, and positioning stability throughout cardiac cycles. Our catheterization laboratories feature aortic root models spanning small annuli to severely calcified bicuspid valves while pulse duplicator systems quantify transvalvular gradients and effective orifice area under physiological flow conditions. Specialized protocols assess coronary ostia clearance, conduction bundle proximity, and paravalvular sealing effectiveness across anatomical variations that challenge standard TAVR approaches.\n\nISO 5840 standards guide transcatheter heart valve testing while FDA guidance documents for TAVR devices inform protocol development addressing hemodynamic benchmarks and durability requirements. Our GLP-compliant protocols support both PMA submissions for breakthrough valve technologies and 510(k) pathways for devices demonstrating substantial equivalence to established platforms. Whether validating standard TAVR systems or specialized applications including valve-in-valve procedures and bicuspid aortic valve treatment, our testing addresses regulatory expectations for Class III transcatheter cardiac devices.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Hemodynamic Performance Assessment",
+          "description": "Transvalvular gradient measurement, effective orifice area quantification, and flow pattern characterization using pulse duplicators with variable cardiac output and heart rate conditions"
+        },
+        {
+          "title": "Durability and Fatigue Testing",
+          "description": "Accelerated wear protocols through 200-400 million cycles representing 5-10 year equivalents with continuous performance monitoring detecting early structural deterioration"
+        },
+        {
+          "title": "Deployment Mechanics Validation",
+          "description": "High-speed fluoroscopic imaging captures deployment dynamics while force sensors quantify radial strength, chronic outward force, and expansion characteristics across anatomical variations"
+        },
+        {
+          "title": "Paravalvular Leak Quantification",
+          "description": "Advanced flow measurement techniques evaluate sealing effectiveness with real-time leak detection during deployment enabling optimization of annular contact mechanisms"
+        },
+        {
+          "title": "Biocompatibility and Thrombogenicity",
+          "description": "ISO 10993-4 compliant hemocompatibility testing addresses blood-contacting device performance with specialized protocols evaluating thrombotic potential under varying anticoagulation scenarios"
+        },
+        {
+          "title": "Advanced Imaging Integration",
+          "description": "Transesophageal echocardiography, high-resolution fluoroscopy, and intracardiac imaging provide comprehensive valve visualization throughout deployment and follow-up assessment periods"
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for TAVR Testing",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Transcatheter Valve Infrastructure",
+        "description": "Two catheterization laboratories configured specifically for structural heart procedures feature biplane fluoroscopy, three-dimensional transesophageal echocardiography, and comprehensive hemodynamic monitoring systems. Our aortic root model library spans anatomical variations from small annuli to severely calcified bicuspid valves while pulse duplicator capabilities replicate physiological conditions across aortic stenosis severities. This specialized infrastructure enables TAVR testing protocols addressing deployment challenges that generic cardiovascular facilities cannot replicate."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Structural Heart Device Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered transcatheter structural heart procedures, our team understands aortic valve hemodynamics, TAVR deployment mechanics, and regulatory requirements specific to transcatheter valve replacement. This cardiovascular heritage translates to protocol designs addressing FDA reviewer expectations for PMA submissions including durability demonstration, paravalvular leak assessment, and conduction system safety validation that TAVR devices demand."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven TAVR Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for transcatheter heart valves across balloon-expandable and self-expanding platforms. We understand Class III device requirements including ISO 5840 compliance for transcatheter valves, hemodynamic performance benchmarks, and the comprehensive preclinical evidence FDA expects for TAVR submissions addressing both standard anatomies and challenging applications including valve-in-valve procedures and bicuspid aortic valve treatment."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your TAVR device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

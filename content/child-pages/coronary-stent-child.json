@@ -1,0 +1,71 @@
+{
+  "page_slug": "coronary-stent",
+  "page_title": "Coronary Stent Testing Services | GLP Preclinical CRO | Synchrony Labs",
+  "parent_page": {
+    "name": "Cardiovascular Disease",
+    "url": "/preclinical-services/cardiovascular-disease-testing"
+  },
+  "hero": {
+    "headline": "Coronary Stent Testing",
+    "description": "Comprehensive preclinical validation for drug-eluting and bare metal coronary stents with vascular healing assessment, drug elution characterization, and polymer biocompatibility evaluation."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Coronary stent development requires validation that addresses mechanical performance, biological safety, and therapeutic efficacy across diverse platform types. Drug-eluting stents face additional complexity as combination products requiring integrated assessment of device mechanics, polymer coating performance, and pharmacological activity. Whether validating bare metal platforms through radial strength and biocompatibility testing or characterizing drug-eluting systems with complex elution profiles, successful regulatory submissions demand comprehensive preclinical data addressing FDA expectations for both immediate performance and long-term vascular healing.\n\nWe evaluate mechanical integrity through radial force measurement, crush resistance assessment, and accelerated durability protocols that simulate years of cardiac loading. Our catheterization laboratories feature high-resolution fluoroscopy and intravascular ultrasound capabilities enabling deployment characterization in anatomically accurate coronary models. For drug-eluting platforms, specialized analytical systems quantify drug release kinetics through HPLC analysis while tissue distribution studies map therapeutic agent penetration patterns in vessel walls. Polymer coating assessment utilizes scanning electron microscopy and advanced imaging techniques identifying uniformity, adhesion characteristics, and structural integrity throughout deployment sequences.\n\nISO 10993 biocompatibility standards guide material evaluation while ISO 25539 specifications inform mechanical testing protocols for vascular stents. Drug-eluting platforms require additional FDA guidance consideration addressing combination product requirements, drug-specific toxicology, and polymer biocompatibility assessment. Our testing addresses both 510(k) substantial equivalence demonstrations and PMA pathway requirements for breakthrough technologies, providing complete validation packages supporting regulatory submissions across bare metal designs, established drug-eluting platforms, bioresorbable scaffolds, and novel therapeutic combinations.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Mechanical Performance Validation",
+          "description": "Radial strength measurement across expansion ranges, recoil assessment following deployment, and fatigue durability testing through accelerated cardiac cycle simulation. Crush resistance protocols validate performance under external compression while deployment characterization addresses foreshortening, dog-boning, and uniform expansion profiles."
+        },
+        {
+          "title": "Drug Elution Characterization",
+          "description": "HPLC-based release kinetics quantification under physiological flow conditions, coating uniformity assessment through advanced microscopy, and tissue uptake validation measuring therapeutic agent distribution in arterial walls. Multi-phase elution profiling characterizes burst release, sustained delivery, and long-term drug availability patterns."
+        },
+        {
+          "title": "Vascular Healing Assessment",
+          "description": "Standardized histomorphometry measuring neointimal thickness, strut coverage progression, and inflammation scoring at multiple timepoints. Endothelialization studies track vessel healing while restenosis quantification evaluates lumen area preservation and late loss measurements addressing long-term patency."
+        },
+        {
+          "title": "Polymer Biocompatibility Testing",
+          "description": "ISO 10993-compliant evaluation addressing durable and biodegradable polymer systems, coating adhesion validation during balloon expansion, and degradation kinetics characterization for absorbable platforms. Specialized protocols assess polymer-drug interactions and coating integrity throughout shelf life and deployment."
+        },
+        {
+          "title": "Hemocompatibility and Thrombogenicity",
+          "description": "ISO 10993-4 blood contact testing quantifying platelet activation, complement cascade effects, and hemolysis indices for blood-contacting materials. Thrombogenicity assessment evaluates acute clot formation risk while chronic studies address late thrombosis potential requiring extended antiplatelet therapy."
+        },
+        {
+          "title": "Imaging Compatibility Validation",
+          "description": "MRI conditional testing per ASTM F2503 standards, radiopacity assessment ensuring fluoroscopic visualization, and artifact characterization for CT and MRI modalities. Intravascular ultrasound compatibility protocols validate post-implantation imaging capabilities essential for clinical follow-up assessment."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Coronary Stent Testing",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Stent Testing Infrastructure",
+        "description": "Two catheterization laboratories equipped specifically for coronary device evaluation feature high-resolution fluoroscopy, IVUS integration, and hemodynamic monitoring systems. Advanced analytical capabilities include HPLC systems for drug elution analysis and scanning electron microscopy for coating characterization while specialized mechanical testing equipment validates radial strength and deployment mechanics."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Coronary Device Development Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered minimally invasive coronary techniques, our team understands stent deployment mechanics, vascular healing patterns, and combination product challenges. This cardiovascular heritage translates to protocol designs addressing Class III device requirements including durability demonstration and comprehensive vascular healing validation."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Combination Product Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for coronary stents across bare metal, drug-eluting, and bioresorbable categories. We understand combination product requirements including CDRH-CDER coordination and the comprehensive preclinical evidence FDA expects for both 510(k) and PMA pathway submissions."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your coronary stent platform, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

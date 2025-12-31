@@ -1,0 +1,109 @@
+{
+  "page_slug": "neurological",
+  "page_title": "Neurological | Synchrony Labs",
+  "hero": {
+    "headline": "Neurological",
+    "description": "Comprehensive preclinical validation across hydrocephalus shunt systems, dural sealant applications, and spinal nerve stimulation platforms addressing central nervous system device requirements."
+  },
+  "subpages_section": {
+    "title": "Complete Neurological Portfolio",
+    "description": "Select your specific area below, or scroll down to learn more about our neurological expertise and specialized capabilities.",
+    "cards": [
+      {
+        "icon_name": "Brain",
+        "title": "Shunts",
+        "description": "Hydrocephalus shunt validation including cerebrospinal fluid drainage performance, pressure regulation valve mechanisms, and catheter patency assessment for intracranial pressure management applications.",
+        "link_url": "/areas-of-expertise/neurological/shunts"
+      },
+      {
+        "icon_name": "Droplet",
+        "title": "Dural Sealants",
+        "description": "Dural closure sealant characterization for craniotomy and spinal surgery applications addressing cerebrospinal fluid leak prevention, tissue adhesion strength, and healing augmentation in neurosurgical procedures.",
+        "link_url": "/areas-of-expertise/neurological/dural-sealants"
+      },
+      {
+        "icon_name": "Zap",
+        "title": "Spinal Nerve Stimulation",
+        "description": "Neuromodulation device validation including spinal cord stimulator lead placement, electrode array performance, and chronic stimulation parameter optimization for pain management and neurological disorder treatment.",
+        "link_url": "/areas-of-expertise/neurological/spinal-nerve-stimulation"
+      }
+    ]
+  },
+  "why_choose_section": {
+    "title": "Why Choose Synchrony for Neurological Devices",
+    "description": "Four decades of implantable device expertise provides specialized neurosurgical infrastructure, validated intracranial monitoring capabilities, and proven regulatory success that general preclinical facilities cannot match.",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Neurosurgical Assessment Infrastructure",
+        "description": "Advanced stereotactic systems enable precise intracranial catheter placement while continuous cerebrospinal fluid pressure monitoring and real-time neurophysiological recording capabilities support comprehensive device performance documentation. Our neurosurgical suites accommodate complete shunt system validation including ventricular catheter positioning, valve function verification, and drainage assessment."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Central Nervous System Expertise",
+        "description": "Validated hydrocephalus models replicate intracranial pressure dynamics and cerebrospinal fluid flow abnormalities that shunt systems address. Our team understands neural tissue biocompatibility requirements, chronic implant inflammatory responses, and device performance in central nervous system environments that neurotechnology development demands."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Neurological Device Regulatory Success",
+        "description": "Successful FDA submissions across hydrocephalus shunts, dural sealants, and neuromodulation platforms demonstrate our ability to generate data that addresses reviewer expectations for neurological devices requiring comprehensive biocompatibility assessment per ISO 10993 adapted for central nervous system applications alongside chronic implant safety validation."
+      }
+    ]
+  },
+  "featured_services": {
+    "title": "Featured Neurological Capabilities",
+    "services": [
+      {
+        "title": "Hydrocephalus Shunt Validation",
+        "description": "Cerebrospinal fluid shunt systems face unique challenges proving drainage effectiveness while preventing complications including valve malfunction, catheter obstruction, and infection risks. We evaluate shunt performance using validated hydrocephalus models that replicate elevated intracranial pressure and altered CSF dynamics requiring device intervention. Our protocols assess valve opening pressure accuracy, flow rate regulation across physiological pressure ranges, and catheter patency under chronic implantation conditions. From fixed pressure valves to programmable systems with adjustable settings, our testing addresses both 510(k) pathways demonstrating substantial equivalence to predicate shunts and PMA requirements for breakthrough technologies incorporating novel pressure regulation mechanisms requiring comprehensive safety demonstration supporting clinical applications across pediatric and adult hydrocephalus populations.",
+        "cta_text": "Learn More About Shunts",
+        "cta_url": "/areas-of-expertise/neurological/shunts",
+        "image_placeholder": "[Hydrocephalus shunt validation visualization]"
+      },
+      {
+        "title": "Dural Sealant Characterization",
+        "description": "Neurosurgical sealants preventing cerebrospinal fluid leaks must demonstrate adhesion strength sufficient to withstand intracranial pressure while supporting dural healing without neurotoxic complications. We evaluate sealant performance using standardized burst pressure protocols that measure seal integrity under physiological stress conditions while tissue response studies assess biocompatibility at dural interfaces and neural tissue. Leak detection methods quantify sealing effectiveness immediately following craniotomy closure and throughout healing phases addressing both acute and chronic performance requirements. Our GLP-compliant protocols support regulatory submissions across fibrin-based, polyethylene glycol, and biological sealant platforms requiring ISO 10993 biocompatibility demonstration with additional neurotoxicity assessment per FDA neurological device guidance for dural closure applications across cranial and spinal surgical procedures.",
+        "cta_text": "Learn More About Dural Sealants",
+        "cta_url": "/areas-of-expertise/neurological/dural-sealants",
+        "image_placeholder": "[Dural sealant validation visualization]"
+      },
+      {
+        "title": "Neuromodulation Device Assessment",
+        "description": "Spinal cord stimulation systems require validation proving electrode array positioning accuracy translates to effective pain modulation while ensuring chronic implant safety in neural environments. We test stimulator lead placement using fluoroscopic guidance documenting epidural space navigation and electrode positioning relative to target spinal segments. Electrophysiological monitoring measures stimulation threshold parameters, current distribution patterns, and neural recruitment characteristics while chronic implantation studies assess tissue response at electrode-tissue interfaces. Our protocols evaluate both conventional tonic stimulation and burst waveform patterns across multiple electrode configurations supporting regulatory pathways for neuromodulation technologies. From paddle arrays to percutaneous leads, our testing addresses PMA requirements for Class III active implantable devices requiring comprehensive effectiveness and safety demonstration per IEC 60601 medical electrical equipment standards.",
+        "cta_text": "Learn More About Spinal Nerve Stimulation",
+        "cta_url": "/areas-of-expertise/neurological/spinal-nerve-stimulation",
+        "image_placeholder": "[Neuromodulation device validation visualization]"
+      }
+    ]
+  },
+  "related_services": {
+    "title": "Complementary Expertise",
+    "description": "Neurological device programs often benefit from our capabilities across other therapeutic areas addressing specialized validation requirements.",
+    "cards": [
+      {
+        "title": "Cardiovascular",
+        "description": "Neurovascular intervention validation provides specialized cerebrovascular expertise addressing stroke treatment devices and intracranial stent platforms requiring coordinated neurological-vascular assessment capabilities for comprehensive device characterization.",
+        "cta_text": "Explore Cardiovascular â†’",
+        "cta_url": "/areas-of-expertise/cardiovascular"
+      },
+      {
+        "title": "Musculoskeletal",
+        "description": "Bone healing assessment and chronic implant biocompatibility protocols address spinal fixation devices and neurosurgical hardware requiring orthopedic-neurological integration providing complementary expertise for spinal intervention technologies.",
+        "cta_text": "Explore Musculoskeletal â†’",
+        "cta_url": "/areas-of-expertise/musculoskeletal"
+      },
+      {
+        "title": "Respiratory",
+        "description": "Minimally invasive device validation and chronic implant assessment protocols address catheter-based intervention requirements providing complementary expertise for neurological devices requiring similar deployment and long-term safety validation approaches.",
+        "cta_text": "Explore Respiratory â†’",
+        "cta_url": "/areas-of-expertise/respiratory"
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Neurological Program?",
+    "description": "Our neurological device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

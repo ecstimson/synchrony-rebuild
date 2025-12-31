@@ -1,0 +1,71 @@
+{
+  "page_slug": "icd",
+  "page_title": "ICD Testing Services | Synchrony Labs",
+  "parent_page": {
+    "name": "Arrhythmia",
+    "url": "/preclinical-services/cardiovascular-disease-testing/arrhythmia-testing"
+  },
+  "hero": {
+    "headline": "ICD Testing Services",
+    "description": "Comprehensive preclinical validation for implantable cardioverter defibrillators with arrhythmia detection algorithm testing, high-voltage defibrillation efficacy assessment, shock delivery characterization, and electromagnetic compatibility evaluation using GLP-compliant methodologies for life-sustaining device submissions."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Implantable cardioverter defibrillators prevent sudden cardiac death through rapid arrhythmia detection and high-voltage therapy delivery, requiring validation that demonstrates reliable detection algorithms while delivering effective defibrillation without unnecessary shocks. ICDs must discriminate life-threatening ventricular arrhythmias from benign rhythms while charging capacitors rapidly and delivering therapy that terminates fibrillation consistently. Transvenous systems demand comprehensive lead validation while subcutaneous platforms require alternative pathway characterization and CRT-D devices need biventricular pacing assessment alongside defibrillation capability.\n\nWe evaluate ICD performance using specialized electrophysiology systems that induce ventricular arrhythmias and assess detection accuracy with millisecond precision. Our high-voltage testing infrastructure characterizes defibrillation thresholds across energy levels while waveform optimization validates biphasic shock delivery effectiveness. Arrhythmia simulation capabilities test detection algorithms across varying ventricular tachycardia and fibrillation presentations while electromagnetic compatibility chambers assess device performance near MRI systems and medical equipment generating electromagnetic interference.\n\nISO 14708 series standards guide ICD assessment while FDA guidance documents for active implantable cardioverter defibrillators inform protocol development addressing defibrillation efficacy, sensing accuracy, and electromagnetic safety requirements. Our GLP-compliant testing supports PMA pathways for Class III life-sustaining devices. Whether validating traditional transvenous ICDs, subcutaneous systems avoiding intracardiac leads, or CRT-D platforms combining resynchronization and defibrillation therapy, our protocols demonstrate detection reliability, shock efficacy, and electromagnetic compatibility that sudden cardiac death prevention devices demand.",
+    "key_capabilities": {
+      "title": "Key Testing Capabilities",
+      "capabilities": [
+        {
+          "title": "Arrhythmia Detection Algorithm Validation",
+          "description": "Detection sensitivity testing across ventricular tachycardia and fibrillation presentations, specificity assessment for supraventricular tachycardia rejection, and rate discrimination validation with advanced algorithms including morphology analysis and sudden onset criteria undergoing comprehensive evaluation"
+        },
+        {
+          "title": "Defibrillation Efficacy Assessment",
+          "description": "High-voltage testing characterizes defibrillation thresholds across multiple energy levels while waveform optimization validates biphasic shock delivery, capacitor charging performance evaluation, shock impedance measurement, and therapy success rate analysis addressing ICD-specific requirements"
+        },
+        {
+          "title": "High-Voltage Lead System Performance",
+          "description": "Chronic electrical integrity assessment evaluates high-voltage conductor resistance stability, specialized insulation performance under defibrillation stress, and shock coil effectiveness while mechanical durability protocols simulate years of cardiac motion combined with periodic high-energy therapy delivery"
+        },
+        {
+          "title": "Electromagnetic Compatibility and MRI Conditional Validation",
+          "description": "MRI conditional testing per ISO 14117 standards validates device performance during imaging procedures, electromagnetic interference susceptibility assessment across frequency ranges, and medical device interaction testing including defibrillator exposure and electrocautery proximity scenarios"
+        },
+        {
+          "title": "Battery Performance Under Therapy Demands",
+          "description": "Long-term battery characterization under varying shock delivery scenarios, capacitor charging time assessment across battery depletion states, and end-of-life indicator validation ensuring predictable device longevity for replacement planning despite unpredictable therapy requirements"
+        },
+        {
+          "title": "High-Voltage System Biocompatibility",
+          "description": "ISO 10993 testing adapted for high-voltage active implantable devices addresses chronic tissue contact with specialized protocols evaluating defibrillation lead hemocompatibility, shock electrode tissue response, and high-voltage component safety throughout extended implantation periods"
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for ICD Testing",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized High-Voltage Testing Infrastructure",
+        "description": "Two catheterization laboratories configured specifically for ICD evaluation feature arrhythmia induction capabilities, defibrillation threshold testing systems, and high-voltage safety equipment enabling comprehensive shock delivery assessment. Our electromagnetic compatibility chambers validate MRI conditional devices while specialized high-voltage lead testing systems simulate defibrillation stress through accelerated protocols. Advanced electrophysiology monitoring captures detection algorithm performance with millisecond precision during induced arrhythmia episodes."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Sudden Cardiac Death Prevention Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered electrophysiology and ICD implantation techniques, our team understands ventricular arrhythmia mechanisms, defibrillation physics, and detection algorithm optimization specific to life-saving devices. This cardiovascular heritage translates to protocol designs addressing FDA Class III requirements including defibrillation efficacy demonstration, electromagnetic compatibility validation, and the comprehensive safety evidence implantable cardioverter defibrillators demand for preventing sudden cardiac death across diverse patient populations."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven ICD Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for implantable cardioverter defibrillators across transvenous, subcutaneous, and CRT-D platforms. We understand Class III life-sustaining device requirements including high-voltage system validation, arrhythmia detection algorithm assessment, and the specific endpoints FDA expects for ICD submissions addressing both traditional intracardiac lead systems and emerging subcutaneous technologies requiring alternative defibrillation pathway validation and unique electromagnetic compatibility considerations."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your ICD device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

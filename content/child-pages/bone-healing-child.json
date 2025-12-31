@@ -1,0 +1,71 @@
+{
+  "page_slug": "bone-healing",
+  "page_title": "Bone Healing | Synchrony Labs",
+  "parent_page": {
+    "name": "Musculoskeletal",
+    "url": "/areas-of-expertise/musculoskeletal"
+  },
+  "hero": {
+    "headline": "Bone Healing",
+    "description": "Fracture repair technologies face unique challenges proving osteogenic effectiveness while ensuring mechanical stability throughout healing phases. We test fixation device performance, bone formation progression, and healing quality using validated defect models that address both 510(k) and PMA regulatory pathways."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Bone healing devices must demonstrate fixation stability maintaining fracture reduction while supporting biological healing progression through inflammatory, soft callus, hard callus, and remodeling phases. Metallic fixation plates require biomechanical strength validation withstanding physiological loads while bioresorbable systems need degradation rate characterization synchronized with tissue strength development. Bone graft substitutes demand osteoconductivity demonstration supporting new bone formation while osteoinductive materials require bone formation stimulation validation in non-healing defect models. Orthobiologic adjuncts including growth factors and stem cell therapies need mechanism of action characterization proving healing acceleration and quality enhancement. Each technology category addresses different healing scenarios from simple fracture stabilization to critical-size defect regeneration requiring comprehensive validation approaches.\n\nWe evaluate healing progression using micro-computed tomography imaging that quantifies bone mineral density, callus volume, trabecular architecture, and cortical bridging throughout healing time courses. Biomechanical testing measures construct stiffness, ultimate load to failure, and energy absorption characterizing mechanical property restoration while comparing healed bone strength to native tissue. Histomorphometry protocols quantify new bone area, bone formation rate, and osteoid thickness using fluorochrome labeling and calcein double-marking techniques. Our capabilities include histopathological examination characterizing callus composition, cellular infiltration patterns, and cartilaginous intermediate stages during endochondral ossification. We assess device-bone integration quality, fixation stability under cyclic loading, and absence of stress shielding effects compromising healing. Advanced imaging tracks healing progression non-invasively while terminal analyses provide quantitative tissue-level characterization.\n\nISO 10993 biocompatibility standards guide bone tissue contact assessment while ASTM orthopedic device standards including F382 and F1635 address specific mechanical testing requirements for fixation devices. FDA orthopedic guidance documents inform protocol development for both trauma fixation devices and regenerative bone therapies requiring osteogenic effectiveness demonstration. Testing supports 510(k) pathways demonstrating substantial equivalence to cleared fixation systems and PMA submissions for breakthrough bone healing technologies requiring comprehensive effectiveness validation. Whether characterizing plate-screw construct stability, validating bone graft substitute osteoconduction, or assessing growth factor osteoinduction, our protocols generate data meeting orthopedic device regulatory expectations.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Micro-Computed Tomography Bone Analysis",
+          "description": "High-resolution imaging characterizes bone mineral density, trabecular bone volume fraction, trabecular thickness, trabecular spacing, and cortical thickness throughout healing progression. Three-dimensional reconstruction enables callus volume quantification, fracture gap bridging assessment, and remodeling phase characterization providing comprehensive structural healing evaluation."
+        },
+        {
+          "title": "Biomechanical Healing Assessment",
+          "description": "Four-point bending, torsional testing, and compression protocols measure healed bone mechanical properties including ultimate load, yield strength, stiffness, and energy absorption comparing restored function to native bone controls. Construct stability testing evaluates fixation device performance under cyclic loading while measuring permanent deformation and fatigue resistance per ASTM F382 standards."
+        },
+        {
+          "title": "Histomorphometric Bone Formation Quantification",
+          "description": "Fluorochrome labeling using calcein administration enables dynamic bone formation rate measurement while quantitative histomorphometry measures mineralizing surface, mineral apposition rate, and bone formation rate per bone surface. Osteoid thickness, osteoblast surface coverage, and osteoclast enumeration characterize cellular activity throughout healing phases."
+        },
+        {
+          "title": "Callus Composition and Maturation",
+          "description": "Histopathological examination characterizes healing phase progression through inflammatory cell infiltration, fibrous tissue formation, cartilaginous callus development, and hard callus mineralization. Specialized staining protocols differentiate woven bone from lamellar bone while quantifying callus maturation quality determining healing progression toward mechanical competence."
+        },
+        {
+          "title": "Device-Bone Interface Integration",
+          "description": "Biomechanical pushout or pullout testing quantifies implant-bone bonding strength for interference screws, porous-coated surfaces, and integrated fixation systems. Histological examination characterizes bone ongrowth quality, osseointegration extent, and fibrous tissue interposition determining direct bone-implant contact percentages supporting stability claims."
+        },
+        {
+          "title": "Critical-Size Defect Healing",
+          "description": "Non-healing defect models assess osteoinductive material effectiveness stimulating bone formation bridging gaps exceeding spontaneous healing capacity. Volumetric bone formation measurement, defect fill percentage quantification, and mechanical strength restoration validate regenerative therapy effectiveness supporting PMA submissions requiring comprehensive healing demonstration in challenging defect environments."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for Bone Healing",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Orthopedic Biomechanics Infrastructure",
+        "description": "Advanced biomechanical testing systems enable comprehensive load-bearing assessment including compression, tension, torsion, and four-point bending protocols per ASTM orthopedic standards. Our micro-computed tomography capabilities provide high-resolution bone architecture analysis while histomorphometry laboratories feature fluorochrome labeling protocols and quantitative bone formation measurement. Specialized surgical facilities accommodate fixation device implantation across anatomical sites with standardized defect creation protocols."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Fracture Healing Expertise",
+        "description": "Validated bone defect models replicate clinical healing scenarios including simple fractures, comminuted fractures, critical-size defects, and compromised healing environments requiring therapeutic intervention. Our team understands bone biology across healing phases, fixation biomechanics, osteoconduction versus osteoinduction mechanisms, and the specific effectiveness endpoints orthopedic device manufacturers must demonstrate for regulatory approvals. This expertise translates to protocol designs capturing mechanical stability demonstration alongside comprehensive biological healing validation."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Orthopedic Device Regulatory Success",
+        "description": "Successful FDA submissions across metallic fixation systems, bioresorbable implants, and bone graft substitute platforms demonstrate our ability to generate data addressing reviewer expectations for fracture repair technologies. We understand both 510(k) substantial equivalence pathways and PMA requirements for breakthrough bone healing devices including biocompatibility validation per ISO 10993 bone contact standards, mechanical performance per ASTM F382 protocols, and the specific healing quality endpoints FDA expects for orthopedic device approvals."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Bone Healing Program?",
+    "description": "Our musculoskeletal device experts are ready to discuss your device, regulatory pathway, and study requirements to optimize your development timeline.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

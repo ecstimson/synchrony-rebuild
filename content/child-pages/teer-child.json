@@ -1,0 +1,71 @@
+{
+  "page_slug": "teer",
+  "page_title": "TEER | Synchrony Labs",
+  "parent_page": {
+    "name": "Structural Heart",
+    "url": "/areas-of-expertise/cardiovascular/structural-heart"
+  },
+  "hero": {
+    "headline": "TEER",
+    "description": "Comprehensive preclinical validation for transcatheter edge-to-edge repair devices with leaflet grasping force characterization, deployment accuracy assessment across mitral and tricuspid applications, residual regurgitation quantification, and multi-clip strategy evaluation under GLP compliance."
+  },
+  "primary_content": {
+    "title": "Our Preclinical Expertise",
+    "description": "Transcatheter edge-to-edge repair devices face unique validation challenges requiring precise leaflet grasping mechanics across varying tissue pathologies, deployment accuracy within moving cardiac structures, and residual regurgitation optimization that preserves valve area. TEER platforms must demonstrate secure leaflet capture without tissue trauma, positioning precision that targets regurgitant jets, and clip closure mechanics that create effective double-orifice configurations. Device success depends on achieving significant regurgitation reduction while avoiding stenosis, requiring comprehensive assessment across both primary degenerative disease and secondary functional regurgitation in mitral and tricuspid positions.\n\nWe evaluate grasping force using specialized measurement systems that quantify clip closure pressure, leaflet compression characteristics, and tissue holding strength throughout cardiac cycles. Our catheterization laboratories feature transseptal access capabilities enabling realistic left atrial approach simulation while transesophageal echocardiography provides three-dimensional visualization of leaflet capture, clip positioning, and residual regurgitation patterns. Advanced protocols assess independent gripper control systems, evaluate multi-clip deployment strategies, and characterize clip width selection for broad regurgitant jets while tricuspid-specific testing addresses unique anatomical considerations including annular dilation and leaflet tethering patterns.\n\nISO 5840 standards guide transcatheter heart valve device testing while FDA guidance documents for transcatheter mitral and tricuspid repair inform protocol development addressing hemodynamic benchmarks, procedural safety, and durability requirements. Our GLP-compliant protocols support both PMA submissions for breakthrough repair technologies and 510(k) pathways demonstrating substantial equivalence to established platforms. Whether validating fourth-generation devices with independent gripper control, specialized systems addressing complex anatomies, or tricuspid-specific TEER platforms, our testing addresses regulatory expectations for Class III transcatheter valve repair devices across primary and secondary regurgitation applications.",
+    "key_capabilities": {
+      "title": "Key Capabilities",
+      "capabilities": [
+        {
+          "title": "Leaflet Grasping Force Characterization",
+          "description": "Force measurement systems quantify clip closure force, tissue compression characteristics, and leaflet holding strength throughout cardiac cycles under varying systolic pressures while assessing grasping adequacy across leaflet thickness variations, tissue damage thresholds, and optimal force ranges preventing both single leaflet detachment and tissue perforation."
+        },
+        {
+          "title": "Deployment Accuracy and Positioning Assessment",
+          "description": "High-resolution fluoroscopy and three-dimensional transesophageal echocardiography capture clip positioning relative to regurgitant jet location, evaluating deployment precision across varying valve anatomies including mitral prolapse, functional regurgitation, and tricuspid leaflet tethering while specialized models replicate anatomical challenges including restricted leaflet motion and annular calcification."
+        },
+        {
+          "title": "Residual Regurgitation Quantification",
+          "description": "Advanced echocardiographic techniques quantify regurgitation reduction using PISA radius measurement, vena contracta assessment, and regurgitant volume calculation while hemodynamic monitoring evaluates atrial pressure changes, valve gradient development, and effective valve area preservation across mitral and tricuspid positions."
+        },
+        {
+          "title": "Multi-Clip Strategy and Leaflet Coaptation",
+          "description": "Comprehensive evaluation of single versus multiple clip configurations addresses optimal spacing, sequential deployment mechanics, and cumulative regurgitation reduction effectiveness while assessing device-device interactions, evaluating stenosis risk with multiple implants, and characterizing leaflet coaptation length optimization for varying leaflet dimensions."
+        },
+        {
+          "title": "Durability and Chronic Performance",
+          "description": "Accelerated fatigue testing simulates years of cardiac cycles through continuous clip opening-closing mechanics under physiological loading conditions while durability protocols evaluate gripper element integrity, clip arm structural stability, and leaflet tissue response at attachment sites throughout extended observation periods."
+        },
+        {
+          "title": "Transseptal Access and Delivery System Performance",
+          "description": "Comprehensive delivery system evaluation addresses transseptal puncture site requirements, steerable guide catheter performance, and clip delivery system tracking through anatomical variations while specialized protocols assess left atrial navigation capabilities, clip orientation control, and retrieval and repositioning mechanics for devices offering recapture functionality."
+        }
+      ]
+    }
+  },
+  "why_choose": {
+    "title": "Why Choose Synchrony for TEER",
+    "cards": [
+      {
+        "icon_name": "Microscope",
+        "title": "Specialized Edge-to-Edge Repair Infrastructure",
+        "description": "Two catheterization laboratories configured specifically for transcatheter valve repair procedures feature three-dimensional transesophageal echocardiography, biplane fluoroscopy, and transseptal access capabilities. Our valve anatomical model library spans primary and secondary regurgitation pathologies across mitral and tricuspid positions while specialized force measurement systems characterize leaflet grasping mechanics. This infrastructure enables edge-to-edge repair testing protocols addressing deployment challenges that standard structural heart facilities cannot replicate."
+      },
+      {
+        "icon_name": "Users",
+        "title": "Transcatheter Valve Repair Expertise",
+        "description": "Founded by Duke University interventional cardiologists who pioneered transcatheter structural heart procedures, our team understands valve regurgitation pathophysiology, edge-to-edge repair mechanics, and leaflet coaptation requirements across mitral and tricuspid applications. This cardiovascular heritage translates to protocol designs addressing FDA Class III device requirements including grasping force validation, residual regurgitation assessment, and the comprehensive safety evaluation transcatheter valve repair devices demand for both primary and secondary regurgitation applications."
+      },
+      {
+        "icon_name": "CheckCircle",
+        "title": "Proven Valve Repair Regulatory Success",
+        "description": "Our data packages have supported successful FDA approvals for transcatheter valve repair devices across edge-to-edge and other repair categories. We understand Class III device requirements including ISO 5840 compliance for transcatheter valves, hemodynamic performance benchmarks, and the comprehensive preclinical evidence FDA expects for TEER submissions addressing both degenerative regurgitation in prohibitive surgical risk patients and secondary regurgitation in heart failure populations across mitral and tricuspid positions."
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Ready to Start Your Study?",
+    "description": "Our team is ready to discuss your TEER device, regulatory pathway, and study requirements to optimize your path to FDA approval.",
+    "primary_button_text": "Schedule Consultation",
+    "primary_button_link": "/contact"
+  }
+}

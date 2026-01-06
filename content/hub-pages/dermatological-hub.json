@@ -60,13 +60,6 @@
         "cta_text": "Learn More About Aesthetics",
         "cta_url": "/areas-of-expertise/dermatological/aesthetics",
         "image_placeholder": "[Injectable filler validation visualization]"
-      },
-      {
-        "title": "Energy-Based Device Validation",
-        "description": "Laser, radiofrequency, and ultrasound platforms for skin rejuvenation require proving tissue effect consistency while preventing thermal injury complications. We characterize energy delivery parameters through temperature mapping, penetration depth measurement, and tissue interaction assessment across varying skin types and treatment areas. Specialized protocols evaluate collagen remodeling stimulation, dermal thickness changes, and epidermal integrity preservation following energy exposure using standardized histological analysis. Our testing addresses ablative and non-ablative technologies, fractional delivery systems, and combined-modality platforms requiring comprehensive safety validation per IEC 60601 electrical safety standards. GLP-compliant studies generate data supporting regulatory submissions for aesthetic devices requiring both immediate safety demonstration and long-term tissue response characterization.",
-        "cta_text": "Learn More About Aesthetics",
-        "cta_url": "/areas-of-expertise/dermatological/aesthetics",
-        "image_placeholder": "[Energy-based device validation visualization]"
       }
     ]
   },

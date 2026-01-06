@@ -60,13 +60,6 @@
         "cta_text": "Learn More About Bone Healing",
         "cta_url": "/areas-of-expertise/musculoskeletal/bone-healing",
         "image_placeholder": "[Bone healing validation visualization]"
-      },
-      {
-        "title": "Orthopedic Biomechanical Assessment",
-        "description": "Load-bearing orthopedic devices require comprehensive mechanical validation proving strength and durability under physiological stress conditions throughout projected device lifetime. We conduct biomechanical testing following ASTM standards specific to device applications including compression testing per ASTM F1717, fatigue protocols simulating millions of load cycles, and torsional strength assessment. Material characterization evaluates modulus matching between implants and native bone preventing stress shielding while finite element analysis validates stress distribution patterns. Our testing capabilities span from spinal fixation hardware requiring multi-axial loading protocols to joint replacement components demanding wear testing per ISO 14242 standards. Advanced imaging including microCT enables three-dimensional reconstruction and quantitative morphometry while mechanical testing of explanted devices validates long-term performance predictions supporting regulatory pathways requiring comprehensive durability demonstration.",
-        "cta_text": "Explore Musculoskeletal Portfolio",
-        "cta_url": "/areas-of-expertise/musculoskeletal",
-        "image_placeholder": "[Biomechanical assessment visualization]"
       }
     ]
   },

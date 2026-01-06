@@ -26,7 +26,7 @@ export default function Home() {
             Four decades of GLP expertise advancing structural heart, neurovascular, and peripheral vascular innovation. Expert preclinical testing services for medical device development.
           </Paragraph>
           <div className="flex flex-col sm:flex-row gap-4">
-            <Button size="lg" variant="secondary" href="/preclinical-services">Explore Services</Button>
+            <Button size="lg" variant="secondary" href="/areas-of-expertise">Explore Services</Button>
             <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-navy" href="/facility">View Facility</Button>
           </div>
         </Container>

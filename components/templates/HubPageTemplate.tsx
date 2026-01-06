@@ -37,25 +37,45 @@ export function HubPageTemplate({ data }: { data: HubPageData }) {
     return (
         <div className="flex flex-col">
             {/* Hero Section */}
-            <section className="relative min-h-[60vh] flex items-center justify-center overflow-hidden bg-navy">
-                <div className="absolute inset-0 bg-gradient-to-b from-navy/50 to-navy z-0" />
-                {/* Background image placeholder - currently we don't have images in JSON, using gradients/patterns */}
-                <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-teal/10 via-transparent to-transparent opacity-50" />
+            <section className="relative overflow-hidden bg-navy py-16 md:py-24">
+                {/* Background Image */}
+                <div className="absolute inset-0 z-0">
+                    <Image 
+                        src="/images/services/cardiovascular-disease-testing.jpeg" 
+                        alt="Cardiovascular testing"
+                        fill
+                        className="object-cover opacity-20"
+                        priority
+                    />
+                </div>
+                <div className="absolute inset-0 bg-gradient-to-r from-navy via-navy/90 to-transparent z-0" />
 
-                <Container className="relative z-10 text-center">
+                <Container className="relative z-10">
                     <H1 className="text-white mb-6 uppercase tracking-wider">{hero.headline}</H1>
-                    <Paragraph className="text-gray-200 max-w-3xl mx-auto mb-10 text-xl leading-relaxed">
+                    <Paragraph className="text-gray-200 max-w-2xl mb-8 text-xl leading-relaxed">
                         {hero.description}
                     </Paragraph>
+                    
+                    {/* Value Propositions */}
+                    {why_choose_section && why_choose_section.cards && why_choose_section.cards.length >= 2 && (
+                        <div className="max-w-2xl space-y-4 mt-8">
+                            <Paragraph className="text-gray-300 text-base leading-relaxed">
+                                {why_choose_section.cards[0].description} {why_choose_section.cards[1].description}
+                            </Paragraph>
+                            <Paragraph className="text-gray-300 text-base leading-relaxed">
+                                {why_choose_section.cards[2]?.description || why_choose_section.description}
+                            </Paragraph>
+                        </div>
+                    )}
                 </Container>
             </section>
 
             {/* Subpages Grid */}
             <Section background="white">
                 <Container>
-                    <div className="text-center mb-16">
+                    <div className="mb-16">
                         <H2 className="mb-4">{subpages_section.title}</H2>
-                        <Paragraph className="max-w-2xl mx-auto">
+                        <Paragraph className="max-w-2xl">
                             {subpages_section.description}
                         </Paragraph>
                     </div>
@@ -65,7 +85,7 @@ export function HubPageTemplate({ data }: { data: HubPageData }) {
                             <Link key={index} href={card.link_url} className="group h-full">
                                 <Card className="flex flex-col h-full hover:shadow-lg transition-all duration-300 hover:border-teal/30 group-hover:-translate-y-1">
                                     <div className="mb-6">
-                                        <div className="w-12 h-12 bg-teal/10 rounded-lg flex items-center justify-center mb-4 text-teal group-hover:bg-teal group-hover:text-white transition-colors">
+                                        <div className="w-12 h-12 bg-teal/10 rounded-none flex items-center justify-center mb-4 text-teal group-hover:bg-teal group-hover:text-white transition-colors">
                                             <DynamicIcon name={card.icon_name} className="w-6 h-6" />
                                         </div>
                                         <h3 className="text-2xl font-bold text-navy mb-3 group-hover:text-teal transition-colors">{card.title}</h3>
@@ -83,30 +103,19 @@ export function HubPageTemplate({ data }: { data: HubPageData }) {
                 </Container>
             </Section>
 
-            {/* Why Choose Section */}
+            {/* Schedule Consultation CTA */}
             <Section background="ghost">
                 <Container>
-                    <div className="text-center mb-16">
-                        <H2 className="mb-4">{why_choose_section.title}</H2>
-                        {why_choose_section.description && (
-                            <Paragraph className="max-w-3xl mx-auto">
-                                {why_choose_section.description}
+                    <div className="flex flex-col md:flex-row items-center justify-between gap-8 py-8">
+                        <div>
+                            <H2 className="mb-2">Ready to discuss your project?</H2>
+                            <Paragraph className="text-gray-600">
+                                Our team is here to help you design the perfect study for your device.
                             </Paragraph>
-                        )}
-                    </div>
-
-                    <div className="grid md:grid-cols-3 gap-8">
-                        {why_choose_section.cards.map((card, index) => (
-                            <div key={index} className="bg-white p-8 rounded-lg shadow-sm border border-navy/5">
-                                <div className="w-12 h-12 bg-navy/5 rounded-full flex items-center justify-center mb-6 text-navy">
-                                    <DynamicIcon name={card.icon_name} className="w-6 h-6" />
-                                </div>
-                                <h3 className="text-xl font-bold text-navy mb-4">{card.title}</h3>
-                                <p className="text-gray-600 leading-relaxed">
-                                    {card.description}
-                                </p>
-                            </div>
-                        ))}
+                        </div>
+                        <div className="flex-shrink-0">
+                            <Button size="lg" variant="secondary" href="/contact">Schedule Consultation</Button>
+                        </div>
                     </div>
                 </Container>
             </Section>
@@ -114,7 +123,7 @@ export function HubPageTemplate({ data }: { data: HubPageData }) {
             {/* Featured Services */}
             <Section background="white">
                 <Container>
-                    <div className="text-center mb-16">
+                    <div className="mb-16">
                         <H2 className="mb-6">{featured_services.title}</H2>
                     </div>
 
@@ -130,7 +139,7 @@ export function HubPageTemplate({ data }: { data: HubPageData }) {
                                         {service.cta_text}
                                     </Button>
                                 </div>
-                                <div className="flex-1 w-full bg-ghost rounded-xl min-h-[300px] flex items-center justify-center border border-navy/5 relative overflow-hidden group">
+                                <div className="flex-1 w-full bg-ghost rounded-none min-h-[300px] flex items-center justify-center border border-navy/5 relative overflow-hidden group">
                                     <div className="absolute inset-0 bg-navy/5 group-hover:bg-navy/10 transition-colors" />
                                     <span className="text-gray-400 font-medium">{service.image_placeholder}</span>
                                 </div>
@@ -144,18 +153,18 @@ export function HubPageTemplate({ data }: { data: HubPageData }) {
             {related_services && (
                 <Section background="ghost">
                     <Container>
-                        <div className="text-center mb-12">
+                        <div className="mb-12">
                             <H2 className="mb-4">{related_services.title}</H2>
                             <Paragraph>{related_services.description}</Paragraph>
                         </div>
-                        <div className="grid md:grid-cols-3 gap-6">
+                        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
                             {related_services.cards.map((card, index) => (
                                 <Link key={index} href={card.cta_url} className="block group">
                                     <Card className="h-full hover:border-teal transition-colors p-8">
                                         <h3 className="text-xl font-bold text-navy mb-3 group-hover:text-teal transition-colors">{card.title}</h3>
                                         <p className="text-sm text-gray-600 mb-4">{card.description}</p>
                                         <span className="text-teal text-sm font-bold uppercase flex items-center">
-                                            {card.cta_text.replace(' ->', '')} <ChevronRight className="w-4 h-4 ml-1" />
+                                            {card.cta_text} <ChevronRight className="w-4 h-4 ml-1" />
                                         </span>
                                     </Card>
                                 </Link>

@@ -14,7 +14,7 @@ export function Header() {
         <header className="fixed top-0 left-0 right-0 z-50 bg-white/80 backdrop-blur-md border-b border-gray-100">
             <Container className="flex items-center justify-between h-16">
                 {/* Logo */}
-                <Link href="/" className="flex-shrink-0 relative h-14 w-72">
+                <Link href="/" className="flex-shrink-0 relative h-14 w-72 -ml-2">
                     <Image
                         src="/logos/synchrony-primary-navy-small.png"
                         alt="Synchrony Labs"

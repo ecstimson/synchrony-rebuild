@@ -58,15 +58,37 @@ export function ChildPageTemplate({ data, hubSlug, parentSlug }: { data: ChildPa
             </div>
 
             {/* Hero Section */}
-            <section className="relative min-h-[50vh] flex items-center justify-center overflow-hidden bg-navy">
-                <div className="absolute inset-0 bg-gradient-to-b from-navy/50 to-navy z-0" />
-                <div className="absolute inset-0 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-teal/10 via-transparent to-transparent opacity-50" />
+            <section className="relative overflow-hidden bg-navy py-16 md:py-24">
+                {/* Background Image */}
+                <div className="absolute inset-0 z-0">
+                    <Image 
+                        src="/images/services/medical-device-testing.jpg" 
+                        alt="Medical device testing"
+                        fill
+                        className="object-cover opacity-20"
+                        priority
+                    />
+                </div>
+                <div className="absolute inset-0 bg-gradient-to-r from-navy via-navy/90 to-transparent z-0" />
 
-                <Container className="relative z-10 text-center">
-                    <H1 className="text-white mb-6 uppercase tracking-wider max-w-4xl mx-auto">{hero.headline}</H1>
-                    <Paragraph className="text-gray-200 max-w-3xl mx-auto mb-8 text-xl leading-relaxed">
+                <Container className="relative z-10">
+                    <H1 className="text-white mb-6 uppercase tracking-wider">{hero.headline}</H1>
+                    <Paragraph className="text-gray-200 max-w-2xl mb-8 text-xl leading-relaxed">
                         {hero.description}
                     </Paragraph>
+                    
+                    {/* Value Propositions */}
+                    {why_choose && why_choose.cards && why_choose.cards.length >= 2 && (
+                        <div className="max-w-2xl space-y-4 mt-8 mb-8">
+                            <Paragraph className="text-gray-300 text-base leading-relaxed">
+                                {why_choose.cards[0].description} {why_choose.cards[1].description}
+                            </Paragraph>
+                            <Paragraph className="text-gray-300 text-base leading-relaxed">
+                                {why_choose.cards[2]?.description || why_choose.description}
+                            </Paragraph>
+                        </div>
+                    )}
+                    
                     <Button href="/contact" size="lg" variant="secondary">Request Study Info</Button>
                 </Container>
             </section>
@@ -82,7 +104,7 @@ export function ChildPageTemplate({ data, hubSlug, parentSlug }: { data: ChildPa
                             </div>
                         </div>
                         <div className="lg:w-1/2">
-                            <div className="bg-ghost p-8 rounded-xl shadow-sm border border-navy/5">
+                            <div className="bg-ghost p-8 rounded-none shadow-sm border border-navy/5">
                                 <h3 className="text-2xl font-bold text-navy mb-6">{primary_content.key_capabilities.title}</h3>
                                 <div className="space-y-6">
                                     {primary_content.key_capabilities.capabilities.map((cap, index) => (
@@ -99,34 +121,6 @@ export function ChildPageTemplate({ data, hubSlug, parentSlug }: { data: ChildPa
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </Container>
-            </Section>
-
-            {/* Why Choose Section */}
-            <Section background="ghost">
-                <Container>
-                    <div className="text-center mb-16">
-                        <H2 className="mb-4">{why_choose.title}</H2>
-                        {why_choose.description && (
-                            <Paragraph className="max-w-3xl mx-auto">
-                                {why_choose.description}
-                            </Paragraph>
-                        )}
-                    </div>
-
-                    <div className="grid md:grid-cols-3 gap-8">
-                        {why_choose.cards.map((card, index) => (
-                            <div key={index} className="bg-white p-8 rounded-lg shadow-sm border border-navy/5">
-                                <div className="w-12 h-12 bg-navy/5 rounded-full flex items-center justify-center mb-6 text-navy">
-                                    <DynamicIcon name={card.icon_name} className="w-6 h-6" />
-                                </div>
-                                <h3 className="text-xl font-bold text-navy mb-4">{card.title}</h3>
-                                <p className="text-gray-600 leading-relaxed">
-                                    {card.description}
-                                </p>
-                            </div>
-                        ))}
                     </div>
                 </Container>
             </Section>

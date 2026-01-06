@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className="flex flex-col">
       {/* Hero Section - Using Legacy Content & Picsum Image */}
-      <section className="relative min-h-[80vh] flex items-center justify-center overflow-hidden bg-navy">
+      <section className="relative min-h-[80vh] flex items-center justify-start overflow-hidden bg-navy">
         {/* Background - keeping picsum as requested */}
         <Image
           src="https://picsum.photos/1920/1080?random=1"
@@ -18,14 +18,14 @@ export default function Home() {
           className="object-cover opacity-50 mix-blend-overlay"
           priority
         />
-        <Container className="relative z-10 text-center">
-          <H1 className="text-white mb-6 text-5xl md:text-7xl">
+        <Container className="relative z-10">
+          <H1 className="text-white mb-6 text-5xl md:text-7xl text-left">
             Specialized Cardiovascular <br /> Preclinical Research
           </H1>
-          <Paragraph className="text-gray-200 max-w-3xl mx-auto mb-10 text-xl leading-relaxed">
+          <Paragraph className="text-gray-200 max-w-3xl mb-10 text-xl leading-relaxed text-left">
             Four decades of GLP expertise advancing structural heart, neurovascular, and peripheral vascular innovation. Expert preclinical testing services for medical device development.
           </Paragraph>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+          <div className="flex flex-col sm:flex-row gap-4">
             <Button size="lg" variant="secondary" href="/preclinical-services">Explore Services</Button>
             <Button size="lg" variant="outline" className="text-white border-white hover:bg-white hover:text-navy" href="/facility">View Facility</Button>
           </div>

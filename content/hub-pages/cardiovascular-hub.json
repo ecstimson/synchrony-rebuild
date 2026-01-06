@@ -41,9 +41,9 @@
       },
       {
         "icon_name": "Zap",
-        "title": "Electrophysiology",
-        "description": "Ablation catheter energy delivery characterization and mapping system spatial accuracy validation for arrhythmia treatment.",
-        "link_url": "/areas-of-expertise/cardiovascular/electrophysiology"
+        "title": "Robotics",
+        "description": "Advanced robotic surgical system validation and integration testing for cardiovascular applications including neurovascular, endovascular, abdominal, and thoracic procedures.",
+        "link_url": "/areas-of-expertise/cardiovascular/robotics"
       }
     ]
   },
@@ -101,19 +101,19 @@
       {
         "title": "Gastrointestinal",
         "description": "Bariatric device validation, robotic surgical platform assessment, and tissue sealant characterization address unique challenges in digestive system applications requiring specialized protocols beyond cardiovascular expertise.",
-        "cta_text": "Explore Gastrointestinal â†’",
+        "cta_text": "Explore Gastrointestinal",
         "cta_url": "/areas-of-expertise/gastrointestinal"
       },
       {
         "title": "Neurological",
         "description": "Hydrocephalus shunt validation, dural sealant assessment, and spinal nerve stimulation protocols address central nervous system device requirements distinct from cardiovascular applications.",
-        "cta_text": "Explore Neurological â†’",
+        "cta_text": "Explore Neurological",
         "cta_url": "/areas-of-expertise/neurological"
       },
       {
         "title": "Musculoskeletal",
         "description": "Osteoarthritis model development and bone healing assessment provide validated platforms for orthopedic device evaluation addressing biomechanical requirements beyond cardiovascular scope.",
-        "cta_text": "Explore Musculoskeletal â†’",
+        "cta_text": "Explore Musculoskeletal",
         "cta_url": "/areas-of-expertise/musculoskeletal"
       }
     ]
